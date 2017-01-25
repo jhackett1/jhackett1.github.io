@@ -1,0 +1,26 @@
+<!-- Site footer -->
+<footer class="site-footer">
+
+  <!-- Social media icons -->
+  <ul class="social-media-list">
+    {% if site.github_username %}
+    <li>
+      {% include icon-github.html username=site.github_username %}
+    </li>
+    {% endif %}
+    {% if site.twitter_username %}
+    <li>
+      {% include icon-twitter.html username=site.twitter_username %}
+    </li>
+    {% endif %}
+  </ul>
+
+  <!-- Site logo -->
+  <img />
+
+  <!-- Contact email link -->
+  {% if site.email %}
+  <a class="contact-link" href="mailto:{{ site.email }}">{{ site.email }}</a>
+  {% endif %}
+
+</footer>

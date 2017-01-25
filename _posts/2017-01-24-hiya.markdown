@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Yoho!"
+date:   2017-01-24 23:36:20 +0000
+categories: jekyll hiya
+---
+This is an example blog post
