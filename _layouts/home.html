@@ -1,12 +1,7 @@
----
-layout: default
----
+{% include header.html %}
 
-<div class="home">
-
-
+<article class="home">
   {{ content }}
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -18,23 +13,6 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+</article>
 
-
-
-  <ul class="post-list">
-    {% for portfolio in site.portfolio %}
-      <li>
-        <span class="post-meta">{{ portfolio.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ portfolio.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
-</div>
+{% include footer.html %}

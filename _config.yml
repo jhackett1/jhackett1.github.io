@@ -21,13 +21,6 @@ url: "http://joshuahackett.com" # the base hostname & protocol for your site, e.
 twitter_username: dinosaurlord
 github_username:  jhackett1
 
-
-collections:
-  portfolio:
-    label: "Work"
-    output: true
-    permalink: /work/:path/:title.:output_ext
-
 # Build settings
 markdown: kramdown
 #theme: minima
