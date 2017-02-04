@@ -20,6 +20,7 @@ h1, h2, h3, h4, h5
   color: $dark-text
 
 // Layout
+
 header
   display: flex
   flex-direction: column
@@ -37,7 +38,23 @@ footer
   flex-direction: row
   align-items: center
   justify-content: space-between
+  padding: 10px
+  margin-top: 10px
+  background-color: #f6f6f6
 
+  img
+    max-width: 60px
+
+nav.site-nav
+  a
+    text-transform: uppercase
+    font-weight: 600
+    color: $light-text
+
+
+
+// Homepage
+  // Hero section
 
 section.hero
   height: 100vh
@@ -49,6 +66,8 @@ section.hero
   flex-direction: column
   justify-content: center
   align-items: center
+  margin-bottom: 10px
+  position: relative
 
   hr
     width: 70px
@@ -60,8 +79,21 @@ section.hero
     max-width: 180px
     margin: 10px
 
+  h1
+    font-size: 2.2em
+
   h2
     font-size: 0.9em
     color: $light-text
     font-weight: 100
     margin: 10px
+    max-width: 250px
+    text-align: center
+
+  nav.site-nav
+    position: absolute
+    right: 10px
+    top: 10px
+
+    a
+      margin-left: 20px
