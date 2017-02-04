@@ -27,3 +27,10 @@ section.hero h1 { font-size: 2.2em; }
 section.hero h2 { font-size: 0.9em; color: #969696; font-weight: 100; margin: 10px; max-width: 250px; text-align: center; }
 section.hero nav.site-nav { position: absolute; right: 10px; top: 10px; }
 section.hero nav.site-nav a { margin-left: 20px; }
+
+section.post-grid { width: 100%; }
+section.post-grid div.row { display: flex; flex-direction: row; }
+section.post-grid div.row article.tile:nth-child(odd) { background-color: #dfdfdf; }
+section.post-grid div.row article.tile:nth-child(even) { background-color: #efefef; }
+section.post-grid div.row article.tile { width: 50vw; height: 50vh; }
+section.post-grid div.row article.tile.wide { width: 100vw; height: 50vh; }

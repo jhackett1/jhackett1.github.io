@@ -97,3 +97,26 @@ section.hero
 
     a
       margin-left: 20px
+
+  //Post grid
+
+section.post-grid
+  width: 100%
+
+  div.row
+    display: flex
+    flex-direction: row
+
+    article.tile:nth-child(odd)
+      background-color: #dfdfdf
+
+    article.tile:nth-child(even)
+      background-color: #efefef
+
+    article.tile
+      width: 50vw
+      height: 50vh
+
+    article.tile.wide
+      width: 100vw
+      height: 50vh
