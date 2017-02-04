@@ -1,0 +1,39 @@
+{% include header.html %}
+
+<article class="page me">
+
+  <!-- Media object -->
+  <section class="profile">
+    <!-- Picture -->
+    <img class="profile-image" src="/images/me.jpg"/>
+    <!-- Headline and title -->
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <hr />
+    {{ page.intro | escape }}
+  </section>
+
+  <!-- Content columns -->
+  <section class="content">
+    <aside>
+      <h3>Profile</h3>
+      {{ content }}
+    </aside>
+    <aside>
+      <h3>Quick facts</h3>
+      <ul class="quick-facts">
+      {% for quick-facts in page.quick-facts %}
+        <li>
+          {{ quick-facts }}
+        </li>
+      {% endfor %}
+      </ul>
+    </aside>
+  </section>
+
+  <!-- Buttons -->
+  <a class="button" href="#">Download CV</a>
+  <a class="button" href="mailto:{{ site.email }}">Email me</a>
+
+</article>
+
+{% include footer.html %}

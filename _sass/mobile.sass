@@ -22,28 +22,62 @@ h1, h2, h3, h4, h5
 // Layout
 
 header
-  display: flex
-  flex-direction: column
-  align-items: center
+  background-color: #f6f6f6
+
+  div.container
+    width: $fixed-width
+    margin: 0 auto
+    display: flex
+    flex-direction: row
+    align-items: center
+    justify-content: space-between
 
   a.site-title
-    font-size: 200%
+    img
+      max-width: 65px
+      margin: 10px 0px
 
 article
   max-width: $fixed-width
   margin: 0 auto
 
 footer
-  display: flex
-  flex-direction: row
-  align-items: center
-  justify-content: space-between
-  padding: 10px
-  margin-top: 10px
+  padding: 20px
   background-color: #f6f6f6
+  position: relative
+
+  div.social-links
+    display: flex
+    flex-direction: row
+    position: absolute
+    left: 20px
+    top: 35px
+    a
+      border-radius: 60px
+      display: flex
+      justify-content: center
+      align-items: center
+      width: 30px
+      height: 30px
+      margin-right: 10px
+      background-color: #efefef
+      color: $light-text
+    a:hover
+      text-decoration: none
+      background-color: #dfdfdf
 
   img
     max-width: 60px
+    display: block
+    margin: 0 auto
+
+  a.contact-link
+    position: absolute
+    right: 20px
+    top: 40px
+    text-transform: uppercase
+    color: $light-text
+    font-weight: 600
 
 nav.site-nav
   a
@@ -66,7 +100,6 @@ section.hero
   flex-direction: column
   justify-content: center
   align-items: center
-  margin-bottom: 10px
   position: relative
 
   hr
@@ -116,7 +149,31 @@ section.post-grid
     article.tile
       width: 50vw
       height: 50vh
+      position: relative
+      display: flex
+      flex-direction: column
+      justify-content: center
+      align-items: center
+
+      hr
+        width: 50px
+        margin: 10px auto
+        border: 1px solid $dark-text
+
+      h2
+        text-align: center
+
+      p
+        color: $light-text
+        text-align: center
 
     article.tile.wide
       width: 100vw
       height: 50vh
+
+// Me page
+
+article.me
+  img
+    max-width: 200px
+    border-radius: 100px

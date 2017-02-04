@@ -1,5 +1,6 @@
 {% include header-home.html %}
 
+<!-- Hero section -->
 <section class="hero">
   <img class="site-logo" src="/images/logo.png" alt="Joshua Hackett"/>
   <h1 class="site-title">{{ site.title | escape }}</h1>
@@ -14,32 +15,21 @@
   </nav>
 </section>
 
-
+<!-- Post grid -->
 <section class="post-grid">
   <div class="row">
-    <article class="tile wide">Tile 1</article>
-    <article class="tile">Tile 2</article>
-    <article class="tile">Tile 3</article>
+    {% for post in site.posts %}
+      {% if forloop.first %}
+        </div>
+        <div class="row">
+      {% endif %}
+      <article class="tile wide">
+        <h2>{{ post.title | escape }}</h2>
+        <hr />
+        <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+      </article>
+    {% endfor %}
   </div>
 </section>
-
-
-
-
-
-<article class="home">
-  {{ content }}
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-</article>
 
 {% include footer.html %}

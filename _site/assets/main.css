@@ -10,17 +10,22 @@ a:hover { text-decoration: underline; }
 
 h1, h2, h3, h4, h5 { font-family: "Museo Slab", museo-slab, museo slab, serif; color: #505050; }
 
-header { display: flex; flex-direction: column; align-items: center; }
-header a.site-title { font-size: 200%; }
+header { background-color: #f6f6f6; }
+header div.container { width: 1000px; margin: 0 auto; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; }
+header a.site-title img { max-width: 65px; margin: 10px 0px; }
 
-article { max-width: 800px; margin: 0 auto; }
+article { max-width: 1000px; margin: 0 auto; }
 
-footer { display: flex; flex-direction: row; align-items: center; justify-content: space-between; padding: 10px; margin-top: 10px; background-color: #f6f6f6; }
-footer img { max-width: 60px; }
+footer { padding: 20px; background-color: #f6f6f6; position: relative; }
+footer div.social-links { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; position: absolute; left: 20px; top: 35px; }
+footer div.social-links a { border-radius: 60px; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 30px; height: 30px; margin-right: 10px; background-color: #efefef; color: #969696; }
+footer div.social-links a:hover { text-decoration: none; background-color: #dfdfdf; }
+footer img { max-width: 60px; display: block; margin: 0 auto; }
+footer a.contact-link { position: absolute; right: 20px; top: 40px; text-transform: uppercase; color: #969696; font-weight: 600; }
 
 nav.site-nav a { text-transform: uppercase; font-weight: 600; color: #969696; }
 
-section.hero { height: 100vh; width: 100vw; background-color: #f6f6f6; background-size: cover; background-position: center center; display: flex; flex-direction: column; justify-content: center; align-items: center; margin-bottom: 10px; position: relative; }
+section.hero { height: 100vh; width: 100vw; background-color: #f6f6f6; background-size: cover; background-position: center center; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; position: relative; }
 section.hero hr { width: 70px; margin: 10px auto; border: 2px solid #EE4848; }
 section.hero img.site-logo { text-align: center; max-width: 180px; margin: 10px; }
 section.hero h1 { font-size: 2.2em; }
@@ -29,8 +34,13 @@ section.hero nav.site-nav { position: absolute; right: 10px; top: 10px; }
 section.hero nav.site-nav a { margin-left: 20px; }
 
 section.post-grid { width: 100%; }
-section.post-grid div.row { display: flex; flex-direction: row; }
+section.post-grid div.row { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; }
 section.post-grid div.row article.tile:nth-child(odd) { background-color: #dfdfdf; }
 section.post-grid div.row article.tile:nth-child(even) { background-color: #efefef; }
-section.post-grid div.row article.tile { width: 50vw; height: 50vh; }
+section.post-grid div.row article.tile { width: 50vw; height: 50vh; position: relative; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; }
+section.post-grid div.row article.tile hr { width: 50px; margin: 10px auto; border: 1px solid #505050; }
+section.post-grid div.row article.tile h2 { text-align: center; }
+section.post-grid div.row article.tile p { color: #969696; text-align: center; }
 section.post-grid div.row article.tile.wide { width: 100vw; height: 50vh; }
+
+article.me img { max-width: 200px; border-radius: 100px; }

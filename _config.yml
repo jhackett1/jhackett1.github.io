@@ -18,8 +18,9 @@ email: hello@joshuahackett.com
 description: I'm a journalist, digital content producer & coder based in London.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://joshuahackett.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dinosaurlord
-github_username:  jhackett1
+twitter_url: http://twitter.com/dinosaurlord
+github_url:  http://github.com/jhackett1
+linkedin_url: http://www.linkedin.com/in/hackettjoshua
 
 # Build settings
 markdown: kramdown
@@ -27,6 +28,7 @@ markdown: kramdown
 gems:
   - jekyll-feed
   - jekyll-paginate
+  - octopress-autoprefixer
 exclude:
   - Gemfile
   - Gemfile.lock

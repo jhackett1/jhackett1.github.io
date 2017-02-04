@@ -3,9 +3,9 @@
 
   <!-- Social links -->
   <div class="social-links">
-    <a href="#"><i class="fa fa-twitter"></i></a>
-    <a href="#"><i class="fa fa-linkedin"></i></a>
-    <a href="#"><i class="fa fa-instagram"></i></a>
+    {% if site.twitter_url %}<a target="blank" href="{{ site.twitter_url }}"><i class="fa fa-twitter"></i></a>  {% endif %}
+    {% if site.linkedin_url %}<a target="blank" href="{{ site.linkedin_url }}"><i class="fa fa-linkedin"></i></a>  {% endif %}
+    {% if site.github_url %}<a target="blank" href="{{ site.github_url }}"><i class="fa fa-github"></i></a>  {% endif %}
   </div>
 
   <!-- Site logo -->
@@ -18,7 +18,7 @@
 
 </footer>
 
-
+<!-- Scripts -->
 {% include typekit.html %}
 {% include analytics.html %}
 </body>
