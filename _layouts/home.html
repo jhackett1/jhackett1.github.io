@@ -1,4 +1,12 @@
-{% include header.html %}
+{% include header-home.html %}
+
+<section class="hero" style="background-image:url('/images/hero.jpg')">
+  <img class="site-logo" src="/images/logo.png" alt="Joshua Hackett"/>
+  <h1 class="site-title">{{ site.title | escape }}</h1>
+  <hr/>
+  <h2 class="site-desc">{{ site.description | escape }}</h2>
+
+</section>
 
 <article class="home">
   {{ content }}

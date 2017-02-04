@@ -1,3 +1,23 @@
-header, footer, div, article, main, aside, img, ul, li, h1, h2, h3, h4, h5, p, a { margin: 0; padding: 0; box-sizing: border-box; }
+body, header, footer, div, article, main, aside, img, ul, li, h1, h2, h3, h4, h5, p, a { margin: 0; padding: 0; box-sizing: border-box; }
 
 ul { list-style-type: none; }
+
+p, a, li { font-family: "Source Sans Pro", source-sans-pro, source sans pro, sans serif; color: #505050; }
+
+a { color: #EE4848; text-decoration: none; }
+
+a:hover { text-decoration: underline; }
+
+h1, h2, h3, h4, h5 { font-family: "Museo Slab", museo-slab, museo slab, serif; color: #505050; }
+
+header { display: flex; flex-direction: column; align-items: center; }
+header a.site-title { font-size: 200%; }
+
+article { max-width: 800px; margin: 0 auto; }
+
+footer { display: flex; flex-direction: row; align-items: center; justify-content: space-between; }
+
+section.hero { height: 100vh; width: 100vw; background-color: #f6f6f6; background-size: cover; background-position: center center; display: flex; flex-direction: column; justify-content: center; align-items: center; }
+section.hero hr { width: 70px; margin: 10px auto; border: 2px solid #EE4848; }
+section.hero img.site-logo { text-align: center; max-width: 180px; margin: 10px; }
+section.hero h2 { font-size: 0.9em; color: #969696; font-weight: 100; margin: 10px; }
