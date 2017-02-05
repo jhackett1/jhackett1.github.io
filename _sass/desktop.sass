@@ -67,10 +67,6 @@
         width: 50vw
         padding: 25px
 
-        div.dots
-          right: 25px
-          bottom: 25px
-
         ul.slider
           li
             h3
@@ -85,3 +81,35 @@
   article.post
     h1.post-title
       font-size: 4em
+
+// Special stuff for the big screen weirdos
+@media screen and (min-width: 1500px)
+
+  // Create a grid layout for post-grid
+  section.post-grid
+    div.row
+      article.tile
+          hr
+            width: 60px
+            border: 2px solid #f6f6f6
+
+          h2
+            font-size: 3em
+
+          p
+            font-size: 1.3em
+
+      article.tile.testimonials
+        width: 50vw
+        padding: 35px
+
+        ul.slider
+          li
+            h3
+              font-size: 5em
+
+            h4
+              font-size: 4em
+
+            h5
+              font-size: 2em
