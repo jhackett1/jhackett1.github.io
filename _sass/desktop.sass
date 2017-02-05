@@ -51,20 +51,18 @@
   // Create a grid layout for post-grid
   section.post-grid
     width: 100%
-
     div.row
-      flex-wrap: no wrap
 
       article.tile
-        width: 25vw
+        width: 25%
         height: 50vh
 
       article.tile.wide
-        width: 50vw
+        width: 50%
         height: 50vh
 
       article.tile.testimonials
-        width: 50vw
+        width: 50%
         padding: 25px
 
         ul.slider
@@ -85,19 +83,33 @@
 // Special stuff for the big screen weirdos
 @media screen and (min-width: 1500px)
 
+  section.hero
+    hr
+      border: 3px solid $salmon
+
+    img.site-logo
+      max-width: 230px
+
+    h1
+      font-size: 3em
+
+    h2
+      font-size: 1.1em
+      max-width: 300px
+
   // Create a grid layout for post-grid
   section.post-grid
     div.row
       article.tile
-          hr
-            width: 60px
-            border: 2px solid #f6f6f6
+        hr
+          width: 60px
+          border: 2px solid #f6f6f6
 
-          h2
-            font-size: 3em
+        h2
+          font-size: 3em
 
-          p
-            font-size: 1.3em
+        p
+          font-size: 1.3em
 
       article.tile.testimonials
         width: 50vw
