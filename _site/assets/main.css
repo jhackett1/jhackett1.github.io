@@ -10,11 +10,12 @@ a:hover { text-decoration: underline; }
 
 h1, h2, h3, h4, h5 { font-family: "Museo Slab", museo-slab, museo slab, serif; color: #505050; }
 
+div.container { max-width: 1000px; margin: 0 auto; padding: 0px 10px; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; }
+
 header { background-color: #f6f6f6; }
-header div.container { width: 1000px; margin: 0 auto; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; }
 header a.site-title img { max-width: 65px; margin: 10px 0px; }
 
-article { max-width: 1000px; margin: 0 auto; }
+article.post.page { max-width: 1000px; margin: 0 auto; }
 
 footer { padding: 20px; background-color: #f6f6f6; position: relative; }
 footer div.social-links { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; position: absolute; left: 20px; top: 35px; }
@@ -34,13 +35,22 @@ section.hero nav.site-nav { position: absolute; right: 10px; top: 10px; }
 section.hero nav.site-nav a { margin-left: 20px; }
 
 section.post-grid { width: 100%; }
-section.post-grid div.row { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; }
+section.post-grid div.row { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; -ms-flex-wrap: wrap; flex-wrap: wrap; }
 section.post-grid div.row article.tile:nth-child(odd) { background-color: #dfdfdf; }
 section.post-grid div.row article.tile:nth-child(even) { background-color: #efefef; }
-section.post-grid div.row article.tile { width: 50vw; height: 50vh; position: relative; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; }
-section.post-grid div.row article.tile hr { width: 50px; margin: 10px auto; border: 1px solid #505050; }
-section.post-grid div.row article.tile h2 { text-align: center; }
-section.post-grid div.row article.tile p { color: #969696; text-align: center; }
-section.post-grid div.row article.tile.wide { width: 100vw; height: 50vh; }
+section.post-grid div.row article.tile:hover div.image-holder { -webkit-transform: scale(1.1); transform: scale(1.1); }
+section.post-grid div.row article.tile:hover a.cover { opacity: 1; text-decoration: none; }
+section.post-grid div.row article.tile { width: 50vw; height: calc(100vh/3); position: relative; -webkit-transition: 0.5s; transition: 0.5s; overflow: hidden; }
+section.post-grid div.row article.tile div.image-holder { width: 100%; height: 100%; background-size: cover; background-position: center; -webkit-transition: 0.4s; transition: 0.4s; position: absolute; top: 0; bottom: 0; left: 0; right: 0; z-index: 1; }
+section.post-grid div.row article.tile a.cover { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; background-color: rgba(88, 156, 212, 0.8); width: 100%; height: 100%; opacity: 0; -webkit-transition: 0.2s; transition: 0.2s; cursor: pointer; position: relative; z-index: 2; }
+section.post-grid div.row article.tile a.cover hr { width: 50px; margin: 10px auto; border: 1px solid #f6f6f6; }
+section.post-grid div.row article.tile a.cover h2 { text-align: center; color: #f6f6f6; }
+section.post-grid div.row article.tile a.cover p { color: #969696; text-align: center; color: #f6f6f6; }
+section.post-grid div.row article.tile.wide { width: 100vw; height: calc(100vh/3); }
 
 article.me img { max-width: 200px; border-radius: 100px; }
+
+@media screen and (min-width: 750px) { section.post-grid { width: 100%; }
+  section.post-grid div.row { -ms-flex-wrap: no wrap; flex-wrap: no wrap; }
+  section.post-grid div.row article.tile { width: 25vw; height: 50vh; }
+  section.post-grid div.row article.tile.wide { width: 50vw; height: 50vh; } }

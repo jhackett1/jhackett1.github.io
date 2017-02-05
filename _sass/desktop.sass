@@ -2,3 +2,21 @@
 
 // Get variables
 @import "variables"
+
+// Medium-size screens
+@media screen and (min-width: 750px)
+
+  // Create a grid layout for post-grid
+  section.post-grid
+    width: 100%
+
+    div.row
+      flex-wrap: no wrap
+
+      article.tile
+        width: 25vw
+        height: 50vh
+
+      article.tile.wide
+        width: 50vw
+        height: 50vh

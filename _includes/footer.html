@@ -1,20 +1,22 @@
 <!-- Site footer -->
 <footer class="site-footer">
 
-  <!-- Social links -->
-  <div class="social-links">
-    {% if site.twitter_url %}<a target="blank" href="{{ site.twitter_url }}"><i class="fa fa-twitter"></i></a>  {% endif %}
-    {% if site.linkedin_url %}<a target="blank" href="{{ site.linkedin_url }}"><i class="fa fa-linkedin"></i></a>  {% endif %}
-    {% if site.github_url %}<a target="blank" href="{{ site.github_url }}"><i class="fa fa-github"></i></a>  {% endif %}
-  </div>
 
-  <!-- Site logo -->
-  <img src="/images/footer.png"/>
+    <!-- Social links -->
+    <div class="social-links">
+      {% if site.twitter_url %}<a target="blank" href="{{ site.twitter_url }}"><i class="fa fa-twitter"></i></a>  {% endif %}
+      {% if site.linkedin_url %}<a target="blank" href="{{ site.linkedin_url }}"><i class="fa fa-linkedin"></i></a>  {% endif %}
+      {% if site.github_url %}<a target="blank" href="{{ site.github_url }}"><i class="fa fa-github"></i></a>  {% endif %}
+    </div>
 
-  <!-- Contact email link -->
-  {% if site.email %}
-  <a class="contact-link" href="mailto:{{ site.email }}">{{ site.email }}</a>
-  {% endif %}
+    <!-- Site logo -->
+    <img src="/images/footer.png"/>
+
+    <!-- Contact email link -->
+    {% if site.email %}
+    <a class="contact-link" href="mailto:{{ site.email }}">{{ site.email }}</a>
+    {% endif %}
+
 
 </footer>
 

@@ -21,23 +21,24 @@ h1, h2, h3, h4, h5
 
 // Layout
 
+div.container
+  max-width: $fixed-width
+  margin: 0 auto
+  padding: 0px 10px
+  display: flex
+  flex-direction: row
+  align-items: center
+  justify-content: space-between
+
 header
   background-color: #f6f6f6
-
-  div.container
-    width: $fixed-width
-    margin: 0 auto
-    display: flex
-    flex-direction: row
-    align-items: center
-    justify-content: space-between
 
   a.site-title
     img
       max-width: 65px
       margin: 10px 0px
 
-article
+article.post.page
   max-width: $fixed-width
   margin: 0 auto
 
@@ -139,6 +140,7 @@ section.post-grid
   div.row
     display: flex
     flex-direction: row
+    flex-wrap: wrap
 
     article.tile:nth-child(odd)
       background-color: #dfdfdf
@@ -146,30 +148,67 @@ section.post-grid
     article.tile:nth-child(even)
       background-color: #efefef
 
+
+    article.tile:hover
+
+      div.image-holder
+        transform: scale(1.1)
+
+      a.cover
+        opacity: 1
+        text-decoration: none
+
     article.tile
       width: 50vw
-      height: 50vh
+      height: calc(100vh/3)
       position: relative
-      display: flex
-      flex-direction: column
-      justify-content: center
-      align-items: center
+      transition: 0.5s
+      overflow: hidden
 
-      hr
-        width: 50px
-        margin: 10px auto
-        border: 1px solid $dark-text
+      div.image-holder
+        width: 100%
+        height: 100%
+        background-size: cover
+        background-position: center
+        transition: 0.4s
+        position: absolute
+        top: 0
+        bottom: 0
+        left: 0
+        right: 0
+        z-index: 1
 
-      h2
-        text-align: center
+      a.cover
+        display: flex
+        flex-direction: column
+        justify-content: center
+        align-items: center
+        background-color: rgba(88,156,212,0.8)
+        width: 100%
+        height: 100%
+        opacity: 0
+        transition: 0.2s
+        cursor: pointer
+        position: relative
+        z-index: 2
 
-      p
-        color: $light-text
-        text-align: center
+        hr
+          width: 50px
+          margin: 10px auto
+          border: 1px solid #f6f6f6
+
+        h2
+          text-align: center
+          color: #f6f6f6
+
+        p
+          color: $light-text
+          text-align: center
+          color: #f6f6f6
 
     article.tile.wide
       width: 100vw
-      height: 50vh
+      height: calc(100vh/3)
 
 // Me page
 
