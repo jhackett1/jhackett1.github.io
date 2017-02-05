@@ -35,6 +35,7 @@
       <!-- On fifth post, output the testimonials -->
       {% if forloop.index == 5 %}
         <article class="tile testimonials">
+
           {% for testimonial in site.data.testimonials %}
             <input type="radio" name="slider" id="s{{ forloop.index }}" {% if forloop.first%} checked {% endif%}/><label for="s{{ forloop.index }}"></label>
           {% endfor %}
@@ -43,11 +44,16 @@
             <li id="s{{ forloop.index }}">
               <h3>{{ testimonial.quote }}</h3>
               <h5>{{ testimonial.attr }}</h5>
+              <h4>{{ testimonial.message }}</h4>
             </li>
           {% endfor %}
           </ul>
 
         </article>
+      {% endif %}
+      {% if forloop.index == 3 or forloop.index == 5 or forloop.index == 8 %}
+        </div>
+        <div class="row">
       {% endif %}
       <!-- Stop looping after 11th post -->
       {% if forloop.index == 11 %}

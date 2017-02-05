@@ -49,16 +49,17 @@ section.post-grid div.row article.tile a.cover h2 { text-align: center; color: #
 section.post-grid div.row article.tile a.cover p { color: #969696; text-align: center; color: #f6f6f6; }
 section.post-grid div.row article.tile.wide { width: 100vw; height: calc(100vh/3); }
 section.post-grid div.row article.tile.testimonials { width: 100vw; background-color: #EE4848; padding: 20px; }
-section.post-grid div.row article.tile.testimonials input#s1:checked ~ ul li#s1 { display: block; opacity: 1; -webkit-transition: 1s; transition: 1s; }
-section.post-grid div.row article.tile.testimonials input#s2:checked ~ ul li#s2 { display: block; opacity: 1; -webkit-transition: 1s; transition: 1s; }
-section.post-grid div.row article.tile.testimonials input#s3:checked ~ ul li#s3 { display: block; opacity: 1; -webkit-transition: 1s; transition: 1s; }
-section.post-grid div.row article.tile.testimonials input#s4:checked ~ ul li#s4 { display: block; opacity: 1; -webkit-transition: 1s; transition: 1s; }
+section.post-grid div.row article.tile.testimonials input#s1:checked ~ ul li#s1 { display: block; }
+section.post-grid div.row article.tile.testimonials input#s2:checked ~ ul li#s2 { display: block; }
+section.post-grid div.row article.tile.testimonials input#s3:checked ~ ul li#s3 { display: block; }
+section.post-grid div.row article.tile.testimonials input#s4:checked ~ ul li#s4 { display: block; }
 section.post-grid div.row article.tile.testimonials input[type="radio"] { display: none; }
 section.post-grid div.row article.tile.testimonials input[type="radio"] + label { display: inline-block; width: 17px; height: 17px; background-color: #EE4848; border: 1px solid #f6f6f6; border-radius: 40px; -webkit-transition: 0.1s; transition: 0.1s; margin-right: 5px; cursor: pointer; }
 section.post-grid div.row article.tile.testimonials input[type="radio"]:checked + label { display: inline-block; width: 17px; height: 17px; background-color: #f6f6f6; border: 1px solid #f6f6f6; border-radius: 40px; }
-section.post-grid div.row article.tile.testimonials ul.slider { position: relative; width: 100%; height: 100%; display: block; margin-top: 40px; }
-section.post-grid div.row article.tile.testimonials ul.slider li { width: 100%; height: 100%; display: none; opacity: 0; }
-section.post-grid div.row article.tile.testimonials ul.slider li h3 { font-weight: 100; color: #f6f6f6; font-size: 2.3em; }
+section.post-grid div.row article.tile.testimonials ul.slider { position: relative; width: 100%; height: 100%; display: block; margin-top: 15px; }
+section.post-grid div.row article.tile.testimonials ul.slider li { width: 100%; height: 100%; display: none; }
+section.post-grid div.row article.tile.testimonials ul.slider li h4 { font-weight: 100; color: #f6f6f6; font-size: 1.5em; }
+section.post-grid div.row article.tile.testimonials ul.slider li h3 { font-weight: 100; color: #f6f6f6; font-size: 2em; }
 section.post-grid div.row article.tile.testimonials ul.slider li h5 { font-weight: 100; color: #f6f6f6; font-size: 0.9em; margin-top: 10px; }
 
 article.me img { max-width: 200px; border-radius: 100px; }
@@ -91,5 +92,6 @@ article.post p:first-of-type::first-letter { color: #EE4848; font-family: "Museo
   section.post-grid div.row article.tile.testimonials { width: 50vw; padding: 25px; }
   section.post-grid div.row article.tile.testimonials div.dots { right: 25px; bottom: 25px; }
   section.post-grid div.row article.tile.testimonials ul.slider li h3 { font-size: 3em; }
+  section.post-grid div.row article.tile.testimonials ul.slider li h4 { font-size: 2.3em; }
   section.post-grid div.row article.tile.testimonials ul.slider li h5 { font-size: 1em; }
   article.post h1.post-title { font-size: 4em; } }
