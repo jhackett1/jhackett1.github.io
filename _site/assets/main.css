@@ -27,7 +27,7 @@ footer a.contact-link { text-transform: uppercase; color: #969696; font-weight: 
 
 nav.site-nav a { text-transform: uppercase; font-weight: 600; color: #969696; }
 
-section.hero { height: 100vh; width: 100vw; background-color: #f6f6f6; background-size: cover; background-position: center center; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; position: relative; }
+section.hero { height: 100vh; width: 100%; background-color: #f6f6f6; background-size: cover; background-position: center center; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; position: relative; }
 section.hero hr { width: 70px; margin: 10px auto; border: 2px solid #EE4848; }
 section.hero img.site-logo { text-align: center; max-width: 180px; margin: 10px; }
 section.hero h1 { font-size: 2.2em; }
@@ -100,7 +100,7 @@ article.post p:first-of-type::first-letter { color: #EE4848; font-family: "Museo
   section.post-grid div.row article.tile hr { width: 60px; border: 2px solid #f6f6f6; }
   section.post-grid div.row article.tile h2 { font-size: 3em; }
   section.post-grid div.row article.tile p { font-size: 1.3em; }
-  section.post-grid div.row article.tile.testimonials { width: 50vw; padding: 35px; }
-  section.post-grid div.row article.tile.testimonials ul.slider li h3 { font-size: 5em; }
-  section.post-grid div.row article.tile.testimonials ul.slider li h4 { font-size: 4em; }
-  section.post-grid div.row article.tile.testimonials ul.slider li h5 { font-size: 2em; } }
+  section.post-grid div.row article.tile.testimonials { width: 50%; padding: 35px; }
+  section.post-grid div.row article.tile.testimonials ul.slider li h3 { font-size: 4em; }
+  section.post-grid div.row article.tile.testimonials ul.slider li h4 { font-size: 3em; }
+  section.post-grid div.row article.tile.testimonials ul.slider li h5 { font-size: 1.5em; } }
