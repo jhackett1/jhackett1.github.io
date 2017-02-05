@@ -1,20 +1,26 @@
 {% include header.html %}
 
+{% if page.image %}
+  <section class="featured-image" style="background-image: url('{{ page.image }}')">
+  {% if page.image-credit %}
+      <span class="image-credit"><i class="fa fa-camera"></i> {{ page.image-credit }}</span>
+  {% endif %}
+  </section>
+{% endif %}
+
 <article class="post">
 
   <!-- Media object -->
   <section class="meta">
-    <!-- Headline and title -->
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-    <hr />
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-
-    {{ page.intro | escape }}
+    <span datetime="{{ page.date | date_to_xmlschema }}" class="date">{{ page.date | date: "%b %-d, %Y" }}</span>{% if page.author %} • <span class="author">{{ page.author }}</span>{% endif %}
   </section>
 
   <!-- Content columns -->
   <section class="content">
-      {{ content }}
+    <!-- Headline and title -->
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <hr />
+    {{ content }}
   </section>
 
 </article>

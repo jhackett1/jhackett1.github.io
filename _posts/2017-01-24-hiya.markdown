@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Yoho!"
+title:  "What about those refreshers' fairs, hmm?"
 date:   2017-01-24 23:36:20 +0000
 categories: jekyll hiya
 image: /images/post1.jpg
+image-credit: Joshua Hackett
 ---
 This is an example blog post

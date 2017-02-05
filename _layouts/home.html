@@ -19,12 +19,8 @@
 <section class="post-grid">
   <div class="row">
     {% for post in site.posts %}
-      <!-- Stop looping after 3rd post -->
-      {% if forloop.index == 4 %}
-        {% break %}
-      {% endif %}
       <article class="tile
-      {% if forloop.index == 1 %}
+      {% if forloop.index == 11 or forloop.index == 1 or forloop.index == 6 %}
         wide
       {% endif %}
       ">
@@ -36,6 +32,27 @@
         <div class="image-holder" style="background-image: url('{{ post.image }}')">
         </div>
       </article>
+      <!-- On fifth post, output the testimonials -->
+      {% if forloop.index == 5 %}
+        <article class="tile testimonials">
+          {% for testimonial in site.data.testimonials %}
+            <input type="radio" name="slider" id="s{{ forloop.index }}" {% if forloop.first%} checked {% endif%}/><label for="s{{ forloop.index }}"></label>
+          {% endfor %}
+          <ul class="slider">
+          {% for testimonial in site.data.testimonials %}
+            <li id="s{{ forloop.index }}">
+              <h3>{{ testimonial.quote }}</h3>
+              <h5>{{ testimonial.attr }}</h5>
+            </li>
+          {% endfor %}
+          </ul>
+
+        </article>
+      {% endif %}
+      <!-- Stop looping after 11th post -->
+      {% if forloop.index == 11 %}
+        {% break %}
+      {% endif %}
     {% endfor %}
   </div>
 </section>

@@ -13,16 +13,17 @@ h1, h2, h3, h4, h5 { font-family: "Museo Slab", museo-slab, museo slab, serif; c
 div.container { max-width: 1000px; margin: 0 auto; padding: 0px 10px; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; }
 
 header { background-color: #f6f6f6; }
-header a.site-title img { max-width: 65px; margin: 10px 0px; }
+header a.site-title img { max-width: 65px; margin: 10px 0px; -webkit-transition: 0.1s; transition: 0.1s; }
+header a.site-title img:hover { opacity: 0.9; }
 
-article.post.page { max-width: 1000px; margin: 0 auto; }
+article.post, article.page { max-width: 1000px; margin: 0 auto; }
 
-footer { padding: 20px; background-color: #f6f6f6; position: relative; }
-footer div.social-links { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; position: absolute; left: 20px; top: 35px; }
+footer { padding: 20px; background-color: #f6f6f6; position: relative; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; }
+footer div.social-links { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; }
 footer div.social-links a { border-radius: 60px; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; width: 30px; height: 30px; margin-right: 10px; background-color: #efefef; color: #969696; }
 footer div.social-links a:hover { text-decoration: none; background-color: #dfdfdf; }
-footer img { max-width: 60px; display: block; margin: 0 auto; }
-footer a.contact-link { position: absolute; right: 20px; top: 40px; text-transform: uppercase; color: #969696; font-weight: 600; }
+footer img { max-width: 60px; display: block; margin: 20px auto; }
+footer a.contact-link { text-transform: uppercase; color: #969696; font-weight: 600; }
 
 nav.site-nav a { text-transform: uppercase; font-weight: 600; color: #969696; }
 
@@ -44,13 +45,51 @@ section.post-grid div.row article.tile { width: 50vw; height: calc(100vh/3); pos
 section.post-grid div.row article.tile div.image-holder { width: 100%; height: 100%; background-size: cover; background-position: center; -webkit-transition: 0.4s; transition: 0.4s; position: absolute; top: 0; bottom: 0; left: 0; right: 0; z-index: 1; }
 section.post-grid div.row article.tile a.cover { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; background-color: rgba(88, 156, 212, 0.8); width: 100%; height: 100%; opacity: 0; -webkit-transition: 0.2s; transition: 0.2s; cursor: pointer; position: relative; z-index: 2; }
 section.post-grid div.row article.tile a.cover hr { width: 50px; margin: 10px auto; border: 1px solid #f6f6f6; }
-section.post-grid div.row article.tile a.cover h2 { text-align: center; color: #f6f6f6; }
+section.post-grid div.row article.tile a.cover h2 { text-align: center; color: #f6f6f6; margin: 0px 10px; }
 section.post-grid div.row article.tile a.cover p { color: #969696; text-align: center; color: #f6f6f6; }
 section.post-grid div.row article.tile.wide { width: 100vw; height: calc(100vh/3); }
+section.post-grid div.row article.tile.testimonials { width: 100vw; background-color: #EE4848; padding: 20px; }
+section.post-grid div.row article.tile.testimonials input#s1:checked ~ ul li#s1 { display: block; opacity: 1; -webkit-transition: 1s; transition: 1s; }
+section.post-grid div.row article.tile.testimonials input#s2:checked ~ ul li#s2 { display: block; opacity: 1; -webkit-transition: 1s; transition: 1s; }
+section.post-grid div.row article.tile.testimonials input#s3:checked ~ ul li#s3 { display: block; opacity: 1; -webkit-transition: 1s; transition: 1s; }
+section.post-grid div.row article.tile.testimonials input#s4:checked ~ ul li#s4 { display: block; opacity: 1; -webkit-transition: 1s; transition: 1s; }
+section.post-grid div.row article.tile.testimonials input[type="radio"] { display: none; }
+section.post-grid div.row article.tile.testimonials input[type="radio"] + label { display: inline-block; width: 17px; height: 17px; background-color: #EE4848; border: 1px solid #f6f6f6; border-radius: 40px; -webkit-transition: 0.1s; transition: 0.1s; margin-right: 5px; cursor: pointer; }
+section.post-grid div.row article.tile.testimonials input[type="radio"]:checked + label { display: inline-block; width: 17px; height: 17px; background-color: #f6f6f6; border: 1px solid #f6f6f6; border-radius: 40px; }
+section.post-grid div.row article.tile.testimonials ul.slider { position: relative; width: 100%; height: 100%; display: block; margin-top: 40px; }
+section.post-grid div.row article.tile.testimonials ul.slider li { width: 100%; height: 100%; display: none; opacity: 0; }
+section.post-grid div.row article.tile.testimonials ul.slider li h3 { font-weight: 100; color: #f6f6f6; font-size: 2.3em; }
+section.post-grid div.row article.tile.testimonials ul.slider li h5 { font-weight: 100; color: #f6f6f6; font-size: 0.9em; margin-top: 10px; }
 
 article.me img { max-width: 200px; border-radius: 100px; }
 
-@media screen and (min-width: 750px) { section.post-grid { width: 100%; }
+section.featured-image { width: 100vw; height: 40vh; background-size: cover; background-position: center; position: relative; }
+section.featured-image span.image-credit { position: absolute; right: 0px; bottom: 0px; padding: 5px; background-color: rgba(255, 255, 255, 0.5); font-family: "Source Sans Pro", source-sans-pro, source sans pro, sans serif; color: #505050; font-size: 0.8em; }
+
+article.post { padding: 10px; position: relative; }
+article.post section.meta { position: absolute; top: -30px; left: 0px; background-color: #ffffff; padding: 10px; color: #969696; }
+article.post section.meta span { font-family: "Source Sans Pro", source-sans-pro, source sans pro, sans serif; text-transform: uppercase; font-weight: 600; font-size: 0.9em; }
+article.post section.meta span.date { color: #969696; }
+article.post section.meta span.author { color: #EE4848; }
+article.post h1.post-title { font-size: 2.5em; margin: 10px 0px; }
+article.post hr { width: 50px; margin: 20px 0px; border: 1px solid #EE4848; }
+article.post p { margin-bottom: 20px; max-width: 600px; }
+article.post p:first-of-type::first-letter { color: #EE4848; font-family: "Museo Slab", museo-slab, museo slab, serif; font-weight: 100; font-size: 425%; float: left; margin-right: 5px; line-height: 95%; margin-bottom: -10px; }
+
+@media screen and (min-width: 600px) { footer { padding: 20px; background-color: #f6f6f6; position: relative; display: block; }
+  footer div.social-links { position: absolute; left: 20px; top: 35px; }
+  footer img { margin: 0 auto; }
+  footer a.contact-link { position: absolute; right: 20px; top: 40px; }
+  section.featured-image { height: 70vh; }
+  article.post section.meta span { font-size: 1em; }
+  article.post h1.post-title { font-size: 3em; margin: 15px 0px; }
+  article.post hr { border: 2px solid #EE4848; margin: 30px 0px; } }
+@media screen and (min-width: 850px) { section.post-grid { width: 100%; }
   section.post-grid div.row { -ms-flex-wrap: no wrap; flex-wrap: no wrap; }
   section.post-grid div.row article.tile { width: 25vw; height: 50vh; }
-  section.post-grid div.row article.tile.wide { width: 50vw; height: 50vh; } }
+  section.post-grid div.row article.tile.wide { width: 50vw; height: 50vh; }
+  section.post-grid div.row article.tile.testimonials { width: 50vw; padding: 25px; }
+  section.post-grid div.row article.tile.testimonials div.dots { right: 25px; bottom: 25px; }
+  section.post-grid div.row article.tile.testimonials ul.slider li h3 { font-size: 3em; }
+  section.post-grid div.row article.tile.testimonials ul.slider li h5 { font-size: 1em; }
+  article.post h1.post-title { font-size: 4em; } }
