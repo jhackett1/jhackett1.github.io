@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Obama Inaugural Address"
-categories: speeches
+categories: speeches blog
 ---
 
 # Inaugural Address

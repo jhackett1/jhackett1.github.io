@@ -6,6 +6,18 @@
 // Tablets
 @media screen and (min-width: 600px)
 
+  // Category page
+  section.category-tiles
+    display: flex
+    flex-direction: row
+    flex-wrap: wrap
+
+    article.category-tile:nth-child(odd)
+      margin-right: 10px
+
+    article.category-tile
+      width: calc(50% - 5px)
+
   // Make a desktop-friendly footer
 
   footer
@@ -45,8 +57,26 @@
       border: 2px solid $salmon
       margin: 30px 0px
 
+  // Page layout
+  article.page
+    h1.page-title
+      font-size: 3em
+      margin: 15px 0px
 
 @media screen and (min-width: 850px)
+
+  // Category page
+  section.category-tiles
+    display: flex
+    flex-direction: row
+    flex-wrap: wrap
+
+    article.category-tile:nth-child(3n+3)
+      margin-right: 0px
+
+    article.category-tile
+      width: calc(33.3% - 10px)
+      margin-right: 10px
 
   // Create a grid layout for post-grid
   section.post-grid
@@ -79,6 +109,34 @@
   article.post
     h1.post-title
       font-size: 4em
+
+  article.page.me
+    h1.page-title
+      font-size: 5em
+
+  article.page
+    h1.page-title
+      font-size: 4em
+
+    section.media
+      display: flex
+      flex-direction: row
+      justify-content: center
+      align-items: center
+
+      img
+        margin: 20px 30px 20px 0px
+        height: 150px
+
+
+  section.columns
+    display: flex
+    flex-direction: row
+    margin-top: 30px
+
+    aside:first-of-type
+      margin-right: 50px
+      width: 50%
 
 // Special stuff for the big screen weirdos
 @media screen and (min-width: 1500px)

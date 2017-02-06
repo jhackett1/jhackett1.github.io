@@ -1,0 +1,28 @@
+{% include header.html %}
+
+<article class="page category">
+
+  <!-- Content columns -->
+  <section class="content">
+    <!-- Headline and title -->
+    <h1 class="page-title">{{ page.title | escape }}</h1>
+    <hr />
+
+    <section class="category-tiles">
+      {% for post in site.categories.[page.category] %}
+        <article class="category-tile">
+          <div class="image-holder" style="background-image: url('{{ post.image }}')">
+          </div>
+          <h2>{{post.title}}</h2>
+          <h5>{{ post.categories  | join:', ' | append:''  }}</h5>
+          <a class="cover" href="{{post.url}}"></a>
+        </article>
+      {% endfor %}
+    </section>
+  </section>
+
+</article>
+
+
+
+{% include footer.html %}

@@ -2,17 +2,12 @@
 
 <article class="page">
 
-  <!-- Media object -->
-  <section class="meta">
-    <!-- Headline and title -->
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-    <hr />
-    {{ page.intro | escape }}
-  </section>
-
   <!-- Content columns -->
   <section class="content">
-      {{ content }}
+    <!-- Headline and title -->
+    <h1 class="page-title">{{ page.title | escape }}</h1>
+    <hr />
+    {{ content }}
   </section>
 
 </article>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Address to the Nation"
-categories: speeches
+categories: speeches blog
 speaker: "George W. Bush"
 ---
 

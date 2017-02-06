@@ -1,0 +1,48 @@
+{% include header.html %}
+
+{% if page.image %}
+  <section class="featured-image" style="background-image: url('{{ page.image }}')">
+  {% if page.image-credit %}
+      <span class="image-credit"><i class="fa fa-camera"></i> {{ page.image-credit }}</span>
+  {% endif %}
+  </section>
+{% endif %}
+
+<article class="post">
+
+  <!-- Media object -->
+  <section class="meta">
+    <span datetime="{{ page.date | date_to_xmlschema }}" class="date">{{ page.date | date: "%b %-d, %Y" }}</span>{% if page.categories %} • <span class="author">{{ page.categories  | join:', ' | append:''  }}</span>{% endif %}
+  </section>
+
+  <!-- Content columns -->
+  <section class="content">
+    <!-- Headline and title -->
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <hr />
+
+
+    <section class="columns">
+      <aside>
+        <h3>Profile</h3>
+        <p class="no-drop-cap">{{ page.outline }}</p>
+      </aside>
+      <aside>
+        <h3>Quick facts</h3>
+        <ul class="quick-facts">
+        {% for quick-facts in page.quick-facts %}
+          <li>
+            {{ quick-facts }}
+          </li>
+        {% endfor %}
+        </ul>
+      </aside>
+    </section>
+
+
+    {{ content }}
+  </section>
+
+</article>
+
+{% include footer.html %}

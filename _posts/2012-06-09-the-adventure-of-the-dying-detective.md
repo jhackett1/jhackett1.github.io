@@ -2,7 +2,7 @@
 layout: post
 title: "The Adventure of the Dying Detective"
 author: "Arthur Conan Doyle"
-categories: literature
+categories: literature work
 ---
 
 # The Adventure of the Dying Detective

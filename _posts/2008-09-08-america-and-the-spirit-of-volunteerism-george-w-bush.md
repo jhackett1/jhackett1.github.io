@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "America and the Spirit of Volunteerism"
-categories: speeches
+categories: speeches blog
 speaker: "George W. Bush"
 ---
 

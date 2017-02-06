@@ -23,11 +23,20 @@
       {% if forloop.index == 11 or forloop.index == 1 or forloop.index == 6 %}
         wide
       {% endif %}
+      {% if post.categories contains "work" %}
+        work
+      {% endif %}
       ">
         <a class="cover" href="{{ post.url }}">
           <h2>{{ post.title | escape }}</h2>
           <hr />
-          <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+          <p>
+            {% if post.categories contains "work" %}
+              {{ post.categories  | join:', ' | append:''  }}
+            {% else %}
+              {{ post.date | date: "%b %-d, %Y" }}
+            {% endif %}
+          </p>
         </a>
         <div class="image-holder" style="background-image: url('{{ post.image }}')">
         </div>

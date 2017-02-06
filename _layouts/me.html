@@ -2,33 +2,37 @@
 
 <article class="page me">
 
-  <!-- Media object -->
-  <section class="profile">
-    <!-- Picture -->
-    <img class="profile-image" src="/images/me.jpg"/>
-    <!-- Headline and title -->
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-    <hr />
-    {{ page.intro | escape }}
-  </section>
+    <!-- Content columns -->
+    <section class="content">
+      <!-- Headline and title -->
+      <h1 class="page-title">Hello, I'm Joshua!</h1>
+      <hr />
+      <section class="media">
+        <!-- Picture -->
+        <img class="profile-image" src="/images/me.jpg"/>
+        <aside>
+          <h5 class="outline">{{ page.outline | escape }}</h5>
+        </aside>
+      </section>
 
-  <!-- Content columns -->
-  <section class="content">
-    <aside>
-      <h3>Profile</h3>
-      {{ content }}
-    </aside>
-    <aside>
-      <h3>Quick facts</h3>
-      <ul class="quick-facts">
-      {% for quick-facts in page.quick-facts %}
-        <li>
-          {{ quick-facts }}
-        </li>
-      {% endfor %}
-      </ul>
-    </aside>
-  </section>
+      <section class="columns">
+        <aside>
+          <h3>Profile</h3>
+          {{ content }}
+        </aside>
+        <aside>
+          <h3>Quick facts</h3>
+          <ul class="quick-facts">
+          {% for quick-facts in page.quick-facts %}
+            <li>
+              {{ quick-facts }}
+            </li>
+          {% endfor %}
+          </ul>
+        </aside>
+      </section>
+
+    </section>
 
   <!-- Buttons -->
   <a class="button" href="#">Download CV</a>
