@@ -94,7 +94,7 @@ article.post h1.post-title { font-size: 2.5em; margin: 10px 0px; }
 article.post hr { width: 50px; margin: 20px 0px; border: 1px solid #EE4848; }
 article.post img { max-width: 100%; height: auto; margin-bottom: 20px; }
 article.post p { margin-bottom: 20px; max-width: 600px; }
-article.post p:first-of-type::first-letter { color: #EE4848; font-family: "Museo Slab", museo-slab, museo slab, serif; font-weight: 100; font-size: 425%; float: left; margin-right: 5px; line-height: 95%; margin-bottom: -10px; }
+article.post p.drop-cap:first-of-type::first-letter { color: #EE4848; font-family: "Museo Slab", museo-slab, museo slab, serif; font-weight: 100; font-size: 425%; float: left; margin-right: 5px; line-height: 95%; margin-bottom: -10px; }
 
 section.category-tiles article.category-tile:hover div.image-holder { opacity: 0.95; }
 section.category-tiles article.category-tile { margin: 40px 0px; position: relative; }
@@ -117,7 +117,7 @@ section.category-tiles article.category-tile a.cover { top: 0; bottom: 0; left: 
   article.page h1.page-title { font-size: 3em; margin: 15px 0px; } }
 @media screen and (min-width: 850px) { section.category-tiles { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; -ms-flex-wrap: wrap; flex-wrap: wrap; }
   section.category-tiles article.category-tile:nth-child(3n+3) { margin-right: 0px; }
-  section.category-tiles article.category-tile { width: calc(33.3% - 10px); margin-right: 10px; }
+  section.category-tiles article.category-tile { width: calc(33.3% - 7px); margin-right: 10px; }
   section.post-grid { width: 100%; }
   section.post-grid div.row article.tile { width: 25%; height: 50vh; }
   section.post-grid div.row article.tile.wide { width: 50%; height: 50vh; }

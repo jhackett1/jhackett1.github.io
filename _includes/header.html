@@ -12,18 +12,8 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
+
+  {% include social.html %}
+
 </head>
 <body>
-
-<header class="site-header">
-  <div class="container">
-    <a class="site-title" href="{{ "/" | relative_url}}"><img src="/images/logo.png" alt="{{ site.title | escape }}"/></a>
-    <nav class="site-nav">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-          {% endif %}
-        {% endfor %}
-    </nav>
-  </div>
-</header>
