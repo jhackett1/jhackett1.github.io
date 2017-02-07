@@ -2,15 +2,15 @@
 layout: me
 title: Me
 permalink: /me/
-outline: I’m a multimedia journalist and designer for hire. With a background in communications and media, studying Broadcast Journalism at the University of Sheffield.
+outline: I'm a multimedia journalist and digital content producer. I studied Broadcast Journalism at the University of Sheffield, and have a background in communications and student media mentoring.
 quick-facts:
-  - Three years journalistic experience
+  - Three years of journalistic experience
   - Mentoring & teaching experience
   - Massive theatre and photography nerd
 ---
 
-Drinking vinegar organic wayfarers, vice typewriter everyday carry XOXO franzen ugh affogato flannel helvetica. Ethical microdosing neutra post-ironic, kickstarter jean shorts fam butcher migas tousled put a bird on it mustache tumeric. Coloring book yuccie single-origin coffee 90's tbh butcher venmo, semiotics godard distillery.
+Originally studying Biology at the University of Sheffield, I got heavily involved in student media. From there, I studied a postgrad degree in Broadcast Journalism, freelanced, mixed up with an assortment of content generation and digital comms roles. I currently mentor student journalists down in London.
 
-Lo-fi tousled pop-up YOLO gluten-free enamel pin, edison bulb organic meh authentic iceland. Paleo dreamcatcher cliche prism, small batch occupy pabst salvia af vape distillery next level forage enamel pin. Bicycle rights iceland helvetica poutine, banjo etsy edison bulb put a bird on it. Cred offal mixtape four loko plaid vape af, sriracha cornhole venmo schlitz hell of kinfolk pok pok fanny pack.
+Alongside that, I'm a self-taught frontend web developer, especially fluent with Wordpress theming and static site generators like Jekyll (which this site is made of!) I'm capable to various degrees in PHP, JS (vanilla and jQuery), Ruby and Python.
 
-Flannel cliche banjo lo-fi, mumblecore chicharrones knausgaard la croix kombucha subway tile intelligentsia messenger bag master cleanse four loko. Fixie viral banh mi, +1 whatever ramps banjo YOLO readymade wayfarers twee mustache.
+I'm a keen photographer with too many rolls of 35mm film waiting to be developed, and I know all the best theatres in London. [*Camelot: The Shining City*](https://www.google.co.uk/search?q=camelot+shining+city&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiy5a774_zRAhUcOsAKHQ6ZBLoQ_AUICigD&biw=1280&bih=635) is the best thing I've ever seen on a stage (or off one).

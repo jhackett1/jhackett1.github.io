@@ -6,6 +6,49 @@
 // Tablets
 @media screen and (min-width: 600px)
 
+  nav.site-nav
+    a
+      margin-left: 20px
+      margin-right: 0px
+
+  div.previous-next.visible
+    a.prev
+      left: 0px
+    a.next
+      right: 0px
+
+  div.previous-next
+    display: block
+
+    a
+      font-size: 2em
+      z-index: 9
+      background-color: #f6f6f6
+      transition: 0.1s
+      top: 50%
+      position: fixed
+      transform: translateY(-50%)
+      display: flex
+      align-items: center
+      justify-content: center
+      width: 60px
+      height: 60px
+
+    a.prev
+      left: -60px
+
+
+    a.prev:hover
+      text-decoration: none
+      width: 70px
+
+    a.next
+      right: -60px
+
+    a.next:hover
+      text-decoration: none
+      width: 70px
+
   // Category page
   section.category-tiles
     display: flex
@@ -81,30 +124,35 @@
   // Create a grid layout for post-grid
   section.post-grid
     width: 100%
-    div.row
 
-      article.tile
-        width: 25%
-        height: 50vh
+    article.tile
+      width: 25%
+      height: 50vh
 
-      article.tile.wide
-        width: 50%
-        height: 50vh
+      a.cover
+        h2
+          font-size: 1.5em
+        p
+          font-size: 1em
 
-      article.tile.testimonials
-        width: 50%
-        padding: 25px
+    article.tile.wide
+      width: 50%
+      height: 50vh
 
-        ul.slider
-          li
-            h3
-              font-size: 3em
+    article.tile.testimonials
+      width: 50%
+      padding: 25px
 
-            h4
-              font-size: 2.3em
+      ul.slider
+        li
+          h3
+            font-size: 3em
 
-            h5
-              font-size: 1em
+          h4
+            font-size: 2.3em
+
+          h5
+            font-size: 1em
 
   article.post
     h1.post-title
@@ -126,7 +174,6 @@
 
       img
         margin: 20px 30px 20px 0px
-        height: 150px
 
 
   section.columns
@@ -157,29 +204,28 @@
 
   // Create a grid layout for post-grid
   section.post-grid
-    div.row
-      article.tile
-        hr
-          width: 60px
-          border: 2px solid #f6f6f6
+    article.tile
+      hr
+        width: 60px
+        border: 2px solid #f6f6f6
 
-        h2
-          font-size: 3em
+      h2
+        font-size: 3em
 
-        p
-          font-size: 1.3em
+      p
+        font-size: 1.3em
 
-      article.tile.testimonials
-        width: 50%
-        padding: 35px
+    article.tile.testimonials
+      width: 50%
+      padding: 35px
 
-        ul.slider
-          li
-            h3
-              font-size: 4em
+      ul.slider
+        li
+          h3
+            font-size: 4em
 
-            h4
-              font-size: 3em
+          h4
+            font-size: 3em
 
-            h5
-              font-size: 1.5em
+          h5
+            font-size: 1.5em

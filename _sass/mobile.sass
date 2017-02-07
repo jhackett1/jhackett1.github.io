@@ -21,6 +21,21 @@ h1, h2, h3, h4, h5
 
 // Layout
 
+.fixed-nav.visible
+  top: 0px
+
+.fixed-nav
+  position: fixed
+  top: -90px
+  z-index: 9
+  width: 100%
+  background-color: rgba(246,246,246,0.95)
+  transition: 0.1s
+
+
+div.previous-next
+  display: none
+
 div.container
   max-width: $fixed-width
   margin: 0 auto
@@ -35,7 +50,7 @@ header
 
   a.site-title
     img
-      max-width: 65px
+      max-width: 50px
       margin: 10px 0px
       transition: 0.1s
 
@@ -88,7 +103,7 @@ nav.site-nav
     text-transform: uppercase
     font-weight: 600
     color: $light-text
-    margin-left: 20px
+    margin-right: 20px
 
 
 
@@ -137,170 +152,174 @@ section.hero
 
 section.post-grid
   width: 100%
+  display: flex
+  flex-direction: row
+  flex-wrap: wrap
 
-  div.row
-    display: flex
-    flex-direction: row
-    flex-wrap: wrap
+  article.tile:nth-child(3n+3)
+    background-color: #dfdfdf
 
-    article.tile:nth-child(3n+3)
-      background-color: #dfdfdf
+  article.tile:nth-child(3n+2)
+    background-color: #efefef
 
-    article.tile:nth-child(3n+2)
-      background-color: #efefef
+  article.tile:nth-child(3n+1)
+    background-color: #ffffff
 
-    article.tile:nth-child(3n+1)
-      background-color: #ffffff
+  article.tile:hover
 
-    article.tile:hover
+    div.image-holder
+      transform: scale(1.1)
 
-      div.image-holder
-        transform: scale(1.1)
+    a.cover
+      opacity: 1
+      text-decoration: none
 
-      a.cover
-        opacity: 1
-        text-decoration: none
+      hr
+        width: 50px
 
-    article.tile.work
-      a.cover
-        background-color: rgba(20,198,163,0.9)
+  article.tile.work
+    a.cover
+      background-color: rgba(20,198,163,0.9)
 
-    article.tile
-      width: 50%
-      height: calc(100vh/3)
+  article.tile
+    width: 50%
+    height: calc(100vh/3)
+    position: relative
+    transition: 0.5s
+    overflow: hidden
+
+    div.image-holder
+      width: 100%
+      height: 100%
+      background-size: cover
+      background-position: center
+      transition: 0.4s
+      position: absolute
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+      z-index: 1
+
+    a.cover
+      display: flex
+      flex-direction: column
+      justify-content: center
+      align-items: center
+      background-color: rgba(88,156,212,0.9)
+      width: 100%
+      height: 100%
+      opacity: 0
+      transition: 0.2s
+      cursor: pointer
       position: relative
-      transition: 0.5s
-      overflow: hidden
+      z-index: 2
 
-      div.image-holder
-        width: 100%
-        height: 100%
-        background-size: cover
-        background-position: center
+      hr
+        width: 0px
+        margin: 10px auto
+        border: 1px solid #f6f6f6
         transition: 0.4s
-        position: absolute
-        top: 0
-        bottom: 0
-        left: 0
-        right: 0
-        z-index: 1
 
-      a.cover
-        display: flex
-        flex-direction: column
-        justify-content: center
-        align-items: center
-        background-color: rgba(88,156,212,0.9)
-        width: 100%
-        height: 100%
-        opacity: 0
-        transition: 0.2s
-        cursor: pointer
-        position: relative
-        z-index: 2
+      h2
+        text-align: center
+        color: #f6f6f6
+        margin: 0px 10px
+        font-size: 1.1em
 
-        hr
-          width: 50px
-          margin: 10px auto
-          border: 1px solid #f6f6f6
+      p
+        color: $light-text
+        text-align: center
+        color: #f6f6f6
+        text-transform: capitalize
+        font-size: 0.8em
 
-        h2
-          text-align: center
-          color: #f6f6f6
-          margin: 0px 10px
+  article.tile.wide
+    width: 100%
+    height: calc(100vh/3)
 
-        p
-          color: $light-text
-          text-align: center
-          color: #f6f6f6
-          text-transform: capitalize
+  article.tile.testimonials
+    width: 100%
+    background-color: $salmon
+    padding: 20px
+    height: inherit
 
-    article.tile.wide
-      width: 100%
-      height: calc(100vh/3)
+    // Make the slider work
+    input#s1:checked ~ ul li#s1
+      display: block
+      animation-play-state: running !important
 
-    article.tile.testimonials
-      width: 100%
+    input#s2:checked ~ ul li#s2
+      display: block
+      animation-play-state: running !important
+
+    input#s3:checked ~ ul li#s3
+      display: block
+      animation-play-state: running !important
+
+    input#s4:checked ~ ul li#s4
+      display: block
+      animation-play-state: running !important
+
+    //Style input radio buttons
+    input[type="radio"]
+      display: none
+
+    input[type="radio"] + label
+      display: inline-block
+      width: 17px
+      height: 17px
       background-color: $salmon
-      padding: 20px
-      height: inherit
+      border: 1px solid #f6f6f6
+      border-radius: 40px
+      transition: 0.1s
+      margin-right: 5px
+      cursor: pointer
 
-      // Make the slider work
-      input#s1:checked ~ ul li#s1
-        display: block
-        animation-play-state: running !important
+    input[type="radio"]:checked + label
+      display: inline-block
+      width: 17px
+      height: 17px
+      background-color: #f6f6f6
+      border: 1px solid #f6f6f6
+      border-radius: 40px
 
-      input#s2:checked ~ ul li#s2
-        display: block
-        animation-play-state: running !important
+    ul.slider
+      position: relative
+      width: 100%
+      height: 100%
+      display: block
+      margin-top: 15px
 
-      input#s3:checked ~ ul li#s3
-        display: block
-        animation-play-state: running !important
+      @-webkit-keyframes slide
+        0%
+          margin-left: -100%
+        100%
+          margin-left: 0
 
-      input#s4:checked ~ ul li#s4
-        display: block
-        animation-play-state: running !important
-
-      //Style input radio buttons
-      input[type="radio"]
-        display: none
-
-      input[type="radio"] + label
-        display: inline-block
-        width: 17px
-        height: 17px
-        background-color: $salmon
-        border: 1px solid #f6f6f6
-        border-radius: 40px
-        transition: 0.1s
-        margin-right: 5px
-        cursor: pointer
-
-      input[type="radio"]:checked + label
-        display: inline-block
-        width: 17px
-        height: 17px
-        background-color: #f6f6f6
-        border: 1px solid #f6f6f6
-        border-radius: 40px
-
-      ul.slider
-        position: relative
+      li
         width: 100%
         height: 100%
-        display: block
-        margin-top: 15px
+        display: none
+        animation-name: slide
+        animation-duration: 0.5s
+        animation-play-state: paused
 
-        @-webkit-keyframes slide
-          0%
-            margin-left: -100%
-          100%
-            margin-left: 0
+        h4
+          font-weight: 100
+          color: #f6f6f6
+          font-size: 1.5em
 
-        li
-          width: 100%
-          height: 100%
-          display: none
-          animation-name: slide
-          animation-duration: 0.5s
-          animation-play-state: paused
+        h3
+          font-weight: 100
+          color: #f6f6f6
+          font-size: 2em
 
-          h4
-            font-weight: 100
-            color: #f6f6f6
-            font-size: 1.5em
-
-          h3
-            font-weight: 100
-            color: #f6f6f6
-            font-size: 2em
-
-          h5
-            font-weight: 100
-            color: #f6f6f6
-            font-size: 0.9em
-            margin-top: 10px
+        h5
+          font-weight: 100
+          color: #f6f6f6
+          font-size: 0.9em
+          margin-top: 10px
 
 
 
@@ -354,6 +373,7 @@ article.page
     letter-spacing: 1px
     font-weight: 700
     font-size: 0.9em
+    margin-bottom: 10px
 
   h5.outline
     font-family: $h-stack
@@ -393,8 +413,9 @@ article.page
 
 article.me
   img
-    max-width: 200px
+    max-width: 150px
     border-radius: 100px
+    margin: 10px 0px
 
 // Post layout
 section.featured-image
@@ -451,6 +472,19 @@ article.post
     max-width: 100%
     height: auto
     margin-bottom: 20px
+
+  figure
+    margin: 40px 0px
+
+    img
+      margin-bottom: 0px
+
+    figcaption
+      font-family: $h-stack
+      font-weight: 100
+      color: $light-text
+      margin-bottom: 20px
+      font-size: 1.1em
 
   p
     margin-bottom: 20px
