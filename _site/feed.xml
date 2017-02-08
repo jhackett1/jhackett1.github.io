@@ -1,628 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-07T23:32:46+00:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a journalist, digital content producer &amp; coder based in London.</subtitle><entry><title type="html">Yoho!</title><link href="http://localhost:4000/jekyll/hiya/work/2017/01/24/test-post.html" rel="alternate" type="text/html" title="Yoho!" /><published>2017-01-24T23:36:20+00:00</published><updated>2017-01-24T23:36:20+00:00</updated><id>http://localhost:4000/jekyll/hiya/work/2017/01/24/test-post</id><content type="html" xml:base="http://localhost:4000/jekyll/hiya/work/2017/01/24/test-post.html">&lt;p&gt;This is an example blog post for testing deployment workflow.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-08T10:17:55+00:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a journalist, digital content producer &amp; coder based in London.</subtitle><entry><title type="html">Smoke Media website rebrand</title><link href="http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand.html" rel="alternate" type="text/html" title="Smoke Media website rebrand" /><published>2017-01-24T23:35:20+00:00</published><updated>2017-01-24T23:35:20+00:00</updated><id>http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand</id><content type="html" xml:base="http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand.html">&lt;p&gt;As part of my role as student media coordinator, I initiated a ground-up rebuild of Smoke Media’s web presence. Initially, this consisted of a Youtube channel, two aged and dissimilar Wordpress sites, and a free Wix site. All used out-of-the-box templates with minimal customisation, Most importantly, all were very different from each other.&lt;/p&gt;
 
-&lt;p&gt;When one considers that Mr. Sherlock Holmes was in active practice for twenty-three years, and that during seventeen of these I was allowed to cooperate with him and to keep notes of his doings, it will be clear that I have a mass of material at my command. The problem has always been not to find but to choose. There is the long row of year-books which fill a shelf, and there are the dispatch-cases filled with documents, a perfect quarry for the student not only of crime but of the social and official scandals of the late Victorian era. Concerning these latter, I may say that the writers of agonized letters, who beg that the honour of their families or the reputation of famous forebears may not be touched, have nothing to fear. The discretion and high sense of professional honour which have always distinguished my friend are still at work in the choice of these memoirs, and no confidence will be abused. I deprecate, however, in the strongest way the attempts which have been made lately to get at and to destroy these papers. The source of these outrages is known, and if they are repeated I have Mr. Holmes’s authority for saying that the whole story concerning the politician, the lighthouse, and the trained cormorant will be given to the public. There is at least one reader who will understand.&lt;/p&gt;
+&lt;p&gt;One of my strategic priorities was to shift Smoke Media from a print-first to a digital-first organisation, reflecting the shift going on in the wider world. It was also vital to communicate a single, converged brand to our audience.&lt;/p&gt;
 
-&lt;p&gt;It is not reasonable to suppose that every one of these cases gave Holmes the opportunity of showing those curious gifts of instinct and observation which I have endeavoured to set forth in these memoirs. Sometimes he had with much effort to pick the fruit, sometimes it fell easily into his lap. But the most terrible human tragedies were often involved in those cases which brought him the fewest personal opportunities, and it is one of these which I now desire to record. In telling it, I have made a slight change of name and place, but otherwise the facts are as stated.&lt;/p&gt;
+&lt;p&gt;I met with student stakeholders to come up with a feature set and compile design ideas for the new website. I introduced students to a common web design progress: brief, wireframe, mockups, prototypes, product!&lt;/p&gt;
 
-&lt;p&gt;One forenoon—it was late in 1896—I received a hurried note from Holmes asking for my attendance. When I arrived I found him seated in a smoke-laden atmosphere, with an elderly, motherly woman of the buxom landlady type in the corresponding chair in front of him.&lt;/p&gt;
+&lt;p&gt;It was very important that the new site automate common tasks such as the uploading of electronic versions of print publications, a process which involved many manual, tedious steps. Integration with external services such as Youtube, Audioboom and a number of custom in-house APIs was also necessary.&lt;/p&gt;</content><summary type="html">As part of my role as student media coordinator, I initiated a ground-up rebuild of Smoke Media’s web presence. Initially, this consisted of a Youtube channel, two aged and dissimilar Wordpress sites, and a free Wix site. All used out-of-the-box templates with minimal customisation, Most importantly, all were very different from each other.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/work1.jpg" /></entry><entry><title type="html">Why most 360 video is no good</title><link href="http://localhost:4000/blog/2017/01/14/360-video.html" rel="alternate" type="text/html" title="Why most 360 video is no good" /><published>2017-01-14T00:00:00+00:00</published><updated>2017-01-14T00:00:00+00:00</updated><id>http://localhost:4000/blog/2017/01/14/360-video</id><content type="html" xml:base="http://localhost:4000/blog/2017/01/14/360-video.html">&lt;p&gt;Most 360 video you can find today falls into one of two types: it either tells a story, or conveys a sense of place.&lt;/p&gt;
 
-&lt;p&gt;“This is Mrs. Merrilow, of South Brixton,” said my friend with a wave of the hand. “Mrs. Merrilow does not object to tobacco, Watson, if you wish to indulge your filthy habits. Mrs. Merrilow has an interesting story to tell which may well lead to further developments in which your presence may be useful.”&lt;/p&gt;
+&lt;p&gt;Conveying a mere sense of place is much easier than convincing a viewer to invest in your story. Cinematography is the set of rules that let us direct the viewer’s eye, convincing them to make that investment.&lt;/p&gt;
 
-&lt;p&gt;“Anything I can do—”&lt;/p&gt;
+&lt;p&gt;A good videographer knows the path they want the viewer’s eyes to take through a scene, and composes their shot using stuff like the rule of thirds, leading lines and playful use of light and shadow.&lt;/p&gt;
 
-&lt;p&gt;“You will understand, Mrs. Merrilow, that if I come to Mrs. Ronder I should prefer to have a witness. You will make her understand that before we arrive.”&lt;/p&gt;
+&lt;p&gt;In fact, what you leave out of a shot is just as important, if not more so, than what you leave in. Being a good photographer or videographer is all about making each shot parsimonious: knowing why it exists and framing each shot to tell a single message.&lt;/p&gt;
 
-&lt;p&gt;“Lord bless you, Mr. Holmes,” said our visitor, “she is that anxious to see you that you might bring the whole parish at your heels!”&lt;/p&gt;
+&lt;p&gt;But 360 video upends that formula.&lt;/p&gt;
 
-&lt;p&gt;“Then we shall come early in the afternoon. Let us see that we have our facts correct before we start. If we go over them it will help Dr. Watson to understand the situation. You say that Mrs. Ronder has been your lodger for seven years and that you have only once seen her face.”&lt;/p&gt;
+&lt;p&gt;All of the normal rules of composition no longer apply. You can’t really direct the viewer’s eye and have no way of knowing what will be in their field of view at a given moment.&lt;/p&gt;
 
-&lt;p&gt;“And I wish to God I had not!” said Mrs. Merrilow.&lt;/p&gt;
+&lt;p&gt;Here’s a 360 video of the first type — a music video with a narrative it wants you to invest in…&lt;/p&gt;
 
-&lt;p&gt;“It was, I understand, terribly mutilated.”&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/91fQTXrSRZE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;“Well, Mr. Holmes, you would hardly say it was a face at all. That’s how it looked. Our milkman got a glimpse of her once peeping out of the upper window, and he dropped his tin and the milk all over the front garden. That is the kind of face it is. When I saw her—I happened on her unawares—she covered up quick, and then she said, ‘Now, Mrs. Merrilow, you know at last why it is that I never raise my veil.’”&lt;/p&gt;
+&lt;p&gt;No real sustained close-ups, no selective focus, no framing. You could well argue that it looks a lot less immersive than conventional video, contrary to the traditional promise of 360.&lt;/p&gt;
 
-&lt;p&gt;“Do you know anything about her history?”&lt;/p&gt;
+&lt;p&gt;In a way, these kinds of 360 videos harken back to the early days of filmmaking, where shallow focus was rare and expensive, and directors had to fall back on old theatre blocking techniques when designing their shots.&lt;/p&gt;
 
-&lt;p&gt;“Nothing at all.”&lt;/p&gt;
+&lt;p&gt;Directors like Wes Anderson, Stanley Kubrick and Orson Welles still make heavy use of deep focus, generally because they think it’s a better portrayal of reality. It’s more like theatre than what we now think of as filmmaking, where you don’t have as much control over where the viewer’s gaze goes.&lt;/p&gt;
 
-&lt;p&gt;“Did she give references when she came?”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/360_2.png&quot; alt=&quot;'The Shining'&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;“No, sir, but she gave hard cash, and plenty of it. A quarter’s rent right down on the table in advance and no arguing about terms. In these times a poor woman like me can’t afford to turn down a chance like that.”&lt;/p&gt;
+&lt;p&gt;In time, we’ll come up with new rules of composition designed expressly for the new medium of 360/VR. They’ll be based on the existing rules of videography, but not the same, just as the rules of composition we use for photography originated in those found in classical artwork.&lt;/p&gt;
 
-&lt;p&gt;“Did she give any reason for choosing your house?”&lt;/p&gt;
+&lt;p&gt;Probably the closest traditional analogy to 360 is that of theatre in the round. The audience’s viewpoint and that being observed are reversed, but it’s the closest analogy we have.&lt;/p&gt;
 
-&lt;p&gt;“Mine stands well back from the road and is more private than most. Then, again, I only take the one, and I have no family of my own. I reckon she had tried others and found that mine suited her best. It’s privacy she is after, and she is ready to pay for it.”&lt;/p&gt;
+&lt;p&gt;Theatre in the round is notoriously difficult to do well, because directors have to consider sight lines from all sides of the stage. It’s a lot harder to create a mise-en-scene when the normal definitions of foreground, midground and background cease to apply.&lt;/p&gt;
 
-&lt;p&gt;“You say that she never showed her face from first to last save on the one accidental occasion. Well, it is a very remarkable story, most remarkable, and I don’t wonder that you want it examined.”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/360_3.jpeg&quot; alt=&quot;'Theatre in the round'&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;“I don’t, Mr. Holmes. I am quite satisfied so long as I get my rent. You could not have a quieter lodger, or one who gives less trouble.”&lt;/p&gt;
+&lt;p&gt;It seems like at the moment, 360 video is most at home when the goal is simply to convey a sense of place — a sense of “being somewhere”. Most works of journalism produced with 360 video so far fall into this category.&lt;/p&gt;
 
-&lt;p&gt;“Then what has brought matters to a head?”&lt;/p&gt;
+&lt;p&gt;This is the same use case as the humble GoPro, and certainly there are many consumer 360 cameras clearly targeting the same audience. Though it’s surely been attempted, the GoPro is no one’s go-to tool for a short film.&lt;/p&gt;
 
-&lt;p&gt;“Her health, Mr. Holmes. She seems to be wasting away. And there’s something terrible on her mind. ‘Murder!’ she cries. ‘Murder!’ And once I heard her: ‘You cruel beast! You monster!’ she cried. It was in the night, and it fair rang through the house and sent the shivers through me. So I went to her in the morning. ‘Mrs. Ronder,’ I says, ‘if you have anything that is troubling your soul, there’s the clergy,’ I says, ‘and there’s the police. Between them you should get some help.’ ‘For God’s sake, not the police!’ says she, ‘and the clergy can’t change what is past. And yet,’ she says, ‘it would ease my mind if someone knew the truth before I died.’ ‘Well,’ says I, ‘if you won’t have the regulars, there is this detective man what we read about’—beggin’ your pardon, Mr. Holmes. And she, she fair jumped at it. ‘That’s the man,’ says she. ‘I wonder I never thought of it before. Bring him here, Mrs. Merrilow, and if he won’t come, tell him I am the wife of Ronder’s wild beast show. Say that, and give him the name Abbas Parva. Here it is as she wrote it, Abbas Parva. ‘That will bring him if he’s the man I think he is.’”&lt;/p&gt;
+&lt;p&gt;But there are limitations even with this less ambitious use case. Luckily, these are technical, not artistic.&lt;/p&gt;
 
-&lt;p&gt;“And it will, too,” remarked Holmes. “Very good, Mrs. Merrilow. I should like to have a little chat with Dr. Watson. That will carry us till lunch-time. About three o’clock you may expect to see us at your house in Brixton.”&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sfVvJY-C8gA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Our visitor had no sooner waddled out of the room—no other verb can describe Mrs. Merrilow’s method of progression—than Sherlock Holmes threw himself with fierce energy upon the pile of commonplace books in the corner. For a few minutes there was a constant swish of the leaves, and then with a grunt of satisfaction he came upon what he sought. So excited was he that he did not rise, but sat upon the floor like some strange Buddha, with crossed legs, the huge books all round him, and one open upon his knees.&lt;/p&gt;
+&lt;p&gt;Most consumer 360 cameras still have 1080p sensors. Shared between two fisheye lenses, the end product is usually a great deal lower quality than conventional video, since there are less pixels in your field of view (FOV) at any moment, since the sensor’s pixels are being spread across the whole 360 panorama.&lt;/p&gt;
 
-&lt;p&gt;“The case worried me at the time, Watson. Here are my marginal notes to prove it. I confess that I could make nothing of it. And yet I was convinced that the coroner was wrong. Have you no recollection of the Abbas Parva tragedy?”&lt;/p&gt;
+&lt;p&gt;Even when content is created in 4K, like the above BBC livestream, it’s still not good enough for a seamless VR effect. It looks like we’ll have to wait for even higher-resolution sensors to meet the promise of “as if you were there” 360/VR video. Compression applied by Facebook and Youtube when sharing doesn’t help.&lt;/p&gt;
 
-&lt;p&gt;“None, Holmes.”&lt;/p&gt;
+&lt;p&gt;And that’s without even thinking of the problem of network connections. The UK’s average broadband download speed is currently around 22mbps, but there’s still no shortage of households which still can’t manage to download a 4k quality video.&lt;/p&gt;
 
-&lt;p&gt;“And yet you were with me then. But certainly my own impression was very superficial. For there was nothing to go by, and none of the parties had engaged my services. Perhaps you would care to read the papers?”&lt;/p&gt;
+&lt;p&gt;While 4G cell speeds are generally plenty fast enough for 4K, data caps definitely aren’t. A few ten minute 4K videos will burn through the monthly limit without blinking.&lt;/p&gt;
 
-&lt;p&gt;“Could you not give me the points?”&lt;/p&gt;
+&lt;p&gt;One of the chief complaints about VR video is that it always looks so soft. Early headsets were stuck with dismal displays, but more modern headsets like the Vive have improved. There’s a lot of work to be done on resolution, but low quality video is an increasingly important barrier to immersion.&lt;/p&gt;
 
-&lt;p&gt;“That is very easily done. It will probably come back to your memory as I talk. Ronder, of course, was a household word. He was the rival of Wombwell, and of Sanger, one of the greatest showmen of his day. There is evidence, however, that he took to drink, and that both he and his show were on the down grade at the time of the great tragedy. The caravan had halted for the night at Abbas Parva, which is a small village in Berkshire, when this horror occurred. They were on their way to Wimbledon, travelling by road, and they were simply camping and not exhibiting, as the place is so small a one that it would not have paid them to open.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/360_4.png&quot; alt=&quot;'The HTC Vive.'&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;“They had among their exhibits a very fine North African lion. Sahara King was its name, and it was the habit, both of Ronder and his wife, to give exhibitions inside its cage. Here, you see, is a photograph of the performance by which you will perceive that Ronder was a huge porcine person and that his wife was a very magnificent woman. It was deposed at the inquest that there had been some signs that the lion was dangerous, but, as usual, familiarity begat contempt, and no notice was taken of the fact.&lt;/p&gt;
+&lt;p&gt;But this certainly isn’t a condemnation of 360 video. It’s less than five years old, and conventional video has been around for nearly a century. Any new technology needs to be given time to develop its niche and for us to learn how to use it.&lt;/p&gt;
 
-&lt;p&gt;“It was usual for either Ronder or his wife to feed the lion at night. Sometimes one went, sometimes both, but they never allowed anyone else to do it, for they believed that so long as they were the food-carriers he would regard them as benefactors and would never molest them. On this particular night, seven years ago, they both went, and a very terrible happening followed, the details of which have never been made clear.&lt;/p&gt;
+&lt;p&gt;It’s likely that the technical hurdles with 360 will be solved long before a new formal artistic “grammar” emerges for the medium. After all, the rule of thirds was only named in the 1700s, even though it was being used in artwork for centuries before that.&lt;/p&gt;</content><summary type="html">Most 360 video you can find today falls into one of two types: it either tells a story, or conveys a sense of place.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/360_1.jpeg" /></entry><entry><title type="html">Field Day - The Good and the Bad</title><link href="http://localhost:4000/blog/2016/06/13/field-day-good-and-bad.html" rel="alternate" type="text/html" title="Field Day - The Good and the Bad" /><published>2016-06-13T01:00:00+01:00</published><updated>2016-06-13T01:00:00+01:00</updated><id>http://localhost:4000/blog/2016/06/13/field-day-good-and-bad</id><content type="html" xml:base="http://localhost:4000/blog/2016/06/13/field-day-good-and-bad.html">&lt;p&gt;Rainclouds, crowds and feathers, oh my. Victoria Park’s somewhat misnamed Field Day festival brings together alt and indie artists over two days and half a dozen stages.&lt;/p&gt;
 
-&lt;p&gt;“It seems that the whole camp was roused near midnight by the roars of the animal and the screams of the woman. The different grooms and employees rushed from their tents, carrying lanterns, and by their light an awful sight was revealed. Ronder lay, with the back of his head crushed in and deep claw-marks across his scalp, some ten yards from the cage, which was open. Close to the door of the cage lay Mrs. Ronder upon her back, with the creature squatting and snarling above her. It had torn her face in such a fashion that it was never thought that she could live. Several of the circus men, headed by Leonardo, the strong man, and Griggs, the clown, drove the creature off with poles, upon which it sprang back into the cage and was at once locked in. How it had got loose was a mystery. It was conjectured that the pair intended to enter the cage, but that when the door was loosed the creature bounded out upon them. There was no other point of interest in the evidence save that the woman in a delirium of agony kept screaming, ‘Coward! Coward!’ as she was carried back to the van in which they lived. It was six months before she was fit to give evidence, but the inquest was duly held, with the obvious verdict of death from misadventure.”&lt;/p&gt;
+&lt;p&gt;City centre festivals always bring particular challenges, since there’s no campsite to build the community spirit they rely on. What’s a festivalgoer to do?&lt;/p&gt;
 
-&lt;p&gt;“What alternative could be conceived?” said I.&lt;/p&gt;
+&lt;h1 id=&quot;the-good&quot;&gt;The good&lt;/h1&gt;
 
-&lt;p&gt;“You may well say so. And yet there were one or two points which worried young Edmunds, of the Berkshire Constabulary. A smart lad that! He was sent later to Allahabad. That was how I came into the matter, for he dropped in and smoked a pipe or two over it.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Masked Swedish world-fusion act Goat&lt;/strong&gt;. Since they gyrated onto the scene in 2013, as Glastonbury took a punt on the unknown collective, they’ve grown and grown. Not bad for a gang of stoners from Gothenberg. The masks probably help.&lt;/p&gt;
 
-&lt;p&gt;“A thin, yellow-haired man?”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sunday headliner PJ Harvey’s music&lt;/strong&gt; is nothing short of haunting, but her performance adds an extra dimension to the tunes. As she plumbs her back-catalogue, she flits between the stage personas that originally made her famous. These multiple personalities are expressed in dance, voice, gesture, and you’re in no doubt when she moves from one to the next.&lt;/p&gt;
 
-&lt;p&gt;“Exactly. I was sure you would pick up the trail presently.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PJ Harvey’s feathers.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;“But what worried him?”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/field_day_2.jpeg&quot; alt=&quot;PJ Harvey&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;“Well, we were both worried. It was so deucedly difficult to reconstruct the affair. Look at it from the lion’s point of view. He is liberated. What does he do? He takes half a dozen bounds forward, which brings him to Ronder. Ronder turns to fly—the claw-marks were on the back of his head—but the lion strikes him down. Then, instead of bounding on and escaping, he returns to the woman, who was close to the cage, and he knocks her over and chews her face up. Then, again, those cries of hers would seem to imply that her husband had in some way failed her. What could the poor devil have done to help her? You see the difficulty?”&lt;/p&gt;
+&lt;p&gt;“This one’s dedicated to everyone who has an iPhone and isn’t currently on it”, Swedish electro-popster Molly Nilsson says during her stripped down set. &lt;strong&gt;Smartphones&lt;/strong&gt; may not encourage the transcendent, pure musical experience festivals sell us tickets on, but they must be good otherwise we wouldn’t all have them. So by that logic, being able to go home and charge them every night must be good too.&lt;/p&gt;
 
-&lt;p&gt;“Quite.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No one has brought wellies.&lt;/strong&gt; No one. Despite being able to check the weather forecast in the morning and access a normal wardrobe. For the select few who did choose appropriate footwear, this presents an opportunity. You get free reign over the muddier parts of the arena — usually the shortest routes from place to place. Enjoy: you’re practically a god in these parts.&lt;/p&gt;
 
-&lt;p&gt;“And then there was another thing. It comes back to me now as I think it over. There was some evidence that just at the time the lion roared and the woman screamed, a man began shouting in terror.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The toilets.&lt;/strong&gt; They aren’t quite as disgusting as a countryside festival, so it counts as a win!
+What’s this? Enough benches and tables for festivalgoers to actually sit down on while they eat/drink/consume? You mean we don’t have to squat in the mud? Surely you’re joking, Mr Feynman. Glastonbury could learn a thing or two.&lt;/p&gt;
 
-&lt;p&gt;“This man Ronder, no doubt.”&lt;/p&gt;
+&lt;h1 id=&quot;the-bad&quot;&gt;The bad&lt;/h1&gt;
 
-&lt;p&gt;“Well, if his skull was smashed in you would hardly expect to hear from him again. There were at least two witnesses who spoke of the cries of a man being mingled with those of a woman.”&lt;/p&gt;
+&lt;p&gt;You have never known true fury until you have seen a press photographer cover a festival headliner with &lt;strong&gt;an iPhone and a vintage film SLR&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;“I should think the whole camp was crying out by then. As to the other points, I think I could suggest a solution.”&lt;/p&gt;
-
-&lt;p&gt;“I should be glad to consider it.”&lt;/p&gt;
-
-&lt;p&gt;“The two were together, ten yards from the cage, when the lion got loose. The man turned and was struck down. The woman conceived the idea of getting into the cage and shutting the door. It was her only refuge. She made for it, and just as she reached it the beast bounded after her and knocked her over. She was angry with her husband for having encouraged the beast’s rage by turning. If they had faced it they might have cowed it. Hence her cries of ‘Coward!’”&lt;/p&gt;
-
-&lt;p&gt;“Brilliant, Watson! Only one flaw in your diamond.”&lt;/p&gt;
-
-&lt;p&gt;“What is the flaw, Holmes?”&lt;/p&gt;
-
-&lt;p&gt;“If they were both ten paces from the cage, how came the beast to get loose?”&lt;/p&gt;
-
-&lt;p&gt;“Is it possible that they had some enemy who loosed it?”&lt;/p&gt;
-
-&lt;p&gt;“And why should it attack them savagely when it was in the habit of playing with them, and doing tricks with them inside the cage?”&lt;/p&gt;
-
-&lt;p&gt;“Possibly the same enemy had done something to enrage it.”&lt;/p&gt;
-
-&lt;p&gt;Holmes looked thoughtful and remained in silence for some moments.&lt;/p&gt;
-
-&lt;p&gt;“Well, Watson, there is this to be said for your theory. Ronder was a man of many enemies. Edmunds told me that in his cups he was horrible. A huge bully of a man, he cursed and slashed at everyone who came in his way. I expect those cries about a monster, of which our visitor has spoken, were nocturnal reminiscences of the dear departed. However, our speculations are futile until we have all the facts. There is a cold partridge on the sideboard, Watson, and a bottle of Montrachet. Let us renew our energies before we make a fresh call upon them.”&lt;/p&gt;
-
-&lt;p&gt;When our hansom deposited us at the house of Mrs. Merrilow, we found that plump lady blocking up the open door of her humble but retired abode. It was very clear that her chief preoccupation was lest she should lose a valuable lodger, and she implored us, before showing us up, to say and do nothing which could lead to so undesirable an end. Then, having reassured her, we followed her up the straight, badly carpeted staircase and were shown into the room of the mysterious lodger.&lt;/p&gt;
-
-&lt;p&gt;It was a close, musty, ill-ventilated place, as might be expected, since its inmate seldom left it. From keeping beasts in a cage, the woman seemed, by some retribution of fate, to have become herself a beast in a cage. She sat now in a broken armchair in the shadowy corner of the room. Long years of inaction had coarsened the lines of her figure, but at some period it must have been beautiful, and was still full and voluptuous. A thick dark veil covered her face, but it was cut off close at her upper lip and disclosed a perfectly shaped mouth and a delicately rounded chin. I could well conceive that she had indeed been a very remarkable woman. Her voice, too, was well modulated and pleasing.&lt;/p&gt;
-
-&lt;p&gt;“My name is not unfamiliar to you, Mr. Holmes,” said she. “I thought that it would bring you.”&lt;/p&gt;
-
-&lt;p&gt;“That is so, madam, though I do not know how you are aware that I was interested in your case.”&lt;/p&gt;
-
-&lt;p&gt;“I learned it when I had recovered my health and was examined by Mr. Edmunds, the county detective. I fear I lied to him. Perhaps it would have been wiser had I told the truth.”&lt;/p&gt;
-
-&lt;p&gt;“It is usually wiser to tell the truth. But why did you lie to him?”&lt;/p&gt;
-
-&lt;p&gt;“Because the fate of someone else depended upon it. I know that he was a very worthless being, and yet I would not have his destruction upon my conscience. We had been so close—so close!”&lt;/p&gt;
-
-&lt;p&gt;“But has this impediment been removed?”&lt;/p&gt;
-
-&lt;p&gt;“Yes, sir. The person that I allude to is dead.”&lt;/p&gt;
-
-&lt;p&gt;“Then why should you not now tell the police anything you know?”&lt;/p&gt;
-
-&lt;p&gt;“Because there is another person to be considered. That other person is myself. I could not stand the scandal and publicity which would come from a police examination. I have not long to live, but I wish to die undisturbed. And yet I wanted to find one man of judgment to whom I could tell my terrible story, so that when I am gone all might be understood.”&lt;/p&gt;
-
-&lt;p&gt;“You compliment me, madam. At the same time, I am a responsible person. I do not promise you that when you have spoken I may not myself think it my duty to refer the case to the police.”&lt;/p&gt;
-
-&lt;p&gt;“I think not, Mr. Holmes. I know your character and methods too well, for I have followed your work for some years. Reading is the only pleasure which fate has left me, and I miss little which passes in the world. But in any case, I will take my chance of the use which you may make of my tragedy. It will ease my mind to tell it.”&lt;/p&gt;
-
-&lt;p&gt;“My friend and I would be glad to hear it.”&lt;/p&gt;
-
-&lt;p&gt;The woman rose and took from a drawer the photograph of a man. He was clearly a professional acrobat, a man of magnificent physique, taken with his huge arms folded across his swollen chest and a smile breaking from under his heavy moustache—the self-satisfied smile of the man of many conquests.&lt;/p&gt;
-
-&lt;p&gt;“That is Leonardo,” she said.&lt;/p&gt;
-
-&lt;p&gt;“Leonardo, the strong man, who gave evidence?”&lt;/p&gt;
-
-&lt;p&gt;“The same. And this—this is my husband.”&lt;/p&gt;
-
-&lt;p&gt;It was a dreadful face—a human pig, or rather a human wild boar, for it was formidable in its bestiality. One could imagine that vile mouth champing and foaming in its rage, and one could conceive those small, vicious eyes darting pure malignancy as they looked forth upon the world. Ruffian, bully, beast—it was all written on that heavy-jowled face.&lt;/p&gt;
-
-&lt;p&gt;“Those two pictures will help you, gentlemen, to understand the story. I was a poor circus girl brought up on the sawdust, and doing springs through the hoop before I was ten. When I became a woman this man loved me, if such lust as his can be called love, and in an evil moment I became his wife. From that day I was in hell, and he the devil who tormented me. There was no one in the show who did not know of his treatment. He deserted me for others. He tied me down and lashed me with his riding-whip when I complained. They all pitied me and they all loathed him, but what could they do? They feared him, one and all. For he was terrible at all times, and murderous when he was drunk. Again and again he was had up for assault, and for cruelty to the beasts, but he had plenty of money and the fines were nothing to him. The best men all left us, and the show began to go downhill. It was only Leonardo and I who kept it up—with little Jimmy Griggs, the clown. Poor devil, he had not much to be funny about, but he did what he could to hold things together.&lt;/p&gt;
-
-&lt;p&gt;“Then Leonardo came more and more into my life. You see what he was like. I know now the poor spirit that was hidden in that splendid body, but compared to my husband he seemed like the angel Gabriel. He pitied me and helped me, till at last our intimacy turned to love—deep, deep, passionate love, such love as I had dreamed of but never hoped to feel. My husband suspected it, but I think that he was a coward as well as a bully, and that Leonardo was the one man that he was afraid of. He took revenge in his own way by torturing me more than ever. One night my cries brought Leonardo to the door of our van. We were near tragedy that night, and soon my lover and I understood that it could not be avoided. My husband was not fit to live. We planned that he should die.&lt;/p&gt;
-
-&lt;p&gt;“Leonardo had a clever, scheming brain. It was he who planned it. I do not say that to blame him, for I was ready to go with him every inch of the way. But I should never have had the wit to think of such a plan. We made a club—Leonardo made it—and in the leaden head he fastened five long steel nails, the points outward, with just such a spread as the lion’s paw. This was to give my husband his death-blow, and yet to leave the evidence that it was the lion which we would loose who had done the deed.&lt;/p&gt;
-
-&lt;p&gt;“It was a pitch-dark night when my husband and I went down, as was our custom, to feed the beast. We carried with us the raw meat in a zinc pail. Leonardo was waiting at the corner of the big van which we should have to pass before we reached the cage. He was too slow, and we walked past him before he could strike, but he followed us on tiptoe and I heard the crash as the club smashed my husband’s skull. My heart leaped with joy at the sound. I sprang forward, and I undid the catch which held the door of the great lion’s cage.&lt;/p&gt;
-
-&lt;p&gt;“And then the terrible thing happened. You may have heard how quick these creatures are to scent human blood, and how it excites them. Some strange instinct had told the creature in one instant that a human being had been slain. As I slipped the bars it bounded out and was on me in an instant. Leonardo could have saved me. If he had rushed forward and struck the beast with his club he might have cowed it. But the man lost his nerve. I heard him shout in his terror, and then I saw him turn and fly. At the same instant the teeth of the lion met in my face. Its hot, filthy breath had already poisoned me and I was hardly conscious of pain. With the palms of my hands I tried to push the great steaming, blood-stained jaws away from me, and I screamed for help. I was conscious that the camp was stirring, and then dimly I remembered a group of men. Leonardo, Griggs, and others, dragging me from under the creature’s paws. That was my last memory, Mr. Holmes, for many a weary month. When I came to myself and saw myself in the mirror, I cursed that lion—oh, how I cursed him!—not because he had torn away my beauty but because he had not torn away my life. I had but one desire, Mr. Holmes, and I had enough money to gratify it. It was that I should cover myself so that my poor face should be seen by none, and that I should dwell where none whom I had ever known should find me. That was all that was left to me to do—and that is what I have done. A poor wounded beast that has crawled into its hole to die—that is the end of Eugenia Ronder.”&lt;/p&gt;
-
-&lt;p&gt;We sat in silence for some time after the unhappy woman had told her story. Then Holmes stretched out his long arm and patted her hand with such a show of sympathy as I had seldom known him to exhibit.&lt;/p&gt;
-
-&lt;p&gt;“Poor girl!” he said. “Poor girl! The ways of fate are indeed hard to understand. If there is not some compensation hereafter, then the world is a cruel jest. But what of this man Leonardo?”&lt;/p&gt;
-
-&lt;p&gt;“I never saw him or heard from him again. Perhaps I have been wrong to feel so bitterly against him. He might as soon have loved one of the freaks whom we carried round the country as the thing which the lion had left. But a woman’s love is not so easily set aside. He had left me under the beast’s claws, he had deserted me in my need, and yet I could not bring myself to give him to the gallows. For myself, I cared nothing what became of me. What could be more dreadful than my actual life? But I stood between Leonardo and his fate.”&lt;/p&gt;
-
-&lt;p&gt;“And he is dead?”&lt;/p&gt;
-
-&lt;p&gt;“He was drowned last month when bathing near Margate. I saw his death in the paper.”&lt;/p&gt;
-
-&lt;p&gt;“And what did he do with this five-clawed club, which is the most singular and ingenious part of all your story?”&lt;/p&gt;
-
-&lt;p&gt;“I cannot tell, Mr. Holmes. There is a chalk-pit by the camp, with a deep green pool at the base of it. Perhaps in the depths of that pool—”&lt;/p&gt;
-
-&lt;p&gt;“Well, well, it is of little consequence now. The case is closed.”&lt;/p&gt;
-
-&lt;p&gt;“Yes,” said the woman, “the case is closed.”&lt;/p&gt;
-
-&lt;p&gt;We had risen to go, but there was something in the woman’s voice which arrested Holmes’s attention. He turned swiftly upon her.&lt;/p&gt;
-
-&lt;p&gt;“Your life is not your own,” he said. “Keep your hands off it.”&lt;/p&gt;
-
-&lt;p&gt;“What use is it to anyone?”&lt;/p&gt;
-
-&lt;p&gt;“How can you tell? The example of patient suffering is in itself the most precious of all lessons to an impatient world.”&lt;/p&gt;
-
-&lt;p&gt;The woman’s answer was a terrible one. She raised her veil and stepped forward into the light.&lt;/p&gt;
-
-&lt;p&gt;“I wonder if you would bear it,” she said.&lt;/p&gt;</content><summary type="html">This is an example blog post for testing deployment workflow.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/post2.jpg" /></entry><entry><title type="html">What about those refreshers’ fairs, hmm?</title><link href="http://localhost:4000/jekyll/hiya/2017/01/24/hiya.html" rel="alternate" type="text/html" title="What about those refreshers' fairs, hmm?" /><published>2017-01-24T23:36:20+00:00</published><updated>2017-01-24T23:36:20+00:00</updated><id>http://localhost:4000/jekyll/hiya/2017/01/24/hiya</id><content type="html" xml:base="http://localhost:4000/jekyll/hiya/2017/01/24/hiya.html">&lt;p&gt;This is an example blog post&lt;/p&gt;
-
-&lt;p&gt;When one considers that Mr. Sherlock Holmes was in active practice for twenty-three years, and that during seventeen of these I was allowed to cooperate with him and to keep notes of his doings, it will be clear that I have a mass of material at my command. The problem has always been not to find but to choose. There is the long row of year-books which fill a shelf, and there are the dispatch-cases filled with documents, a perfect quarry for the student not only of crime but of the social and official scandals of the late Victorian era. Concerning these latter, I may say that the writers of agonized letters, who beg that the honour of their families or the reputation of famous forebears may not be touched, have nothing to fear. The discretion and high sense of professional honour which have always distinguished my friend are still at work in the choice of these memoirs, and no confidence will be abused. I deprecate, however, in the strongest way the attempts which have been made lately to get at and to destroy these papers. The source of these outrages is known, and if they are repeated I have Mr. Holmes’s authority for saying that the whole story concerning the politician, the lighthouse, and the trained cormorant will be given to the public. There is at least one reader who will understand.&lt;/p&gt;
-
-&lt;p&gt;It is not reasonable to suppose that every one of these cases gave Holmes the opportunity of showing those curious gifts of instinct and observation which I have endeavoured to set forth in these memoirs. Sometimes he had with much effort to pick the fruit, sometimes it fell easily into his lap. But the most terrible human tragedies were often involved in those cases which brought him the fewest personal opportunities, and it is one of these which I now desire to record. In telling it, I have made a slight change of name and place, but otherwise the facts are as stated.&lt;/p&gt;
-
-&lt;p&gt;One forenoon—it was late in 1896—I received a hurried note from Holmes asking for my attendance. When I arrived I found him seated in a smoke-laden atmosphere, with an elderly, motherly woman of the buxom landlady type in the corresponding chair in front of him.&lt;/p&gt;
-
-&lt;p&gt;“This is Mrs. Merrilow, of South Brixton,” said my friend with a wave of the hand. “Mrs. Merrilow does not object to tobacco, Watson, if you wish to indulge your filthy habits. Mrs. Merrilow has an interesting story to tell which may well lead to further developments in which your presence may be useful.”&lt;/p&gt;
-
-&lt;p&gt;“Anything I can do—”&lt;/p&gt;
-
-&lt;p&gt;“You will understand, Mrs. Merrilow, that if I come to Mrs. Ronder I should prefer to have a witness. You will make her understand that before we arrive.”&lt;/p&gt;
-
-&lt;p&gt;“Lord bless you, Mr. Holmes,” said our visitor, “she is that anxious to see you that you might bring the whole parish at your heels!”&lt;/p&gt;
-
-&lt;p&gt;“Then we shall come early in the afternoon. Let us see that we have our facts correct before we start. If we go over them it will help Dr. Watson to understand the situation. You say that Mrs. Ronder has been your lodger for seven years and that you have only once seen her face.”&lt;/p&gt;
-
-&lt;p&gt;“And I wish to God I had not!” said Mrs. Merrilow.&lt;/p&gt;
-
-&lt;p&gt;“It was, I understand, terribly mutilated.”&lt;/p&gt;
-
-&lt;p&gt;“Well, Mr. Holmes, you would hardly say it was a face at all. That’s how it looked. Our milkman got a glimpse of her once peeping out of the upper window, and he dropped his tin and the milk all over the front garden. That is the kind of face it is. When I saw her—I happened on her unawares—she covered up quick, and then she said, ‘Now, Mrs. Merrilow, you know at last why it is that I never raise my veil.’”&lt;/p&gt;
-
-&lt;p&gt;“Do you know anything about her history?”&lt;/p&gt;
-
-&lt;p&gt;“Nothing at all.”&lt;/p&gt;
-
-&lt;p&gt;“Did she give references when she came?”&lt;/p&gt;
-
-&lt;p&gt;“No, sir, but she gave hard cash, and plenty of it. A quarter’s rent right down on the table in advance and no arguing about terms. In these times a poor woman like me can’t afford to turn down a chance like that.”&lt;/p&gt;
-
-&lt;p&gt;“Did she give any reason for choosing your house?”&lt;/p&gt;
-
-&lt;p&gt;“Mine stands well back from the road and is more private than most. Then, again, I only take the one, and I have no family of my own. I reckon she had tried others and found that mine suited her best. It’s privacy she is after, and she is ready to pay for it.”&lt;/p&gt;
-
-&lt;p&gt;“You say that she never showed her face from first to last save on the one accidental occasion. Well, it is a very remarkable story, most remarkable, and I don’t wonder that you want it examined.”&lt;/p&gt;
-
-&lt;p&gt;“I don’t, Mr. Holmes. I am quite satisfied so long as I get my rent. You could not have a quieter lodger, or one who gives less trouble.”&lt;/p&gt;
-
-&lt;p&gt;“Then what has brought matters to a head?”&lt;/p&gt;
-
-&lt;p&gt;“Her health, Mr. Holmes. She seems to be wasting away. And there’s something terrible on her mind. ‘Murder!’ she cries. ‘Murder!’ And once I heard her: ‘You cruel beast! You monster!’ she cried. It was in the night, and it fair rang through the house and sent the shivers through me. So I went to her in the morning. ‘Mrs. Ronder,’ I says, ‘if you have anything that is troubling your soul, there’s the clergy,’ I says, ‘and there’s the police. Between them you should get some help.’ ‘For God’s sake, not the police!’ says she, ‘and the clergy can’t change what is past. And yet,’ she says, ‘it would ease my mind if someone knew the truth before I died.’ ‘Well,’ says I, ‘if you won’t have the regulars, there is this detective man what we read about’—beggin’ your pardon, Mr. Holmes. And she, she fair jumped at it. ‘That’s the man,’ says she. ‘I wonder I never thought of it before. Bring him here, Mrs. Merrilow, and if he won’t come, tell him I am the wife of Ronder’s wild beast show. Say that, and give him the name Abbas Parva. Here it is as she wrote it, Abbas Parva. ‘That will bring him if he’s the man I think he is.’”&lt;/p&gt;
-
-&lt;p&gt;“And it will, too,” remarked Holmes. “Very good, Mrs. Merrilow. I should like to have a little chat with Dr. Watson. That will carry us till lunch-time. About three o’clock you may expect to see us at your house in Brixton.”&lt;/p&gt;
-
-&lt;p&gt;Our visitor had no sooner waddled out of the room—no other verb can describe Mrs. Merrilow’s method of progression—than Sherlock Holmes threw himself with fierce energy upon the pile of commonplace books in the corner. For a few minutes there was a constant swish of the leaves, and then with a grunt of satisfaction he came upon what he sought. So excited was he that he did not rise, but sat upon the floor like some strange Buddha, with crossed legs, the huge books all round him, and one open upon his knees.&lt;/p&gt;
-
-&lt;p&gt;“The case worried me at the time, Watson. Here are my marginal notes to prove it. I confess that I could make nothing of it. And yet I was convinced that the coroner was wrong. Have you no recollection of the Abbas Parva tragedy?”&lt;/p&gt;
-
-&lt;p&gt;“None, Holmes.”&lt;/p&gt;
-
-&lt;p&gt;“And yet you were with me then. But certainly my own impression was very superficial. For there was nothing to go by, and none of the parties had engaged my services. Perhaps you would care to read the papers?”&lt;/p&gt;
-
-&lt;p&gt;“Could you not give me the points?”&lt;/p&gt;
-
-&lt;p&gt;“That is very easily done. It will probably come back to your memory as I talk. Ronder, of course, was a household word. He was the rival of Wombwell, and of Sanger, one of the greatest showmen of his day. There is evidence, however, that he took to drink, and that both he and his show were on the down grade at the time of the great tragedy. The caravan had halted for the night at Abbas Parva, which is a small village in Berkshire, when this horror occurred. They were on their way to Wimbledon, travelling by road, and they were simply camping and not exhibiting, as the place is so small a one that it would not have paid them to open.&lt;/p&gt;
-
-&lt;p&gt;“They had among their exhibits a very fine North African lion. Sahara King was its name, and it was the habit, both of Ronder and his wife, to give exhibitions inside its cage. Here, you see, is a photograph of the performance by which you will perceive that Ronder was a huge porcine person and that his wife was a very magnificent woman. It was deposed at the inquest that there had been some signs that the lion was dangerous, but, as usual, familiarity begat contempt, and no notice was taken of the fact.&lt;/p&gt;
-
-&lt;p&gt;“It was usual for either Ronder or his wife to feed the lion at night. Sometimes one went, sometimes both, but they never allowed anyone else to do it, for they believed that so long as they were the food-carriers he would regard them as benefactors and would never molest them. On this particular night, seven years ago, they both went, and a very terrible happening followed, the details of which have never been made clear.&lt;/p&gt;
-
-&lt;p&gt;“It seems that the whole camp was roused near midnight by the roars of the animal and the screams of the woman. The different grooms and employees rushed from their tents, carrying lanterns, and by their light an awful sight was revealed. Ronder lay, with the back of his head crushed in and deep claw-marks across his scalp, some ten yards from the cage, which was open. Close to the door of the cage lay Mrs. Ronder upon her back, with the creature squatting and snarling above her. It had torn her face in such a fashion that it was never thought that she could live. Several of the circus men, headed by Leonardo, the strong man, and Griggs, the clown, drove the creature off with poles, upon which it sprang back into the cage and was at once locked in. How it had got loose was a mystery. It was conjectured that the pair intended to enter the cage, but that when the door was loosed the creature bounded out upon them. There was no other point of interest in the evidence save that the woman in a delirium of agony kept screaming, ‘Coward! Coward!’ as she was carried back to the van in which they lived. It was six months before she was fit to give evidence, but the inquest was duly held, with the obvious verdict of death from misadventure.”&lt;/p&gt;
-
-&lt;p&gt;“What alternative could be conceived?” said I.&lt;/p&gt;
-
-&lt;p&gt;“You may well say so. And yet there were one or two points which worried young Edmunds, of the Berkshire Constabulary. A smart lad that! He was sent later to Allahabad. That was how I came into the matter, for he dropped in and smoked a pipe or two over it.”&lt;/p&gt;
-
-&lt;p&gt;“A thin, yellow-haired man?”&lt;/p&gt;
-
-&lt;p&gt;“Exactly. I was sure you would pick up the trail presently.”&lt;/p&gt;
-
-&lt;p&gt;“But what worried him?”&lt;/p&gt;
-
-&lt;p&gt;“Well, we were both worried. It was so deucedly difficult to reconstruct the affair. Look at it from the lion’s point of view. He is liberated. What does he do? He takes half a dozen bounds forward, which brings him to Ronder. Ronder turns to fly—the claw-marks were on the back of his head—but the lion strikes him down. Then, instead of bounding on and escaping, he returns to the woman, who was close to the cage, and he knocks her over and chews her face up. Then, again, those cries of hers would seem to imply that her husband had in some way failed her. What could the poor devil have done to help her? You see the difficulty?”&lt;/p&gt;
-
-&lt;p&gt;“Quite.”&lt;/p&gt;
-
-&lt;p&gt;“And then there was another thing. It comes back to me now as I think it over. There was some evidence that just at the time the lion roared and the woman screamed, a man began shouting in terror.”&lt;/p&gt;
-
-&lt;p&gt;“This man Ronder, no doubt.”&lt;/p&gt;
-
-&lt;p&gt;“Well, if his skull was smashed in you would hardly expect to hear from him again. There were at least two witnesses who spoke of the cries of a man being mingled with those of a woman.”&lt;/p&gt;
-
-&lt;p&gt;“I should think the whole camp was crying out by then. As to the other points, I think I could suggest a solution.”&lt;/p&gt;
-
-&lt;p&gt;“I should be glad to consider it.”&lt;/p&gt;
-
-&lt;p&gt;“The two were together, ten yards from the cage, when the lion got loose. The man turned and was struck down. The woman conceived the idea of getting into the cage and shutting the door. It was her only refuge. She made for it, and just as she reached it the beast bounded after her and knocked her over. She was angry with her husband for having encouraged the beast’s rage by turning. If they had faced it they might have cowed it. Hence her cries of ‘Coward!’”&lt;/p&gt;
-
-&lt;p&gt;“Brilliant, Watson! Only one flaw in your diamond.”&lt;/p&gt;
-
-&lt;p&gt;“What is the flaw, Holmes?”&lt;/p&gt;
-
-&lt;p&gt;“If they were both ten paces from the cage, how came the beast to get loose?”&lt;/p&gt;
-
-&lt;p&gt;“Is it possible that they had some enemy who loosed it?”&lt;/p&gt;
-
-&lt;p&gt;“And why should it attack them savagely when it was in the habit of playing with them, and doing tricks with them inside the cage?”&lt;/p&gt;
-
-&lt;p&gt;“Possibly the same enemy had done something to enrage it.”&lt;/p&gt;
-
-&lt;p&gt;Holmes looked thoughtful and remained in silence for some moments.&lt;/p&gt;
-
-&lt;p&gt;“Well, Watson, there is this to be said for your theory. Ronder was a man of many enemies. Edmunds told me that in his cups he was horrible. A huge bully of a man, he cursed and slashed at everyone who came in his way. I expect those cries about a monster, of which our visitor has spoken, were nocturnal reminiscences of the dear departed. However, our speculations are futile until we have all the facts. There is a cold partridge on the sideboard, Watson, and a bottle of Montrachet. Let us renew our energies before we make a fresh call upon them.”&lt;/p&gt;
-
-&lt;p&gt;When our hansom deposited us at the house of Mrs. Merrilow, we found that plump lady blocking up the open door of her humble but retired abode. It was very clear that her chief preoccupation was lest she should lose a valuable lodger, and she implored us, before showing us up, to say and do nothing which could lead to so undesirable an end. Then, having reassured her, we followed her up the straight, badly carpeted staircase and were shown into the room of the mysterious lodger.&lt;/p&gt;
-
-&lt;p&gt;It was a close, musty, ill-ventilated place, as might be expected, since its inmate seldom left it. From keeping beasts in a cage, the woman seemed, by some retribution of fate, to have become herself a beast in a cage. She sat now in a broken armchair in the shadowy corner of the room. Long years of inaction had coarsened the lines of her figure, but at some period it must have been beautiful, and was still full and voluptuous. A thick dark veil covered her face, but it was cut off close at her upper lip and disclosed a perfectly shaped mouth and a delicately rounded chin. I could well conceive that she had indeed been a very remarkable woman. Her voice, too, was well modulated and pleasing.&lt;/p&gt;
-
-&lt;p&gt;“My name is not unfamiliar to you, Mr. Holmes,” said she. “I thought that it would bring you.”&lt;/p&gt;
-
-&lt;p&gt;“That is so, madam, though I do not know how you are aware that I was interested in your case.”&lt;/p&gt;
-
-&lt;p&gt;“I learned it when I had recovered my health and was examined by Mr. Edmunds, the county detective. I fear I lied to him. Perhaps it would have been wiser had I told the truth.”&lt;/p&gt;
-
-&lt;p&gt;“It is usually wiser to tell the truth. But why did you lie to him?”&lt;/p&gt;
-
-&lt;p&gt;“Because the fate of someone else depended upon it. I know that he was a very worthless being, and yet I would not have his destruction upon my conscience. We had been so close—so close!”&lt;/p&gt;
-
-&lt;p&gt;“But has this impediment been removed?”&lt;/p&gt;
-
-&lt;p&gt;“Yes, sir. The person that I allude to is dead.”&lt;/p&gt;
-
-&lt;p&gt;“Then why should you not now tell the police anything you know?”&lt;/p&gt;
-
-&lt;p&gt;“Because there is another person to be considered. That other person is myself. I could not stand the scandal and publicity which would come from a police examination. I have not long to live, but I wish to die undisturbed. And yet I wanted to find one man of judgment to whom I could tell my terrible story, so that when I am gone all might be understood.”&lt;/p&gt;
-
-&lt;p&gt;“You compliment me, madam. At the same time, I am a responsible person. I do not promise you that when you have spoken I may not myself think it my duty to refer the case to the police.”&lt;/p&gt;
-
-&lt;p&gt;“I think not, Mr. Holmes. I know your character and methods too well, for I have followed your work for some years. Reading is the only pleasure which fate has left me, and I miss little which passes in the world. But in any case, I will take my chance of the use which you may make of my tragedy. It will ease my mind to tell it.”&lt;/p&gt;
-
-&lt;p&gt;“My friend and I would be glad to hear it.”&lt;/p&gt;
-
-&lt;p&gt;The woman rose and took from a drawer the photograph of a man. He was clearly a professional acrobat, a man of magnificent physique, taken with his huge arms folded across his swollen chest and a smile breaking from under his heavy moustache—the self-satisfied smile of the man of many conquests.&lt;/p&gt;
-
-&lt;p&gt;“That is Leonardo,” she said.&lt;/p&gt;
-
-&lt;p&gt;“Leonardo, the strong man, who gave evidence?”&lt;/p&gt;
-
-&lt;p&gt;“The same. And this—this is my husband.”&lt;/p&gt;
-
-&lt;p&gt;It was a dreadful face—a human pig, or rather a human wild boar, for it was formidable in its bestiality. One could imagine that vile mouth champing and foaming in its rage, and one could conceive those small, vicious eyes darting pure malignancy as they looked forth upon the world. Ruffian, bully, beast—it was all written on that heavy-jowled face.&lt;/p&gt;
-
-&lt;p&gt;“Those two pictures will help you, gentlemen, to understand the story. I was a poor circus girl brought up on the sawdust, and doing springs through the hoop before I was ten. When I became a woman this man loved me, if such lust as his can be called love, and in an evil moment I became his wife. From that day I was in hell, and he the devil who tormented me. There was no one in the show who did not know of his treatment. He deserted me for others. He tied me down and lashed me with his riding-whip when I complained. They all pitied me and they all loathed him, but what could they do? They feared him, one and all. For he was terrible at all times, and murderous when he was drunk. Again and again he was had up for assault, and for cruelty to the beasts, but he had plenty of money and the fines were nothing to him. The best men all left us, and the show began to go downhill. It was only Leonardo and I who kept it up—with little Jimmy Griggs, the clown. Poor devil, he had not much to be funny about, but he did what he could to hold things together.&lt;/p&gt;
-
-&lt;p&gt;“Then Leonardo came more and more into my life. You see what he was like. I know now the poor spirit that was hidden in that splendid body, but compared to my husband he seemed like the angel Gabriel. He pitied me and helped me, till at last our intimacy turned to love—deep, deep, passionate love, such love as I had dreamed of but never hoped to feel. My husband suspected it, but I think that he was a coward as well as a bully, and that Leonardo was the one man that he was afraid of. He took revenge in his own way by torturing me more than ever. One night my cries brought Leonardo to the door of our van. We were near tragedy that night, and soon my lover and I understood that it could not be avoided. My husband was not fit to live. We planned that he should die.&lt;/p&gt;
-
-&lt;p&gt;“Leonardo had a clever, scheming brain. It was he who planned it. I do not say that to blame him, for I was ready to go with him every inch of the way. But I should never have had the wit to think of such a plan. We made a club—Leonardo made it—and in the leaden head he fastened five long steel nails, the points outward, with just such a spread as the lion’s paw. This was to give my husband his death-blow, and yet to leave the evidence that it was the lion which we would loose who had done the deed.&lt;/p&gt;
-
-&lt;p&gt;“It was a pitch-dark night when my husband and I went down, as was our custom, to feed the beast. We carried with us the raw meat in a zinc pail. Leonardo was waiting at the corner of the big van which we should have to pass before we reached the cage. He was too slow, and we walked past him before he could strike, but he followed us on tiptoe and I heard the crash as the club smashed my husband’s skull. My heart leaped with joy at the sound. I sprang forward, and I undid the catch which held the door of the great lion’s cage.&lt;/p&gt;
-
-&lt;p&gt;“And then the terrible thing happened. You may have heard how quick these creatures are to scent human blood, and how it excites them. Some strange instinct had told the creature in one instant that a human being had been slain. As I slipped the bars it bounded out and was on me in an instant. Leonardo could have saved me. If he had rushed forward and struck the beast with his club he might have cowed it. But the man lost his nerve. I heard him shout in his terror, and then I saw him turn and fly. At the same instant the teeth of the lion met in my face. Its hot, filthy breath had already poisoned me and I was hardly conscious of pain. With the palms of my hands I tried to push the great steaming, blood-stained jaws away from me, and I screamed for help. I was conscious that the camp was stirring, and then dimly I remembered a group of men. Leonardo, Griggs, and others, dragging me from under the creature’s paws. That was my last memory, Mr. Holmes, for many a weary month. When I came to myself and saw myself in the mirror, I cursed that lion—oh, how I cursed him!—not because he had torn away my beauty but because he had not torn away my life. I had but one desire, Mr. Holmes, and I had enough money to gratify it. It was that I should cover myself so that my poor face should be seen by none, and that I should dwell where none whom I had ever known should find me. That was all that was left to me to do—and that is what I have done. A poor wounded beast that has crawled into its hole to die—that is the end of Eugenia Ronder.”&lt;/p&gt;
-
-&lt;p&gt;We sat in silence for some time after the unhappy woman had told her story. Then Holmes stretched out his long arm and patted her hand with such a show of sympathy as I had seldom known him to exhibit.&lt;/p&gt;
-
-&lt;p&gt;“Poor girl!” he said. “Poor girl! The ways of fate are indeed hard to understand. If there is not some compensation hereafter, then the world is a cruel jest. But what of this man Leonardo?”&lt;/p&gt;
-
-&lt;p&gt;“I never saw him or heard from him again. Perhaps I have been wrong to feel so bitterly against him. He might as soon have loved one of the freaks whom we carried round the country as the thing which the lion had left. But a woman’s love is not so easily set aside. He had left me under the beast’s claws, he had deserted me in my need, and yet I could not bring myself to give him to the gallows. For myself, I cared nothing what became of me. What could be more dreadful than my actual life? But I stood between Leonardo and his fate.”&lt;/p&gt;
-
-&lt;p&gt;“And he is dead?”&lt;/p&gt;
-
-&lt;p&gt;“He was drowned last month when bathing near Margate. I saw his death in the paper.”&lt;/p&gt;
-
-&lt;p&gt;“And what did he do with this five-clawed club, which is the most singular and ingenious part of all your story?”&lt;/p&gt;
-
-&lt;p&gt;“I cannot tell, Mr. Holmes. There is a chalk-pit by the camp, with a deep green pool at the base of it. Perhaps in the depths of that pool—”&lt;/p&gt;
-
-&lt;p&gt;“Well, well, it is of little consequence now. The case is closed.”&lt;/p&gt;
-
-&lt;p&gt;“Yes,” said the woman, “the case is closed.”&lt;/p&gt;
-
-&lt;p&gt;We had risen to go, but there was something in the woman’s voice which arrested Holmes’s attention. He turned swiftly upon her.&lt;/p&gt;
-
-&lt;p&gt;“Your life is not your own,” he said. “Keep your hands off it.”&lt;/p&gt;
-
-&lt;p&gt;“What use is it to anyone?”&lt;/p&gt;
-
-&lt;p&gt;“How can you tell? The example of patient suffering is in itself the most precious of all lessons to an impatient world.”&lt;/p&gt;
-
-&lt;p&gt;The woman’s answer was a terrible one. She raised her veil and stepped forward into the light.&lt;/p&gt;
-
-&lt;p&gt;“I wonder if you would bear it,” she said.&lt;/p&gt;</content><summary type="html">This is an example blog post</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/post1.jpg" /></entry><entry><title type="html">Everything you need to know about Sheffield Theatres</title><link href="http://localhost:4000/jekyll/update/2017/01/24/helloooooooooo.html" rel="alternate" type="text/html" title="Everything you need to know about Sheffield Theatres" /><published>2017-01-24T23:35:20+00:00</published><updated>2017-01-24T23:35:20+00:00</updated><id>http://localhost:4000/jekyll/update/2017/01/24/helloooooooooo</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/01/24/helloooooooooo.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">argles</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/hero.jpg" /></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/01/24/Third-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-01-24T23:35:20+00:00</published><updated>2017-01-24T23:35:20+00:00</updated><id>http://localhost:4000/jekyll/update/2017/01/24/Third%20post</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/01/24/Third-post.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;http://localhost:4000/images/hero.jpg&quot; class=&quot;full&quot; /&gt;
-&lt;figcaption&gt;Sheffield boasts the largest theatre complex in the country beyond London.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Small batch locavore flannel, cold-pressed salvia chillwave gentrify butcher pok pok. Etsy deep v authentic raclette. Synth brooklyn typewriter, fap truffaut artisan distillery kickstarter semiotics post-ironic offal chia schlitz butcher roof party. Whatever direct trade cold-pressed viral ramps ugh. Street art single-origin coffee tumblr cornhole, live-edge banh mi air plant pok pok messenger bag swag narwhal. Truffaut dreamcatcher keytar organic irony viral, fingerstache taxidermy flexitarian authentic. Distillery yr echo park, vaporware snackwave cronut keytar tattooed seitan blue bottle glossier bicycle rights.&lt;/p&gt;
-
-&lt;p&gt;Retro enamel pin bitters, distillery mlkshk pok pok mustache. Meh kickstarter PBR&amp;amp;B irony four loko, tacos ennui artisan vegan letterpress hell of chambray swag. Celiac seitan glossier waistcoat wolf freegan dreamcatcher church-key viral, quinoa poutine pitchfork etsy snackwave pickled. Godard whatever aesthetic, poke vice chambray neutra blue bottle mustache gastropub pok pok post-ironic kinfolk jean shorts. Microdosing iceland skateboard, stumptown vinyl authentic bitters af tattooed. Poke cold-pressed mumblecore kitsch iPhone raclette. 90’s bushwick lumbersexual ugh retro enamel pin.&lt;/p&gt;
-
-&lt;p&gt;Glossier small batch YOLO PBR&amp;amp;B, deep v knausgaard cliche viral kinfolk fanny pack cred. Kickstarter hella squid deep v pabst, la croix shoreditch hoodie green juice chillwave cliche sustainable letterpress williamsburg. Messenger bag pinterest cornhole ramps iceland farm-to-table, +1 edison bulb YOLO letterpress echo park bitters cold-pressed offal. Listicle cliche locavore migas you probably haven’t heard of them. Flexitarian kombucha tousled tattooed butcher fashion axe. Austin hell of lomo waistcoat seitan yuccie. Cold-pressed schlitz marfa, franzen bushwick bespoke letterpress shabby chic.&lt;/p&gt;
-
-&lt;p&gt;Vexillologist ramps snackwave beard pinterest, cred brooklyn hot chicken sartorial vegan skateboard neutra gochujang keffiyeh. Artisan keytar affogato, crucifix pop-up everyday carry street art cronut literally PBR&amp;amp;B tbh brunch. Authentic kickstarter next level organic, farm-to-table iPhone gentrify butcher ugh echo park brooklyn hot chicken occupy. Paleo chicharrones pinterest, biodiesel cardigan hot chicken tattooed chambray kinfolk brooklyn bespoke. Flannel literally ramps copper mug narwhal four loko. Pork belly migas portland mixtape, authentic lumbersexual deep v fashion axe vexillologist asymmetrical farm-to-table. IPhone photo booth biodiesel, before they sold out jean shorts cornhole banh mi venmo tacos lo-fi etsy.&lt;/p&gt;</content><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Smoke Media website rebrand!</title><link href="http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand.html" rel="alternate" type="text/html" title="Smoke Media website rebrand!" /><published>2017-01-24T23:35:20+00:00</published><updated>2017-01-24T23:35:20+00:00</updated><id>http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand</id><content type="html" xml:base="http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;</content><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/work1.jpg" /></entry><entry><title type="html">Some really obnoxiously long post title could be possible so just make sure it doesn’t break all the things for real, yo, okay?</title><link href="http://localhost:4000/2014/01/12/really-long-title-post.html" rel="alternate" type="text/html" title="Some really obnoxiously long post title could be possible so just make sure it doesn't break all the things for real, yo, okay?" /><published>2014-01-12T00:00:00+00:00</published><updated>2014-01-12T00:00:00+00:00</updated><id>http://localhost:4000/2014/01/12/really-long-title-post</id><content type="html" xml:base="http://localhost:4000/2014/01/12/really-long-title-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sodales ac orci vitae vulputate. Maecenas in tortor non metus euismod sollicitudin. Etiam tincidunt pretium diam gravida elementum. Phasellus eu lacus ut massa sagittis suscipit eget eu dui. Donec metus enim, sodales convallis mauris varius, vestibulum sollicitudin lorem. Mauris venenatis nulla ut eros blandit gravida. Nulla gravida, tortor nec dapibus suscipit, eros enim consequat odio, at tempus massa sapien vel felis. Mauris iaculis massa mi.&lt;/p&gt;
-
-&lt;p&gt;Integer mollis tortor ac adipiscing facilisis. Donec egestas vel ligula vitae vestibulum. Fusce laoreet ligula nec luctus vestibulum. Sed et odio metus. Aliquam interdum vel elit et lacinia. Sed porta consectetur ligula, non bibendum nulla varius sit amet. Nullam a feugiat massa. Fusce quis augue at enim aliquam sodales a nec nulla. Morbi fringilla nulla et dui laoreet ornare. Praesent id turpis urna. Quisque mattis in tellus in cursus. Proin pellentesque mollis nisi quis faucibus. Fusce in laoreet neque. Nunc in risus non turpis tristique vulputate in bibendum tellus.&lt;/p&gt;
-
-&lt;p&gt;Sed quis sem consectetur, mattis nunc vel, tincidunt est. Vivamus vitae risus eget erat varius fermentum non sed nisi. Fusce eget diam in tellus aliquet suscipit ac non dolor. Suspendisse pretium elit vel mauris convallis aliquet. Etiam blandit, nulla ut posuere pulvinar, enim mi imperdiet quam, aliquam tincidunt tellus est nec velit. Aliquam ut ante tincidunt, commodo dolor id, accumsan nunc. Mauris semper dolor a ligula vulputate adipiscing. Nam euismod velit massa, vitae sodales tortor consectetur nec. Vivamus nec nisl at nulla hendrerit porttitor. Aliquam a nibh et nunc blandit vestibulum. Quisque odio risus, volutpat eget rhoncus vel, rutrum sed mi. Ut id mi eget risus volutpat imperdiet lacinia in justo. In hac habitasse platea dictumst. Aliquam a nunc elementum, accumsan nibh vel, ornare quam. Cras tellus sapien, blandit in mattis sit amet, ultricies non ligula. Phasellus pharetra tincidunt elit, sit amet gravida sapien tincidunt sit amet.&lt;/p&gt;</content><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sodales ac orci vitae vulputate. Maecenas in tortor non metus euismod sollicitudin. Etiam tincidunt pretium diam gravida elementum. Phasellus eu lacus ut massa sagittis suscipit eget eu dui. Donec metus enim, sodales convallis mauris varius, vestibulum sollicitudin lorem. Mauris venenatis nulla ut eros blandit gravida. Nulla gravida, tortor nec dapibus suscipit, eros enim consequat odio, at tempus massa sapien vel felis. Mauris iaculis massa mi.</summary></entry><entry><title type="html">Bacon Ipsum (Long)</title><link href="http://localhost:4000/loremipsum/2013/12/24/bacon-ipsum-long.html" rel="alternate" type="text/html" title="Bacon Ipsum (Long)" /><published>2013-12-24T00:00:00+00:00</published><updated>2013-12-24T00:00:00+00:00</updated><id>http://localhost:4000/loremipsum/2013/12/24/bacon-ipsum-long</id><content type="html" xml:base="http://localhost:4000/loremipsum/2013/12/24/bacon-ipsum-long.html">&lt;p&gt;Bacon ipsum dolor sit amet flank sunt jerky dolore beef. Ut aute ham hock hamburger pork loin dolor esse ground round tenderloin consequat chicken veniam enim. Dolore kielbasa kevin andouille flank id consectetur chicken voluptate tenderloin. Jerky beef ribs tri-tip, kielbasa tail corned beef non. Sausage id ex kielbasa meatloaf sed drumstick ad kevin landjaeger ut. Consequat venison frankfurter, culpa swine aliquip turkey tempor beef. Prosciutto shank boudin leberkas pastrami.&lt;/p&gt;
-
-&lt;p&gt;Pancetta aliqua boudin, spare ribs pork salami ut consectetur ham exercitation jowl voluptate officia et irure. Tongue ground round pork belly deserunt. Sint chuck proident short ribs incididunt, nisi beef ribs pariatur drumstick rump brisket. Sausage beef ribs proident, brisket non ea turducken meatloaf bacon pariatur bresaola excepteur velit flank sed. Ea ad corned beef andouille velit excepteur voluptate flank pancetta, mollit et short loin tenderloin cillum. Jerky tri-tip magna, adipisicing boudin tongue ut sed laboris fugiat pork chop salami pancetta.&lt;/p&gt;
-
-&lt;p&gt;Excepteur kielbasa elit, eu turkey est incididunt. Ham dolore pork loin leberkas pig cow chuck salami meatloaf in ex do consequat ut tongue. In proident quis consectetur adipisicing frankfurter. Non turducken ham hock kielbasa excepteur short loin. Spare ribs bacon rump commodo short loin ground round chuck ball tip meatloaf in officia.&lt;/p&gt;
-
-&lt;p&gt;Ut est kielbasa, labore short loin salami officia corned beef shankle jowl frankfurter sunt. Andouille shoulder minim laborum est, proident officia. Fugiat ut t-bone, dolore bacon irure ham sirloin jowl strip steak nisi sed. Capicola dolor ribeye, spare ribs irure shoulder pork commodo incididunt consectetur. Reprehenderit cupidatat ribeye, commodo prosciutto non laborum et strip steak jowl chuck bresaola.&lt;/p&gt;
-
-&lt;p&gt;Qui corned beef aliquip fatback. Kielbasa sed consequat aute venison biltong dolore. Frankfurter chuck pancetta, laborum drumstick flank leberkas dolore irure hamburger brisket ad in aute. In ut est beef dolore bresaola velit pariatur.&lt;/p&gt;
-
-&lt;p&gt;Consequat eiusmod magna, ham tongue ullamco sunt elit incididunt et ham hock biltong mollit doner commodo. Corned beef enim voluptate, cupidatat ut eu in pork flank qui fugiat et dolore chicken minim. Et ham hock commodo, cow proident officia aliquip aute tri-tip ground round doner dolore ullamco pancetta. Sausage incididunt ut, ullamco minim shank turducken. Rump deserunt hamburger jerky pancetta. Commodo venison shoulder, pastrami dolore salami ad turkey flank minim excepteur. Capicola kevin corned beef non, ham nisi hamburger shankle.&lt;/p&gt;
-
-&lt;p&gt;Shankle dolore flank sausage proident rump ullamco aliquip voluptate. Sed pastrami beef ribs rump filet mignon veniam chuck. In dolore tenderloin aliquip boudin frankfurter ullamco. Enim shank pork loin, brisket cupidatat ham hock proident qui pig do filet mignon hamburger consequat minim. Tongue nostrud pork loin chicken, meatloaf pork belly voluptate ex elit reprehenderit sirloin. Corned beef culpa drumstick, pork chop bacon ex cow ribeye chicken labore cillum pork loin ham.&lt;/p&gt;
-
-&lt;p&gt;Aute duis sausage tongue esse bresaola prosciutto commodo filet mignon pork belly ut officia doner turkey hamburger. Beef ribs filet mignon aliquip turkey. Velit minim flank drumstick ham. Excepteur mollit corned beef pig, leberkas sunt chuck spare ribs id tri-tip bresaola doner.&lt;/p&gt;
-
-&lt;p&gt;Duis veniam est, shank labore culpa short loin hamburger shankle aliquip anim. T-bone ex landjaeger sunt, do tail officia turducken ut labore laborum. Meatball doner rump, ham aute veniam consequat biltong swine venison. Rump exercitation pastrami, bacon pariatur meatloaf deserunt tongue dolor. Tongue fugiat tenderloin venison beef kielbasa. Et aliquip do swine, chicken hamburger andouille est incididunt ut nisi.&lt;/p&gt;
-
-&lt;p&gt;Prosciutto sunt pancetta, reprehenderit aliqua irure culpa kevin jowl chicken nostrud corned beef shankle. Leberkas tri-tip in, meatloaf strip steak flank capicola. Ad beef ribs turducken ex fatback occaecat excepteur. Ribeye ut chicken salami nostrud hamburger pariatur nisi anim mollit. Dolore pork chop reprehenderit exercitation labore sirloin incididunt pork loin. Non ribeye irure prosciutto. Pork chop drumstick beef ribs est ground round sirloin esse pancetta non capicola prosciutto.&lt;/p&gt;
-
-&lt;p&gt;Id tenderloin bacon meatball consequat ham hock eiusmod ullamco swine chuck tri-tip aliquip pancetta. Pariatur swine est shank, doner id beef ribs t-bone reprehenderit dolore eu fatback kevin et. Pariatur tempor strip steak aute, aliqua officia ullamco kielbasa consequat nulla sunt chicken duis. Turkey tongue meatloaf aliqua velit boudin flank. Irure proident laboris, ea sunt sint reprehenderit velit ribeye andouille. Do beef ribs strip steak, voluptate shoulder pariatur minim. Labore dolor est, esse tenderloin quis cow reprehenderit shank bresaola exercitation kevin aute.&lt;/p&gt;
-
-&lt;p&gt;Frankfurter ullamco landjaeger, reprehenderit short ribs officia occaecat qui pancetta ham veniam fugiat boudin deserunt leberkas. Shank tri-tip pork loin enim fatback do mollit ut. Pork loin rump short ribs incididunt meatball shank excepteur pancetta. Pork loin fugiat pastrami turkey. Elit eiusmod duis, shankle nisi tongue brisket cupidatat ham hock magna.&lt;/p&gt;
-
-&lt;p&gt;Pork belly id strip steak pork chop commodo. Ut t-bone in, minim consectetur turducken nulla bacon irure ea. Do proident consectetur laborum laboris, capicola aliquip tenderloin filet mignon salami tempor. Consectetur capicola ball tip pastrami anim drumstick ea ham hock enim venison ullamco est labore chicken. Deserunt doner qui flank beef, kielbasa pariatur id in elit.&lt;/p&gt;
-
-&lt;p&gt;Salami exercitation frankfurter veniam. Tail beef ut beef ribs veniam. Beef ribs doner jerky ea capicola cillum incididunt ground round sunt short loin hamburger pastrami eiusmod ribeye. Aute strip steak cupidatat, pork chop deserunt sint ground round. Pork loin mollit minim nulla pariatur. In tri-tip pork chop, pork belly beef ribs quis culpa elit fugiat sint.&lt;/p&gt;
-
-&lt;p&gt;Turkey pork chop flank biltong beef. Occaecat dolore veniam dolore chuck hamburger turducken non, chicken esse ex. Short ribs in dolore turducken, flank shoulder ex officia venison jowl proident ut exercitation non brisket. Short loin tail irure beef in dolore. Mollit sint leberkas duis ham pork belly excepteur, proident tenderloin commodo qui fatback swine. Filet mignon do venison et excepteur ullamco.&lt;/p&gt;
-
-&lt;p&gt;Laboris do biltong, tail doner short loin short ribs excepteur. Ham hock dolore qui hamburger, enim adipisicing nostrud spare ribs ball tip. Proident ut et in, aute fugiat spare ribs esse ribeye. Ham hock occaecat anim, et shank tenderloin nostrud.&lt;/p&gt;
-
-&lt;p&gt;Swine leberkas ham beef est. Excepteur meatball andouille fatback pariatur ex salami pastrami tongue commodo rump. Nisi aliquip pariatur laboris, pork belly meatloaf fatback quis. Veniam do chicken tempor. Occaecat esse spare ribs aliqua eu. Ham aliquip in ex proident enim sed nulla ea brisket cow. Mollit culpa turducken, reprehenderit capicola boudin ball tip pastrami strip steak andouille.&lt;/p&gt;
-
-&lt;p&gt;Esse tail excepteur tempor short loin laborum. Drumstick eiusmod beef ribs t-bone sint nisi. Eu ullamco pancetta nisi. Do filet mignon chuck ea cupidatat pork chop veniam. Tail turkey meatloaf leberkas bacon, elit jerky filet mignon spare ribs.&lt;/p&gt;
-
-&lt;p&gt;Jerky sirloin doner dolore sunt spare ribs, biltong hamburger ball tip filet mignon tenderloin drumstick nostrud. Jowl shoulder labore do, venison chicken culpa boudin ham hock tri-tip. T-bone dolore minim anim, in deserunt velit esse beef. Consectetur anim jerky culpa fugiat ut sint ut t-bone cupidatat. Venison irure tongue chicken.&lt;/p&gt;
-
-&lt;p&gt;Kevin in tongue officia culpa enim occaecat quis frankfurter dolore tri-tip jowl ea doner. Ex non ad do doner short loin magna tri-tip. Officia aliqua deserunt, short loin shoulder filet mignon anim ut dolor pastrami ham hock cow incididunt. Voluptate prosciutto magna, nisi ground round dolore culpa strip steak fatback excepteur tail non ullamco. Jowl pancetta nisi, ham commodo officia tongue pork chop deserunt drumstick non id quis aute. Proident pork loin ea cupidatat filet mignon fatback landjaeger ut corned beef kielbasa eu irure voluptate strip steak. Excepteur cillum chuck pariatur veniam reprehenderit pastrami landjaeger do in.&lt;/p&gt;</content><summary type="html">Bacon ipsum dolor sit amet flank sunt jerky dolore beef. Ut aute ham hock hamburger pork loin dolor esse ground round tenderloin consequat chicken veniam enim. Dolore kielbasa kevin andouille flank id consectetur chicken voluptate tenderloin. Jerky beef ribs tri-tip, kielbasa tail corned beef non. Sausage id ex kielbasa meatloaf sed drumstick ad kevin landjaeger ut. Consequat venison frankfurter, culpa swine aliquip turkey tempor beef. Prosciutto shank boudin leberkas pastrami.</summary></entry><entry><title type="html">Bacon Ipsum (Tiny)</title><link href="http://localhost:4000/loremipsum/work/2013/12/18/bacon-ipsum-tiny.html" rel="alternate" type="text/html" title="Bacon Ipsum (Tiny)" /><published>2013-12-18T00:00:00+00:00</published><updated>2013-12-18T00:00:00+00:00</updated><id>http://localhost:4000/loremipsum/work/2013/12/18/bacon-ipsum-tiny</id><content type="html" xml:base="http://localhost:4000/loremipsum/work/2013/12/18/bacon-ipsum-tiny.html">&lt;p&gt;Bacon ipsum dolor sit amet flank sunt jerky dolore beef. Ut aute ham hock hamburger pork loin dolor esse ground round tenderloin consequat chicken veniam enim. Dolore kielbasa kevin andouille flank id consectetur chicken voluptate tenderloin.&lt;/p&gt;</content><summary type="html">Bacon ipsum dolor sit amet flank sunt jerky dolore beef. Ut aute ham hock hamburger pork loin dolor esse ground round tenderloin consequat chicken veniam enim. Dolore kielbasa kevin andouille flank id consectetur chicken voluptate tenderloin.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/me.jpg" /></entry><entry><title type="html">Bacon Ipsum (Short)</title><link href="http://localhost:4000/loremipsum/2013/12/18/bacon-ipsum-short.html" rel="alternate" type="text/html" title="Bacon Ipsum (Short)" /><published>2013-12-18T00:00:00+00:00</published><updated>2013-12-18T00:00:00+00:00</updated><id>http://localhost:4000/loremipsum/2013/12/18/bacon-ipsum-short</id><content type="html" xml:base="http://localhost:4000/loremipsum/2013/12/18/bacon-ipsum-short.html">&lt;p&gt;Bacon ipsum dolor sit amet flank sunt jerky dolore beef. Ut aute ham hock hamburger pork loin dolor esse ground round tenderloin consequat chicken veniam enim. Dolore kielbasa kevin andouille flank id consectetur chicken voluptate tenderloin. Jerky beef ribs tri-tip, kielbasa tail corned beef non. Sausage id ex kielbasa meatloaf sed drumstick ad kevin landjaeger ut. Consequat venison frankfurter, culpa swine aliquip turkey tempor beef. Prosciutto shank boudin leberkas pastrami.&lt;/p&gt;
-
-&lt;p&gt;Pancetta aliqua boudin, spare ribs pork salami ut consectetur ham exercitation jowl voluptate officia et irure. Tongue ground round pork belly deserunt. Sint chuck proident short ribs incididunt, nisi beef ribs pariatur drumstick rump brisket. Sausage beef ribs proident, brisket non ea turducken meatloaf bacon pariatur bresaola excepteur velit flank sed. Ea ad corned beef andouille velit excepteur voluptate flank pancetta, mollit et short loin tenderloin cillum. Jerky tri-tip magna, adipisicing boudin tongue ut sed laboris fugiat pork chop salami pancetta.&lt;/p&gt;</content><summary type="html">Bacon ipsum dolor sit amet flank sunt jerky dolore beef. Ut aute ham hock hamburger pork loin dolor esse ground round tenderloin consequat chicken veniam enim. Dolore kielbasa kevin andouille flank id consectetur chicken voluptate tenderloin. Jerky beef ribs tri-tip, kielbasa tail corned beef non. Sausage id ex kielbasa meatloaf sed drumstick ad kevin landjaeger ut. Consequat venison frankfurter, culpa swine aliquip turkey tempor beef. Prosciutto shank boudin leberkas pastrami.</summary></entry><entry><title type="html">The Adventure of the Veiled Lodger</title><link href="http://localhost:4000/literature/2012/07/24/the-adventure-of-the-veiled-lodger.html" rel="alternate" type="text/html" title="The Adventure of the Veiled Lodger" /><published>2012-07-24T00:00:00+01:00</published><updated>2012-07-24T00:00:00+01:00</updated><id>http://localhost:4000/literature/2012/07/24/the-adventure-of-the-veiled-lodger</id><content type="html" xml:base="http://localhost:4000/literature/2012/07/24/the-adventure-of-the-veiled-lodger.html">&lt;h1 id=&quot;the-adventure-of-the-veiled-lodger&quot;&gt;The Adventure of the Veiled Lodger&lt;/h1&gt;
-&lt;p&gt;by Arthur Conan Doyle&lt;/p&gt;
-
-&lt;p&gt;When one considers that Mr. Sherlock Holmes was in active practice for twenty-three years, and that during seventeen of these I was allowed to cooperate with him and to keep notes of his doings, it will be clear that I have a mass of material at my command. The problem has always been not to find but to choose. There is the long row of year-books which fill a shelf, and there are the dispatch-cases filled with documents, a perfect quarry for the student not only of crime but of the social and official scandals of the late Victorian era. Concerning these latter, I may say that the writers of agonized letters, who beg that the honour of their families or the reputation of famous forebears may not be touched, have nothing to fear. The discretion and high sense of professional honour which have always distinguished my friend are still at work in the choice of these memoirs, and no confidence will be abused. I deprecate, however, in the strongest way the attempts which have been made lately to get at and to destroy these papers. The source of these outrages is known, and if they are repeated I have Mr. Holmes’s authority for saying that the whole story concerning the politician, the lighthouse, and the trained cormorant will be given to the public. There is at least one reader who will understand.&lt;/p&gt;
-
-&lt;p&gt;It is not reasonable to suppose that every one of these cases gave Holmes the opportunity of showing those curious gifts of instinct and observation which I have endeavoured to set forth in these memoirs. Sometimes he had with much effort to pick the fruit, sometimes it fell easily into his lap. But the most terrible human tragedies were often involved in those cases which brought him the fewest personal opportunities, and it is one of these which I now desire to record. In telling it, I have made a slight change of name and place, but otherwise the facts are as stated.&lt;/p&gt;
-
-&lt;p&gt;One forenoon—it was late in 1896—I received a hurried note from Holmes asking for my attendance. When I arrived I found him seated in a smoke-laden atmosphere, with an elderly, motherly woman of the buxom landlady type in the corresponding chair in front of him.&lt;/p&gt;
-
-&lt;p&gt;“This is Mrs. Merrilow, of South Brixton,” said my friend with a wave of the hand. “Mrs. Merrilow does not object to tobacco, Watson, if you wish to indulge your filthy habits. Mrs. Merrilow has an interesting story to tell which may well lead to further developments in which your presence may be useful.”&lt;/p&gt;
-
-&lt;p&gt;“Anything I can do—”&lt;/p&gt;
-
-&lt;p&gt;“You will understand, Mrs. Merrilow, that if I come to Mrs. Ronder I should prefer to have a witness. You will make her understand that before we arrive.”&lt;/p&gt;
-
-&lt;p&gt;“Lord bless you, Mr. Holmes,” said our visitor, “she is that anxious to see you that you might bring the whole parish at your heels!”&lt;/p&gt;
-
-&lt;p&gt;“Then we shall come early in the afternoon. Let us see that we have our facts correct before we start. If we go over them it will help Dr. Watson to understand the situation. You say that Mrs. Ronder has been your lodger for seven years and that you have only once seen her face.”&lt;/p&gt;
-
-&lt;p&gt;“And I wish to God I had not!” said Mrs. Merrilow.&lt;/p&gt;
-
-&lt;p&gt;“It was, I understand, terribly mutilated.”&lt;/p&gt;
-
-&lt;p&gt;“Well, Mr. Holmes, you would hardly say it was a face at all. That’s how it looked. Our milkman got a glimpse of her once peeping out of the upper window, and he dropped his tin and the milk all over the front garden. That is the kind of face it is. When I saw her—I happened on her unawares—she covered up quick, and then she said, ‘Now, Mrs. Merrilow, you know at last why it is that I never raise my veil.’”&lt;/p&gt;
-
-&lt;p&gt;“Do you know anything about her history?”&lt;/p&gt;
-
-&lt;p&gt;“Nothing at all.”&lt;/p&gt;
-
-&lt;p&gt;“Did she give references when she came?”&lt;/p&gt;
-
-&lt;p&gt;“No, sir, but she gave hard cash, and plenty of it. A quarter’s rent right down on the table in advance and no arguing about terms. In these times a poor woman like me can’t afford to turn down a chance like that.”&lt;/p&gt;
-
-&lt;p&gt;“Did she give any reason for choosing your house?”&lt;/p&gt;
-
-&lt;p&gt;“Mine stands well back from the road and is more private than most. Then, again, I only take the one, and I have no family of my own. I reckon she had tried others and found that mine suited her best. It’s privacy she is after, and she is ready to pay for it.”&lt;/p&gt;
-
-&lt;p&gt;“You say that she never showed her face from first to last save on the one accidental occasion. Well, it is a very remarkable story, most remarkable, and I don’t wonder that you want it examined.”&lt;/p&gt;
-
-&lt;p&gt;“I don’t, Mr. Holmes. I am quite satisfied so long as I get my rent. You could not have a quieter lodger, or one who gives less trouble.”&lt;/p&gt;
-
-&lt;p&gt;“Then what has brought matters to a head?”&lt;/p&gt;
-
-&lt;p&gt;“Her health, Mr. Holmes. She seems to be wasting away. And there’s something terrible on her mind. ‘Murder!’ she cries. ‘Murder!’ And once I heard her: ‘You cruel beast! You monster!’ she cried. It was in the night, and it fair rang through the house and sent the shivers through me. So I went to her in the morning. ‘Mrs. Ronder,’ I says, ‘if you have anything that is troubling your soul, there’s the clergy,’ I says, ‘and there’s the police. Between them you should get some help.’ ‘For God’s sake, not the police!’ says she, ‘and the clergy can’t change what is past. And yet,’ she says, ‘it would ease my mind if someone knew the truth before I died.’ ‘Well,’ says I, ‘if you won’t have the regulars, there is this detective man what we read about’—beggin’ your pardon, Mr. Holmes. And she, she fair jumped at it. ‘That’s the man,’ says she. ‘I wonder I never thought of it before. Bring him here, Mrs. Merrilow, and if he won’t come, tell him I am the wife of Ronder’s wild beast show. Say that, and give him the name Abbas Parva. Here it is as she wrote it, Abbas Parva. ‘That will bring him if he’s the man I think he is.’”&lt;/p&gt;
-
-&lt;p&gt;“And it will, too,” remarked Holmes. “Very good, Mrs. Merrilow. I should like to have a little chat with Dr. Watson. That will carry us till lunch-time. About three o’clock you may expect to see us at your house in Brixton.”&lt;/p&gt;
-
-&lt;p&gt;Our visitor had no sooner waddled out of the room—no other verb can describe Mrs. Merrilow’s method of progression—than Sherlock Holmes threw himself with fierce energy upon the pile of commonplace books in the corner. For a few minutes there was a constant swish of the leaves, and then with a grunt of satisfaction he came upon what he sought. So excited was he that he did not rise, but sat upon the floor like some strange Buddha, with crossed legs, the huge books all round him, and one open upon his knees.&lt;/p&gt;
-
-&lt;p&gt;“The case worried me at the time, Watson. Here are my marginal notes to prove it. I confess that I could make nothing of it. And yet I was convinced that the coroner was wrong. Have you no recollection of the Abbas Parva tragedy?”&lt;/p&gt;
-
-&lt;p&gt;“None, Holmes.”&lt;/p&gt;
-
-&lt;p&gt;“And yet you were with me then. But certainly my own impression was very superficial. For there was nothing to go by, and none of the parties had engaged my services. Perhaps you would care to read the papers?”&lt;/p&gt;
-
-&lt;p&gt;“Could you not give me the points?”&lt;/p&gt;
-
-&lt;p&gt;“That is very easily done. It will probably come back to your memory as I talk. Ronder, of course, was a household word. He was the rival of Wombwell, and of Sanger, one of the greatest showmen of his day. There is evidence, however, that he took to drink, and that both he and his show were on the down grade at the time of the great tragedy. The caravan had halted for the night at Abbas Parva, which is a small village in Berkshire, when this horror occurred. They were on their way to Wimbledon, travelling by road, and they were simply camping and not exhibiting, as the place is so small a one that it would not have paid them to open.&lt;/p&gt;
-
-&lt;p&gt;“They had among their exhibits a very fine North African lion. Sahara King was its name, and it was the habit, both of Ronder and his wife, to give exhibitions inside its cage. Here, you see, is a photograph of the performance by which you will perceive that Ronder was a huge porcine person and that his wife was a very magnificent woman. It was deposed at the inquest that there had been some signs that the lion was dangerous, but, as usual, familiarity begat contempt, and no notice was taken of the fact.&lt;/p&gt;
-
-&lt;p&gt;“It was usual for either Ronder or his wife to feed the lion at night. Sometimes one went, sometimes both, but they never allowed anyone else to do it, for they believed that so long as they were the food-carriers he would regard them as benefactors and would never molest them. On this particular night, seven years ago, they both went, and a very terrible happening followed, the details of which have never been made clear.&lt;/p&gt;
-
-&lt;p&gt;“It seems that the whole camp was roused near midnight by the roars of the animal and the screams of the woman. The different grooms and employees rushed from their tents, carrying lanterns, and by their light an awful sight was revealed. Ronder lay, with the back of his head crushed in and deep claw-marks across his scalp, some ten yards from the cage, which was open. Close to the door of the cage lay Mrs. Ronder upon her back, with the creature squatting and snarling above her. It had torn her face in such a fashion that it was never thought that she could live. Several of the circus men, headed by Leonardo, the strong man, and Griggs, the clown, drove the creature off with poles, upon which it sprang back into the cage and was at once locked in. How it had got loose was a mystery. It was conjectured that the pair intended to enter the cage, but that when the door was loosed the creature bounded out upon them. There was no other point of interest in the evidence save that the woman in a delirium of agony kept screaming, ‘Coward! Coward!’ as she was carried back to the van in which they lived. It was six months before she was fit to give evidence, but the inquest was duly held, with the obvious verdict of death from misadventure.”&lt;/p&gt;
-
-&lt;p&gt;“What alternative could be conceived?” said I.&lt;/p&gt;
-
-&lt;p&gt;“You may well say so. And yet there were one or two points which worried young Edmunds, of the Berkshire Constabulary. A smart lad that! He was sent later to Allahabad. That was how I came into the matter, for he dropped in and smoked a pipe or two over it.”&lt;/p&gt;
-
-&lt;p&gt;“A thin, yellow-haired man?”&lt;/p&gt;
-
-&lt;p&gt;“Exactly. I was sure you would pick up the trail presently.”&lt;/p&gt;
-
-&lt;p&gt;“But what worried him?”&lt;/p&gt;
-
-&lt;p&gt;“Well, we were both worried. It was so deucedly difficult to reconstruct the affair. Look at it from the lion’s point of view. He is liberated. What does he do? He takes half a dozen bounds forward, which brings him to Ronder. Ronder turns to fly—the claw-marks were on the back of his head—but the lion strikes him down. Then, instead of bounding on and escaping, he returns to the woman, who was close to the cage, and he knocks her over and chews her face up. Then, again, those cries of hers would seem to imply that her husband had in some way failed her. What could the poor devil have done to help her? You see the difficulty?”&lt;/p&gt;
-
-&lt;p&gt;“Quite.”&lt;/p&gt;
-
-&lt;p&gt;“And then there was another thing. It comes back to me now as I think it over. There was some evidence that just at the time the lion roared and the woman screamed, a man began shouting in terror.”&lt;/p&gt;
-
-&lt;p&gt;“This man Ronder, no doubt.”&lt;/p&gt;
-
-&lt;p&gt;“Well, if his skull was smashed in you would hardly expect to hear from him again. There were at least two witnesses who spoke of the cries of a man being mingled with those of a woman.”&lt;/p&gt;
-
-&lt;p&gt;“I should think the whole camp was crying out by then. As to the other points, I think I could suggest a solution.”&lt;/p&gt;
-
-&lt;p&gt;“I should be glad to consider it.”&lt;/p&gt;
-
-&lt;p&gt;“The two were together, ten yards from the cage, when the lion got loose. The man turned and was struck down. The woman conceived the idea of getting into the cage and shutting the door. It was her only refuge. She made for it, and just as she reached it the beast bounded after her and knocked her over. She was angry with her husband for having encouraged the beast’s rage by turning. If they had faced it they might have cowed it. Hence her cries of ‘Coward!’”&lt;/p&gt;
-
-&lt;p&gt;“Brilliant, Watson! Only one flaw in your diamond.”&lt;/p&gt;
-
-&lt;p&gt;“What is the flaw, Holmes?”&lt;/p&gt;
-
-&lt;p&gt;“If they were both ten paces from the cage, how came the beast to get loose?”&lt;/p&gt;
-
-&lt;p&gt;“Is it possible that they had some enemy who loosed it?”&lt;/p&gt;
-
-&lt;p&gt;“And why should it attack them savagely when it was in the habit of playing with them, and doing tricks with them inside the cage?”&lt;/p&gt;
-
-&lt;p&gt;“Possibly the same enemy had done something to enrage it.”&lt;/p&gt;
-
-&lt;p&gt;Holmes looked thoughtful and remained in silence for some moments.&lt;/p&gt;
-
-&lt;p&gt;“Well, Watson, there is this to be said for your theory. Ronder was a man of many enemies. Edmunds told me that in his cups he was horrible. A huge bully of a man, he cursed and slashed at everyone who came in his way. I expect those cries about a monster, of which our visitor has spoken, were nocturnal reminiscences of the dear departed. However, our speculations are futile until we have all the facts. There is a cold partridge on the sideboard, Watson, and a bottle of Montrachet. Let us renew our energies before we make a fresh call upon them.”&lt;/p&gt;
-
-&lt;p&gt;When our hansom deposited us at the house of Mrs. Merrilow, we found that plump lady blocking up the open door of her humble but retired abode. It was very clear that her chief preoccupation was lest she should lose a valuable lodger, and she implored us, before showing us up, to say and do nothing which could lead to so undesirable an end. Then, having reassured her, we followed her up the straight, badly carpeted staircase and were shown into the room of the mysterious lodger.&lt;/p&gt;
-
-&lt;p&gt;It was a close, musty, ill-ventilated place, as might be expected, since its inmate seldom left it. From keeping beasts in a cage, the woman seemed, by some retribution of fate, to have become herself a beast in a cage. She sat now in a broken armchair in the shadowy corner of the room. Long years of inaction had coarsened the lines of her figure, but at some period it must have been beautiful, and was still full and voluptuous. A thick dark veil covered her face, but it was cut off close at her upper lip and disclosed a perfectly shaped mouth and a delicately rounded chin. I could well conceive that she had indeed been a very remarkable woman. Her voice, too, was well modulated and pleasing.&lt;/p&gt;
-
-&lt;p&gt;“My name is not unfamiliar to you, Mr. Holmes,” said she. “I thought that it would bring you.”&lt;/p&gt;
-
-&lt;p&gt;“That is so, madam, though I do not know how you are aware that I was interested in your case.”&lt;/p&gt;
-
-&lt;p&gt;“I learned it when I had recovered my health and was examined by Mr. Edmunds, the county detective. I fear I lied to him. Perhaps it would have been wiser had I told the truth.”&lt;/p&gt;
-
-&lt;p&gt;“It is usually wiser to tell the truth. But why did you lie to him?”&lt;/p&gt;
-
-&lt;p&gt;“Because the fate of someone else depended upon it. I know that he was a very worthless being, and yet I would not have his destruction upon my conscience. We had been so close—so close!”&lt;/p&gt;
-
-&lt;p&gt;“But has this impediment been removed?”&lt;/p&gt;
-
-&lt;p&gt;“Yes, sir. The person that I allude to is dead.”&lt;/p&gt;
-
-&lt;p&gt;“Then why should you not now tell the police anything you know?”&lt;/p&gt;
-
-&lt;p&gt;“Because there is another person to be considered. That other person is myself. I could not stand the scandal and publicity which would come from a police examination. I have not long to live, but I wish to die undisturbed. And yet I wanted to find one man of judgment to whom I could tell my terrible story, so that when I am gone all might be understood.”&lt;/p&gt;
-
-&lt;p&gt;“You compliment me, madam. At the same time, I am a responsible person. I do not promise you that when you have spoken I may not myself think it my duty to refer the case to the police.”&lt;/p&gt;
-
-&lt;p&gt;“I think not, Mr. Holmes. I know your character and methods too well, for I have followed your work for some years. Reading is the only pleasure which fate has left me, and I miss little which passes in the world. But in any case, I will take my chance of the use which you may make of my tragedy. It will ease my mind to tell it.”&lt;/p&gt;
-
-&lt;p&gt;“My friend and I would be glad to hear it.”&lt;/p&gt;
-
-&lt;p&gt;The woman rose and took from a drawer the photograph of a man. He was clearly a professional acrobat, a man of magnificent physique, taken with his huge arms folded across his swollen chest and a smile breaking from under his heavy moustache—the self-satisfied smile of the man of many conquests.&lt;/p&gt;
-
-&lt;p&gt;“That is Leonardo,” she said.&lt;/p&gt;
-
-&lt;p&gt;“Leonardo, the strong man, who gave evidence?”&lt;/p&gt;
-
-&lt;p&gt;“The same. And this—this is my husband.”&lt;/p&gt;
-
-&lt;p&gt;It was a dreadful face—a human pig, or rather a human wild boar, for it was formidable in its bestiality. One could imagine that vile mouth champing and foaming in its rage, and one could conceive those small, vicious eyes darting pure malignancy as they looked forth upon the world. Ruffian, bully, beast—it was all written on that heavy-jowled face.&lt;/p&gt;
-
-&lt;p&gt;“Those two pictures will help you, gentlemen, to understand the story. I was a poor circus girl brought up on the sawdust, and doing springs through the hoop before I was ten. When I became a woman this man loved me, if such lust as his can be called love, and in an evil moment I became his wife. From that day I was in hell, and he the devil who tormented me. There was no one in the show who did not know of his treatment. He deserted me for others. He tied me down and lashed me with his riding-whip when I complained. They all pitied me and they all loathed him, but what could they do? They feared him, one and all. For he was terrible at all times, and murderous when he was drunk. Again and again he was had up for assault, and for cruelty to the beasts, but he had plenty of money and the fines were nothing to him. The best men all left us, and the show began to go downhill. It was only Leonardo and I who kept it up—with little Jimmy Griggs, the clown. Poor devil, he had not much to be funny about, but he did what he could to hold things together.&lt;/p&gt;
-
-&lt;p&gt;“Then Leonardo came more and more into my life. You see what he was like. I know now the poor spirit that was hidden in that splendid body, but compared to my husband he seemed like the angel Gabriel. He pitied me and helped me, till at last our intimacy turned to love—deep, deep, passionate love, such love as I had dreamed of but never hoped to feel. My husband suspected it, but I think that he was a coward as well as a bully, and that Leonardo was the one man that he was afraid of. He took revenge in his own way by torturing me more than ever. One night my cries brought Leonardo to the door of our van. We were near tragedy that night, and soon my lover and I understood that it could not be avoided. My husband was not fit to live. We planned that he should die.&lt;/p&gt;
-
-&lt;p&gt;“Leonardo had a clever, scheming brain. It was he who planned it. I do not say that to blame him, for I was ready to go with him every inch of the way. But I should never have had the wit to think of such a plan. We made a club—Leonardo made it—and in the leaden head he fastened five long steel nails, the points outward, with just such a spread as the lion’s paw. This was to give my husband his death-blow, and yet to leave the evidence that it was the lion which we would loose who had done the deed.&lt;/p&gt;
-
-&lt;p&gt;“It was a pitch-dark night when my husband and I went down, as was our custom, to feed the beast. We carried with us the raw meat in a zinc pail. Leonardo was waiting at the corner of the big van which we should have to pass before we reached the cage. He was too slow, and we walked past him before he could strike, but he followed us on tiptoe and I heard the crash as the club smashed my husband’s skull. My heart leaped with joy at the sound. I sprang forward, and I undid the catch which held the door of the great lion’s cage.&lt;/p&gt;
-
-&lt;p&gt;“And then the terrible thing happened. You may have heard how quick these creatures are to scent human blood, and how it excites them. Some strange instinct had told the creature in one instant that a human being had been slain. As I slipped the bars it bounded out and was on me in an instant. Leonardo could have saved me. If he had rushed forward and struck the beast with his club he might have cowed it. But the man lost his nerve. I heard him shout in his terror, and then I saw him turn and fly. At the same instant the teeth of the lion met in my face. Its hot, filthy breath had already poisoned me and I was hardly conscious of pain. With the palms of my hands I tried to push the great steaming, blood-stained jaws away from me, and I screamed for help. I was conscious that the camp was stirring, and then dimly I remembered a group of men. Leonardo, Griggs, and others, dragging me from under the creature’s paws. That was my last memory, Mr. Holmes, for many a weary month. When I came to myself and saw myself in the mirror, I cursed that lion—oh, how I cursed him!—not because he had torn away my beauty but because he had not torn away my life. I had but one desire, Mr. Holmes, and I had enough money to gratify it. It was that I should cover myself so that my poor face should be seen by none, and that I should dwell where none whom I had ever known should find me. That was all that was left to me to do—and that is what I have done. A poor wounded beast that has crawled into its hole to die—that is the end of Eugenia Ronder.”&lt;/p&gt;
-
-&lt;p&gt;We sat in silence for some time after the unhappy woman had told her story. Then Holmes stretched out his long arm and patted her hand with such a show of sympathy as I had seldom known him to exhibit.&lt;/p&gt;
-
-&lt;p&gt;“Poor girl!” he said. “Poor girl! The ways of fate are indeed hard to understand. If there is not some compensation hereafter, then the world is a cruel jest. But what of this man Leonardo?”&lt;/p&gt;
-
-&lt;p&gt;“I never saw him or heard from him again. Perhaps I have been wrong to feel so bitterly against him. He might as soon have loved one of the freaks whom we carried round the country as the thing which the lion had left. But a woman’s love is not so easily set aside. He had left me under the beast’s claws, he had deserted me in my need, and yet I could not bring myself to give him to the gallows. For myself, I cared nothing what became of me. What could be more dreadful than my actual life? But I stood between Leonardo and his fate.”&lt;/p&gt;
-
-&lt;p&gt;“And he is dead?”&lt;/p&gt;
-
-&lt;p&gt;“He was drowned last month when bathing near Margate. I saw his death in the paper.”&lt;/p&gt;
-
-&lt;p&gt;“And what did he do with this five-clawed club, which is the most singular and ingenious part of all your story?”&lt;/p&gt;
-
-&lt;p&gt;“I cannot tell, Mr. Holmes. There is a chalk-pit by the camp, with a deep green pool at the base of it. Perhaps in the depths of that pool—”&lt;/p&gt;
-
-&lt;p&gt;“Well, well, it is of little consequence now. The case is closed.”&lt;/p&gt;
-
-&lt;p&gt;“Yes,” said the woman, “the case is closed.”&lt;/p&gt;
-
-&lt;p&gt;We had risen to go, but there was something in the woman’s voice which arrested Holmes’s attention. He turned swiftly upon her.&lt;/p&gt;
-
-&lt;p&gt;“Your life is not your own,” he said. “Keep your hands off it.”&lt;/p&gt;
-
-&lt;p&gt;“What use is it to anyone?”&lt;/p&gt;
-
-&lt;p&gt;“How can you tell? The example of patient suffering is in itself the most precious of all lessons to an impatient world.”&lt;/p&gt;
-
-&lt;p&gt;The woman’s answer was a terrible one. She raised her veil and stepped forward into the light.&lt;/p&gt;
-
-&lt;p&gt;“I wonder if you would bear it,” she said.&lt;/p&gt;
-
-&lt;p&gt;It was horrible. No words can describe the framework of a face when the face itself is gone. Two living and beautiful brown eyes looking sadly out from that grisly ruin did but make the view more awful. Holmes held up his hand in a gesture of pity and protest, and together we left the room.&lt;/p&gt;
-
-&lt;p&gt;Two days later, when I called upon my friend, he pointed with some pride to a small blue bottle upon his mantelpiece. I picked it up. There was a red poison label. A pleasant almondy odour rose when I opened it.&lt;/p&gt;
-
-&lt;p&gt;“Prussic acid?” said I.&lt;/p&gt;
-
-&lt;p&gt;“Exactly. It came by post. ‘I send you my temptation. I will follow your advice.’ That was the message. I think, Watson, we can guess the name of the brave woman who sent it.”&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://sherlock-holm.es/stories/html/veil.html&quot;&gt;Text taken from here&lt;/a&gt;&lt;/p&gt;</content><author><name>Arthur Conan Doyle</name></author><summary type="html">The Adventure of the Veiled Lodger
-by Arthur Conan Doyle</summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;DJs.&lt;/strong&gt; DJs everywhere. It’s like East London has run out of bars, clubs and pubs and needs to conjure up more stages to keep them in headphones and vinyl. DJs between acts, DJs on bandstands, DJs in tucked away corners of the arena playing to each other. DJs.&lt;/p&gt;</content><summary type="html">Rainclouds, crowds and feathers, oh my. Victoria Park’s somewhat misnamed Field Day festival brings together alt and indie artists over two days and half a dozen stages.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/field_day_1.jpeg" /></entry></feed>

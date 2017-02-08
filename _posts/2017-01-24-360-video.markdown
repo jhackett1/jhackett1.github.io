@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Why most 360 video is no good"
+date:   2017-01-14 00:00:00 +0000
+categories: blog
+image: /uploads/360_1.jpeg
+---
+Most 360 video you can find today falls into one of two types: it either tells a story, or conveys a sense of place.
+
+Conveying a mere sense of place is much easier than convincing a viewer to invest in your story. Cinematography is the set of rules that let us direct the viewer’s eye, convincing them to make that investment.
+
+A good videographer knows the path they want the viewer’s eyes to take through a scene, and composes their shot using stuff like the rule of thirds, leading lines and playful use of light and shadow.
+
+In fact, what you leave out of a shot is just as important, if not more so, than what you leave in. Being a good photographer or videographer is all about making each shot parsimonious: knowing why it exists and framing each shot to tell a single message.
+
+But 360 video upends that formula.
+
+All of the normal rules of composition no longer apply. You can’t really direct the viewer’s eye and have no way of knowing what will be in their field of view at a given moment.
+
+Here’s a 360 video of the first type — a music video with a narrative it wants you to invest in...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/91fQTXrSRZE" frameborder="0" allowfullscreen></iframe>
+
+No real sustained close-ups, no selective focus, no framing. You could well argue that it looks a lot less immersive than conventional video, contrary to the traditional promise of 360.
+
+In a way, these kinds of 360 videos harken back to the early days of filmmaking, where shallow focus was rare and expensive, and directors had to fall back on old theatre blocking techniques when designing their shots.
+
+Directors like Wes Anderson, Stanley Kubrick and Orson Welles still make heavy use of deep focus, generally because they think it’s a better portrayal of reality. It’s more like theatre than what we now think of as filmmaking, where you don’t have as much control over where the viewer’s gaze goes.
+
+!['The Shining'](/uploads/360_2.png)
+
+In time, we’ll come up with new rules of composition designed expressly for the new medium of 360/VR. They’ll be based on the existing rules of videography, but not the same, just as the rules of composition we use for photography originated in those found in classical artwork.
+
+Probably the closest traditional analogy to 360 is that of theatre in the round. The audience’s viewpoint and that being observed are reversed, but it’s the closest analogy we have.
+
+Theatre in the round is notoriously difficult to do well, because directors have to consider sight lines from all sides of the stage. It’s a lot harder to create a mise-en-scene when the normal definitions of foreground, midground and background cease to apply.
+
+!['Theatre in the round'](/uploads/360_3.jpeg)
+
+It seems like at the moment, 360 video is most at home when the goal is simply to convey a sense of place — a sense of “being somewhere”. Most works of journalism produced with 360 video so far fall into this category.
+
+This is the same use case as the humble GoPro, and certainly there are many consumer 360 cameras clearly targeting the same audience. Though it’s surely been attempted, the GoPro is no one’s go-to tool for a short film.
+
+But there are limitations even with this less ambitious use case. Luckily, these are technical, not artistic.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sfVvJY-C8gA" frameborder="0" allowfullscreen></iframe>
+
+Most consumer 360 cameras still have 1080p sensors. Shared between two fisheye lenses, the end product is usually a great deal lower quality than conventional video, since there are less pixels in your field of view (FOV) at any moment, since the sensor’s pixels are being spread across the whole 360 panorama.
+
+Even when content is created in 4K, like the above BBC livestream, it’s still not good enough for a seamless VR effect. It looks like we’ll have to wait for even higher-resolution sensors to meet the promise of “as if you were there” 360/VR video. Compression applied by Facebook and Youtube when sharing doesn’t help.
+
+And that’s without even thinking of the problem of network connections. The UK’s average broadband download speed is currently around 22mbps, but there’s still no shortage of households which still can’t manage to download a 4k quality video.
+
+While 4G cell speeds are generally plenty fast enough for 4K, data caps definitely aren’t. A few ten minute 4K videos will burn through the monthly limit without blinking.
+
+One of the chief complaints about VR video is that it always looks so soft. Early headsets were stuck with dismal displays, but more modern headsets like the Vive have improved. There’s a lot of work to be done on resolution, but low quality video is an increasingly important barrier to immersion.
+
+!['The HTC Vive.'](/uploads/360_4.png)
+
+But this certainly isn’t a condemnation of 360 video. It’s less than five years old, and conventional video has been around for nearly a century. Any new technology needs to be given time to develop its niche and for us to learn how to use it.
+
+It’s likely that the technical hurdles with 360 will be solved long before a new formal artistic “grammar” emerges for the medium. After all, the rule of thirds was only named in the 1700s, even though it was being used in artwork for centuries before that.

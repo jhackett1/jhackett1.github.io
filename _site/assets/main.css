@@ -84,7 +84,7 @@ article.page h5.outline { font-family: "Museo Slab", museo-slab, museo slab, ser
 article.page h1.page-title { font-size: 2.5em; margin: 10px 0px; }
 article.page hr { width: 50px; margin: 20px 0px; border: 1px solid #EE4848; }
 article.page p { margin-bottom: 20px; max-width: 600px; }
-article.page p.drop-cap:first-of-type::first-letter { color: #EE4848; font-family: "Museo Slab", museo-slab, museo slab, serif; font-weight: 100; font-size: 425%; float: left; margin-right: 5px; line-height: 95%; margin-bottom: -10px; }
+article.page main p:first-of-type::first-letter { color: #EE4848; font-family: "Museo Slab", museo-slab, museo slab, serif; font-weight: 100; font-size: 425%; float: left; margin-right: 5px; line-height: 95%; margin-bottom: -10px; }
 
 article.me img { max-width: 150px; border-radius: 100px; margin: 10px 0px; }
 
@@ -98,12 +98,14 @@ article.post section.meta span.date { color: #969696; }
 article.post section.meta span.author { color: #EE4848; }
 article.post h1.post-title { font-size: 2.5em; margin: 10px 0px; }
 article.post hr { width: 50px; margin: 20px 0px; border: 1px solid #EE4848; }
-article.post img { max-width: 100%; height: auto; margin-bottom: 20px; }
+article.post img { max-width: 100%; height: auto; }
+article.post iframe { margin-bottom: 20px; }
 article.post figure { margin: 40px 0px; }
 article.post figure img { margin-bottom: 0px; }
 article.post figure figcaption { font-family: "Museo Slab", museo-slab, museo slab, serif; font-weight: 100; color: #969696; margin-bottom: 20px; font-size: 1.1em; }
 article.post p { margin-bottom: 20px; max-width: 600px; }
-article.post p.drop-cap:first-of-type::first-letter { color: #EE4848; font-family: "Museo Slab", museo-slab, museo slab, serif; font-weight: 100; font-size: 425%; float: left; margin-right: 5px; line-height: 95%; margin-bottom: -10px; }
+article.post main h1, article.post main h2, article.post main h3, article.post main h4, article.post main h5 { font-size: 2em; margin: 30px 0px; }
+article.post main p:first-of-type::first-letter { color: #EE4848; font-family: "Museo Slab", museo-slab, museo slab, serif; font-weight: 100; font-size: 425%; float: left; margin-right: 5px; line-height: 95%; margin-bottom: -10px; }
 
 section.category-tiles article.category-tile:hover div.image-holder { opacity: 0.95; }
 section.category-tiles article.category-tile { margin: 40px 0px; position: relative; }
@@ -145,12 +147,14 @@ section.category-tiles article.category-tile a.cover { top: 0; bottom: 0; left: 
   section.post-grid article.tile.testimonials ul.slider li h3 { font-size: 3em; }
   section.post-grid article.tile.testimonials ul.slider li h4 { font-size: 2.3em; }
   section.post-grid article.tile.testimonials ul.slider li h5 { font-size: 1em; }
+  article.post main p { font-size: 1.1em; }
   article.post h1.post-title { font-size: 4em; }
   article.page.me h1.page-title { font-size: 5em; }
   article.page h1.page-title { font-size: 4em; }
+  article.page main p { font-size: 1.1em; }
   article.page section.media { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; }
   article.page section.media img { margin: 20px 30px 20px 0px; }
-  section.columns { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; margin-top: 30px; }
+  section.columns { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; margin: 30px 0px; }
   section.columns aside:first-of-type { margin-right: 50px; width: 50%; } }
 @media screen and (min-width: 1500px) { section.hero hr { border: 3px solid #EE4848; }
   section.hero img.site-logo { max-width: 230px; }
