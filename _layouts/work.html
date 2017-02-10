@@ -2,6 +2,15 @@
 
 {% include nav.html %}
 
+<div class="previous-next">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}"><i class="fa fa-caret-left"></i></a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}"><i class="fa fa-caret-right"></i></a>
+  {% endif %}
+</div>
+
 {% if page.image %}
   <section class="featured-image" style="background-image: url('{{ page.image }}')">
   {% if page.image-credit %}

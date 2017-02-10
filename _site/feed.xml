@@ -1,10 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-08T10:17:55+00:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a journalist, digital content producer &amp; coder based in London.</subtitle><entry><title type="html">Smoke Media website rebrand</title><link href="http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand.html" rel="alternate" type="text/html" title="Smoke Media website rebrand" /><published>2017-01-24T23:35:20+00:00</published><updated>2017-01-24T23:35:20+00:00</updated><id>http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand</id><content type="html" xml:base="http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand.html">&lt;p&gt;As part of my role as student media coordinator, I initiated a ground-up rebuild of Smoke Media’s web presence. Initially, this consisted of a Youtube channel, two aged and dissimilar Wordpress sites, and a free Wix site. All used out-of-the-box templates with minimal customisation, Most importantly, all were very different from each other.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-10T23:31:02+00:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a journalist, digital content producer &amp; coder based in London.</subtitle><entry><title type="html">Smoke Radio broadcast rebuild</title><link href="http://localhost:4000/work/digital/2017/02/09/Smoke-radio-broadcast-rebuild.html" rel="alternate" type="text/html" title="Smoke Radio broadcast rebuild" /><published>2017-02-09T23:35:20+00:00</published><updated>2017-02-09T23:35:20+00:00</updated><id>http://localhost:4000/work/digital/2017/02/09/Smoke-radio-broadcast-rebuild</id><content type="html" xml:base="http://localhost:4000/work/digital/2017/02/09/Smoke-radio-broadcast-rebuild.html">&lt;p&gt;Smoke Radio is one of the top student radio stations in the UK, involving nearly one hundred students every year and broadcasting 24/7. They took home the Student Radio Association’s award for best station in 2015, and were shortlisted again in 2016.&lt;/p&gt;
+
+&lt;p&gt;When I became student media coordinator in early 2016, the station was facing several issues with its broadcast infrastructure. The media server being used relied on Flash, which has virtually no mobile support and rapidly declining desktop support. This massively limited the potential audience.&lt;/p&gt;
+
+&lt;p&gt;The station operates across all four of the University of Westminster’ campuses, with studios in central London and up in Harrow. However, taking a different studio live was time-consuming and difficult, so rarely done, again limiting participation and membership on particular campuses.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/uploads/radio_2.jpg&quot; /&gt;
+  &lt;figcaption&gt;Smoke Radio's implementation of the Airtime system.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I replaced the existing proprietary media server with two pieces of open-source software. For basic streaming, I went with Icecast, which is the gold standard for audio webcasting. It supports MP3 as well as higher efficiency codecs like AAC, and does not rely on Flash. This streaming protocol is also compatible with hardware audio decoders, and these are now being obtained and installed in social areas on campus, to improve listenership and brand awareness.&lt;/p&gt;
+
+&lt;p&gt;Icecast was controlled by the second piece of software, Airtime. Airtime functions as a central scheduling and playout manager. Media can be uploaded and connections to various studios established, and so live shows, pre-recorded shows and outside broadcasts can be made according to a single central calendar. Switchover became automated and hassle-free.&lt;/p&gt;
+
+&lt;p&gt;These upgrades also laid crucial groundwork for a cross-platform mobile app for on-the-go listening.&lt;/p&gt;</content><summary type="html">Smoke Radio is one of the top student radio stations in the UK, involving nearly one hundred students every year and broadcasting 24/7. They took home the Student Radio Association’s award for best station in 2015, and were shortlisted again in 2016.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/radio_1.jpg" /></entry><entry><title type="html">Smoke Media website rebrand</title><link href="http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand.html" rel="alternate" type="text/html" title="Smoke Media website rebrand" /><published>2017-01-24T23:35:20+00:00</published><updated>2017-01-24T23:35:20+00:00</updated><id>http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand</id><content type="html" xml:base="http://localhost:4000/work/digital/2017/01/24/Smoke-media-website-rebrand.html">&lt;p&gt;As part of my role as student media coordinator, I initiated a ground-up rebuild of Smoke Media’s web presence in 2016.&lt;/p&gt;
+
+&lt;p&gt;Before I began work, Smoke’s web presence was disparate, consisting of a Youtube channel, two aged and dissimilar Wordpress sites, and a free Wix site. All used out-of-the-box templates with minimal customisation. Most importantly, all were very different from each other.&lt;/p&gt;
 
 &lt;p&gt;One of my strategic priorities was to shift Smoke Media from a print-first to a digital-first organisation, reflecting the shift going on in the wider world. It was also vital to communicate a single, converged brand to our audience.&lt;/p&gt;
 
-&lt;p&gt;I met with student stakeholders to come up with a feature set and compile design ideas for the new website. I introduced students to a common web design progress: brief, wireframe, mockups, prototypes, product!&lt;/p&gt;
+&lt;p&gt;I met with student stakeholders to come up with a feature set and compile design ideas for the new website. I introduced students to a common web design progress: &lt;strong&gt;brief, wireframe, mockups, prototypes and product.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;It was very important that the new site automate common tasks such as the uploading of electronic versions of print publications, a process which involved many manual, tedious steps. Integration with external services such as Youtube, Audioboom and a number of custom in-house APIs was also necessary.&lt;/p&gt;</content><summary type="html">As part of my role as student media coordinator, I initiated a ground-up rebuild of Smoke Media’s web presence. Initially, this consisted of a Youtube channel, two aged and dissimilar Wordpress sites, and a free Wix site. All used out-of-the-box templates with minimal customisation, Most importantly, all were very different from each other.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/work1.jpg" /></entry><entry><title type="html">Why most 360 video is no good</title><link href="http://localhost:4000/blog/2017/01/14/360-video.html" rel="alternate" type="text/html" title="Why most 360 video is no good" /><published>2017-01-14T00:00:00+00:00</published><updated>2017-01-14T00:00:00+00:00</updated><id>http://localhost:4000/blog/2017/01/14/360-video</id><content type="html" xml:base="http://localhost:4000/blog/2017/01/14/360-video.html">&lt;p&gt;Most 360 video you can find today falls into one of two types: it either tells a story, or conveys a sense of place.&lt;/p&gt;
+&lt;p&gt;It was very important that the new site automate common tasks such as the uploading of electronic versions of print publications, a process which involved many manual, tedious steps. Integration with external services such as Youtube, Audioboom and a number of custom in-house APIs was also necessary.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/uploads/smoke_media_2.jpg&quot; /&gt;
+  &lt;figcaption&gt;The website combines content and functionality from Westminster SU's student-led radio &amp;amp; TV station, newspaper and magazine.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Rather than using Wordpress multisite or completely seperate websites to give the impression of convergence while still being seperate under the bonnet, the new Smoke website makes clever use of customised category pages and custom fields to offer a multimedia experience which is met by few other student media groups.&lt;/p&gt;
+
+&lt;p&gt;Student media volunteers can replace a default featured image with a video or piece of audio, allowing for easy collaborations between outlets.&lt;/p&gt;
+
+&lt;p&gt;A custom post type &lt;strong&gt;live events&lt;/strong&gt; allows video livestreams, radio broadcast players and text liveblogs to be combined on a single topic for converged coverage.&lt;/p&gt;
+
+&lt;p&gt;The website automatically imports recently uploaded content to Audioboom, Youtube and Issuu, among other services.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/uploads/smoke_media_1.png&quot; /&gt;
+  &lt;figcaption&gt;The website features special content sections to promote particular campaigns.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The new website offers a fit-for-purpose platform for publishing content, and is the ideal springboard to bring Westminster’s two publications into the digital-first present.&lt;/p&gt;
+
+&lt;p&gt;It will also enable the later development of a cross-platform mobile application, which will automatically fetch content from the website database using the Wordpress REST API.&lt;/p&gt;</content><summary type="html">As part of my role as student media coordinator, I initiated a ground-up rebuild of Smoke Media’s web presence in 2016.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/work1.jpg" /></entry><entry><title type="html">Why most 360 video is no good</title><link href="http://localhost:4000/blog/2017/01/14/360-video.html" rel="alternate" type="text/html" title="Why most 360 video is no good" /><published>2017-01-14T00:00:00+00:00</published><updated>2017-01-14T00:00:00+00:00</updated><id>http://localhost:4000/blog/2017/01/14/360-video</id><content type="html" xml:base="http://localhost:4000/blog/2017/01/14/360-video.html">&lt;p&gt;Most 360 video you can find today falls into one of two types: it either tells a story, or conveys a sense of place.&lt;/p&gt;
 
 &lt;p&gt;Conveying a mere sense of place is much easier than convincing a viewer to invest in your story. Cinematography is the set of rules that let us direct the viewer’s eye, convincing them to make that investment.&lt;/p&gt;
 
@@ -26,7 +65,10 @@
 
 &lt;p&gt;Directors like Wes Anderson, Stanley Kubrick and Orson Welles still make heavy use of deep focus, generally because they think it’s a better portrayal of reality. It’s more like theatre than what we now think of as filmmaking, where you don’t have as much control over where the viewer’s gaze goes.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/uploads/360_2.png&quot; alt=&quot;'The Shining'&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/uploads/360_2.png&quot; /&gt;
+  &lt;figcaption&gt;The Shining.&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;In time, we’ll come up with new rules of composition designed expressly for the new medium of 360/VR. They’ll be based on the existing rules of videography, but not the same, just as the rules of composition we use for photography originated in those found in classical artwork.&lt;/p&gt;
 
@@ -54,11 +96,25 @@
 
 &lt;p&gt;One of the chief complaints about VR video is that it always looks so soft. Early headsets were stuck with dismal displays, but more modern headsets like the Vive have improved. There’s a lot of work to be done on resolution, but low quality video is an increasingly important barrier to immersion.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/uploads/360_4.png&quot; alt=&quot;'The HTC Vive.'&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/uploads/360_4.png&quot; /&gt;
+  &lt;figcaption&gt;The HTC Vive.&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;But this certainly isn’t a condemnation of 360 video. It’s less than five years old, and conventional video has been around for nearly a century. Any new technology needs to be given time to develop its niche and for us to learn how to use it.&lt;/p&gt;
 
-&lt;p&gt;It’s likely that the technical hurdles with 360 will be solved long before a new formal artistic “grammar” emerges for the medium. After all, the rule of thirds was only named in the 1700s, even though it was being used in artwork for centuries before that.&lt;/p&gt;</content><summary type="html">Most 360 video you can find today falls into one of two types: it either tells a story, or conveys a sense of place.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/360_1.jpeg" /></entry><entry><title type="html">Field Day - The Good and the Bad</title><link href="http://localhost:4000/blog/2016/06/13/field-day-good-and-bad.html" rel="alternate" type="text/html" title="Field Day - The Good and the Bad" /><published>2016-06-13T01:00:00+01:00</published><updated>2016-06-13T01:00:00+01:00</updated><id>http://localhost:4000/blog/2016/06/13/field-day-good-and-bad</id><content type="html" xml:base="http://localhost:4000/blog/2016/06/13/field-day-good-and-bad.html">&lt;p&gt;Rainclouds, crowds and feathers, oh my. Victoria Park’s somewhat misnamed Field Day festival brings together alt and indie artists over two days and half a dozen stages.&lt;/p&gt;
+&lt;p&gt;It’s likely that the technical hurdles with 360 will be solved long before a new formal artistic “grammar” emerges for the medium. After all, the rule of thirds was only named in the 1700s, even though it was being used in artwork for centuries before that.&lt;/p&gt;</content><summary type="html">Most 360 video you can find today falls into one of two types: it either tells a story, or conveys a sense of place.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/360_1.jpeg" /></entry><entry><title type="html">Quintin Hogg redesign</title><link href="http://localhost:4000/work/print/design/2016/09/02/QH-design.html" rel="alternate" type="text/html" title="Quintin Hogg redesign" /><published>2016-09-02T00:35:20+01:00</published><updated>2016-09-02T00:35:20+01:00</updated><id>http://localhost:4000/work/print/design/2016/09/02/QH-design</id><content type="html" xml:base="http://localhost:4000/work/print/design/2016/09/02/QH-design.html">&lt;p&gt;The &lt;em&gt;Quintin Hogg&lt;/em&gt; newspaper is the latest in a long tradition of student publications at the University of Westminster. It focuses on news, current affairs and sport, and is complemented by sister publication &lt;em&gt;Smoke Mag&lt;/em&gt;, which focuses on culture and lifestyle.&lt;/p&gt;
+
+&lt;p&gt;The redesign was conducted over summer and was intended to be a complete departure from the previous look. This was partly for simple modernisation, but also an opportunity to bring the &lt;em&gt;QH&lt;/em&gt; in line with new joint student media brand guidelines.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;/uploads/qh_2.jpg&quot; /&gt;
+&lt;figcaption&gt;The new-look QH features a no-nonsense news section with strong brand colour presence.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A tabloid format was selected for convenience and cost, and a unique, modern tabloid look was developed, making use of bold headlines and crossheads, colourful pullquotes and strong presence of brand colours. A five-column grid was selected for all pages, to avoid the mishmash of designs that had afflicted earlier incarnations of the &lt;em&gt;QH&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The new templates are interpreted by student volunteers, who adapt and remix them when producing each issue.&lt;/p&gt;</content><summary type="html">The Quintin Hogg newspaper is the latest in a long tradition of student publications at the University of Westminster. It focuses on news, current affairs and sport, and is complemented by sister publication Smoke Mag, which focuses on culture and lifestyle.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/qh_1.jpg" /></entry><entry><title type="html">Field Day - The Good and the Bad</title><link href="http://localhost:4000/blog/2016/06/13/field-day-good-and-bad.html" rel="alternate" type="text/html" title="Field Day - The Good and the Bad" /><published>2016-06-13T01:00:00+01:00</published><updated>2016-06-13T01:00:00+01:00</updated><id>http://localhost:4000/blog/2016/06/13/field-day-good-and-bad</id><content type="html" xml:base="http://localhost:4000/blog/2016/06/13/field-day-good-and-bad.html">&lt;p&gt;Rainclouds, crowds and feathers, oh my. Victoria Park’s somewhat misnamed Field Day festival brings together alt and indie artists over two days and half a dozen stages.&lt;/p&gt;
 
 &lt;p&gt;City centre festivals always bring particular challenges, since there’s no campsite to build the community spirit they rely on. What’s a festivalgoer to do?&lt;/p&gt;
 
@@ -70,7 +126,10 @@
 
 &lt;p&gt;&lt;strong&gt;PJ Harvey’s feathers.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/uploads/field_day_2.jpeg&quot; alt=&quot;PJ Harvey&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/uploads/field_day_2.jpeg&quot; /&gt;
+  &lt;figcaption&gt;PJ Harvey at Field Day 2016.&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;“This one’s dedicated to everyone who has an iPhone and isn’t currently on it”, Swedish electro-popster Molly Nilsson says during her stripped down set. &lt;strong&gt;Smartphones&lt;/strong&gt; may not encourage the transcendent, pure musical experience festivals sell us tickets on, but they must be good otherwise we wouldn’t all have them. So by that logic, being able to go home and charge them every night must be good too.&lt;/p&gt;
 
@@ -83,4 +142,102 @@ What’s this? Enough benches and tables for festivalgoers to actually sit down 
 
 &lt;p&gt;You have never known true fury until you have seen a press photographer cover a festival headliner with &lt;strong&gt;an iPhone and a vintage film SLR&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;DJs.&lt;/strong&gt; DJs everywhere. It’s like East London has run out of bars, clubs and pubs and needs to conjure up more stages to keep them in headphones and vinyl. DJs between acts, DJs on bandstands, DJs in tucked away corners of the arena playing to each other. DJs.&lt;/p&gt;</content><summary type="html">Rainclouds, crowds and feathers, oh my. Victoria Park’s somewhat misnamed Field Day festival brings together alt and indie artists over two days and half a dozen stages.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/field_day_1.jpeg" /></entry></feed>
+&lt;p&gt;&lt;strong&gt;DJs.&lt;/strong&gt; DJs everywhere. It’s like East London has run out of bars, clubs and pubs and needs to conjure up more stages to keep them in headphones and vinyl. DJs between acts, DJs on bandstands, DJs in tucked away corners of the arena playing to each other. DJs.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/uploads/field_day_3.jpeg&quot; /&gt;
+  &lt;figcaption&gt;It’s easy to forget you aren’t in a field in the middle of nowhere. Photo: Carolina Faruolo &amp;amp; Linn Koch-Emmery.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;The price.&lt;/strong&gt; Say what you will about Field Day, but it certainly gives value for money. The calibre of the acts are impressive given tickets are a mere £50 for a day and £99 for the weekend, at a time where larger festivals are pushing £250 for their weekend offering.&lt;/p&gt;
+
+&lt;p&gt;As the music ends, you remember this is the centre of London and you don’t have a tent, so you find yourself either handing your life savings over to Uber or making the most of your transport knowledge to find a route home.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The panicked journey&lt;/strong&gt; to get back before last tubes when you realise you already gave your life savings to your landlord, because you live in London. Almost makes you long for camping.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Visit the Field Day website at: http://fielddayfestivals.com/&lt;/em&gt;&lt;/p&gt;</content><summary type="html">Rainclouds, crowds and feathers, oh my. Victoria Park’s somewhat misnamed Field Day festival brings together alt and indie artists over two days and half a dozen stages.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/field_day_1.jpeg" /></entry><entry><title type="html">What went wrong with the new day?</title><link href="http://localhost:4000/blog/2016/02/09/What-went-wrong-with-the-new-day.html" rel="alternate" type="text/html" title="What went wrong with the new day?" /><published>2016-02-09T23:35:20+00:00</published><updated>2016-02-09T23:35:20+00:00</updated><id>http://localhost:4000/blog/2016/02/09/What-went-wrong-with-the-new-day</id><content type="html" xml:base="http://localhost:4000/blog/2016/02/09/What-went-wrong-with-the-new-day.html">&lt;p&gt;On Friday, the experimental newspaper the &lt;em&gt;New Day&lt;/em&gt; will print what it likely to be its last edition, after a mere sixty-eight days of circulation.&lt;/p&gt;
+
+&lt;p&gt;The project’s life has been shorter than even its own “Life is short, let’s live it well” slogan predicted.&lt;/p&gt;
+
+&lt;p&gt;Industry insiders say the circulation had dropped below the 40,000 figure, which means the national publication, printed by the same people who churn out the &lt;em&gt;Mirror&lt;/em&gt;, was printing less than twenty times the circulation of my student rag, &lt;a href=&quot;http://forgetoday.com/press&quot;&gt;&lt;em&gt;Forge Press&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was unexpectedly excited when the &lt;em&gt;New Day&lt;/em&gt; launched.&lt;/p&gt;
+
+&lt;p&gt;A few months into a postgraduate journalism course, I’d been submerged in a world of journalists bemoaning the inevitable end of print, talking &lt;em&gt;digital&lt;/em&gt; this and &lt;em&gt;digital&lt;/em&gt; that. Social video, clickbait, analytics and content aggregation were the buzzwords of modern trade. &lt;strong&gt;The first tool I was taught to use for journalism was a smartphone.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;/uploads/new_day_2.jpeg&quot; /&gt;
+&lt;figcaption&gt;The first journalistic tool I was taught to use was the smartphone.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Against this unfamiliar backdrop, the idea of a new print newspaper, taking the best parts of online, made waves in my mind. The art direction, standing apart from other Trinity Mirror titles and evoking high quality magazine, had no small part in this.&lt;/p&gt;
+
+&lt;p&gt;I dutifully picked up the first, free edition of the newspaper.&lt;/p&gt;
+
+&lt;h3&gt;We’ll try to be positive&lt;/h3&gt;
+
+&lt;p&gt;The &lt;em&gt;New Day&lt;/em&gt;’s editorial ethos was well-placed. “ We won’t sensationalise or terrify you with the news.” they claim &lt;a href=&quot;http://thenewday.co.uk/&quot;&gt;on their landing page&lt;/a&gt;, “and above all, we’ll try to be positive”. That’s a position not unrelated to the dull feel-goodism of &lt;em&gt;Upworthy&lt;/em&gt; and other online news sources targeted at millenials.&lt;/p&gt;
+
+&lt;p&gt;This attitude in a website is stale. But in a newspaper, it felt like a vital USP; a statement that one of the things most hated about traditional papers — their steeping negativity — didn’t necessarily &lt;em&gt;need&lt;/em&gt; to be true. In a post-Leveson world, perhaps this could win back the hearts and minds of the public. Journalists, after all, still rank &lt;a href=&quot;https://www.ipsos-mori.com/researchpublications/researcharchive/3685/Politicians-are-still-trusted-less-than-estate-agents-journalists-and-bankers.aspx&quot;&gt;just below estate agents&lt;/a&gt; on scales of public trust.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;/uploads/new_day_3.jpeg&quot; /&gt;
+&lt;figcaption&gt;The New Day’s feel-good attitude was a clear reaction to the prevalence of that attitude on the web.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;But it wasn’t long before the cracks in the dream started to show. I never picked up another edition of the &lt;em&gt;New Day&lt;/em&gt; after that first, free edition.&lt;/p&gt;
+
+&lt;p&gt;As to why that happened, I don’t know. Perhaps the *New Day *never offered anything to my generation that online wasn’t already giving us. There’s no shortage of possibilities.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;New Day&lt;/em&gt; had virtually no online presence. Their website has a logo, a short message, and links to Facebook and Twitter. That’s it.&lt;/p&gt;
+
+&lt;p&gt;While this wasn’t the point of the experiment, the paper’s failure proves that &lt;strong&gt;it’s basically impossible to gain any market share unless it’s doing so on the back of online.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;/uploads/new_day_4.png&quot; /&gt;
+&lt;figcaption&gt;While pretty, this isn’t what you want your website to look like unless you’re in the middle of upgrading it.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;My friend, Robin Wilde, is &lt;a href=&quot;https://www.patreon.com/cubed?ty=h&quot;&gt;creating a gaming magazine&lt;/a&gt;. It’s traditional in every way, but print came after online. To succeed with a publication, you need to build an audience online first, because that’s where the youngsters go.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/new_day_5.png&quot; alt=&quot;The printed Cubed Gamers magazine.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The older demographics couldn’t save the &lt;em&gt;New Day&lt;/em&gt; either, as its uplifting but apparently ineffectual $5m TV ad campaign shows. The Boomers and their children are comfortable with their &lt;em&gt;Suns&lt;/em&gt;, &lt;em&gt;Daily Mails&lt;/em&gt; and &lt;em&gt;Guardians&lt;/em&gt;. It was pitching young content at an old audience.&lt;/p&gt;
+
+&lt;h3&gt;Decades too late&lt;/h3&gt;
+
+&lt;p&gt;If there’s a future of print to be had, now is clearly not the time to discover it. There is still too much flux, too much change.&lt;/p&gt;
+
+&lt;p&gt;Perhaps in a decade or so, the industry will find another steady state. But at the moment newspapers survive only due to their size, with the smaller players shutting down weekly.&lt;/p&gt;
+
+&lt;p&gt;Perhaps newspapers will survive as vanity objects. Perhaps they will need to put quality over quantity, becoming even more like magazines. As the generations advance, perhaps soon no one will get their news from dead trees.&lt;/p&gt;
+
+&lt;p&gt;Whatever went wrong with the &lt;em&gt;New Day&lt;/em&gt;, the concept always felt slightly off-colour. The attempt was admirable, but its existence was either decades too early or (more likely) decades too late.&lt;/p&gt;
+
+&lt;p&gt;We won’t know which for a while.&lt;/p&gt;</content><summary type="html">On Friday, the experimental newspaper the New Day will print what it likely to be its last edition, after a mere sixty-eight days of circulation.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/new_day_1.jpeg" /></entry><entry><title type="html">Bill Bailey on Limboland</title><link href="http://localhost:4000/blog/interview/2015/06/02/bill-bailey.html" rel="alternate" type="text/html" title="Bill Bailey on Limboland" /><published>2015-06-02T00:35:20+01:00</published><updated>2015-06-02T00:35:20+01:00</updated><id>http://localhost:4000/blog/interview/2015/06/02/bill-bailey</id><content type="html" xml:base="http://localhost:4000/blog/interview/2015/06/02/bill-bailey.html">&lt;p&gt;&lt;strong&gt;Having performed at Wembley a few years back, what new challenges are there in making new shows?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s hard to find a new challenge. I’ve performed in situations I never dreamed I would. I’ve been on stage with an orchestra at the Albert Hall. I’ve been to Sonisphere and performed in front of thousands of metalheads. I focus on refinement and more interesting subjects nowadays. That’s what Limboland is; a bit more honest, a bit more personal and reflective.&lt;/p&gt;
+
+&lt;p&gt;I decided not to go down the visual route with this show. Many of my past shows have been visual spectacles, but I made a conscious decision not to do that here. On the first night I was really nervous, but there’s no one in the audience thinking “oh, I wish he’d had a big screen behind him.” If it’s a funny show, you don’t need it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What will people enjoy most about the new show?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s some funny personal stories, maybe a bit more revealing than in my other shows. Lots of music, as per, and some good mashups chucked into the mix. I like a mashup, me; Miley Cyrus with Kraftwerk, Kurt Weill with Happy Birthday. There’s some big fixed setpieces, but lots of time in between where I can just go off the rails, and I quite like that.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tinselworm, Qualmpeddler and now Limboland – what’s the Bill Bailey show name formula?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I like to make up a new word. Comedy is quite mercurial – you never know where it’s going to go, so you’re making a rod for your own back by making everything fit under a title. I thought Tinselworm would be great because it’s like a cheap worm, rather than a silkworm, which is the ultimate – a few notches down the league table of worms you get a tinselworm; the shiny, gaudy version that wants to be a silkworm.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You’re known for bringing obscure instruments on stage – any more in this show?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve got a new theremin! They’re devilishly hard things to play, some nights it sounds like a seal trapped under a wardrobe. I’ve found a theremini; it’s a smaller, modern digital version. By some kind of bizarre technological sorcery, instead of a smooth glissando of notes, you get a proper scale with neat little steps. It’s a very complex piece of kit, but it makes all the difference live.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You’re a well-known conservationist. Where does that interest come from?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I grew up in quite a rural part of England, and mum and dad were into the outdoors, so I was exposed to it from an early age. Britain is only a small country, and I find myself thinking how much more of it we can concrete over. We really need to keep the wild green spaces, because once they’re gone, that’s it, they aren’t coming back. Conservation is in the public consciousness now, while it was just a sort of crackpot idea a few years ago. That’s a very good thing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What other projects do you have in the works?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m hoping to do a successor to my nature show Jungle Hero, hopefully in the new year. I’m also writing a comedy sketch show for the BBC, and I’m also toying with the idea of doing a paddleboarding documentary. There’s quite a few things on the horizon.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This interview was originally published in Exposed magazine in July 2015.&lt;/em&gt;&lt;/p&gt;</content><summary type="html">Having performed at Wembley a few years back, what new challenges are there in making new shows?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/bailey_1.jpg" /></entry></feed>

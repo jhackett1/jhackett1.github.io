@@ -17,7 +17,11 @@ City centre festivals always bring particular challenges, since there’s no cam
 
 **PJ Harvey’s feathers.**
 
-![PJ Harvey](/uploads/field_day_2.jpeg)
+
+<figure>
+  <img src="/uploads/field_day_2.jpeg"/>
+  <figcaption>PJ Harvey at Field Day 2016.</figcaption>
+</figure>
 
 “This one’s dedicated to everyone who has an iPhone and isn’t currently on it”, Swedish electro-popster Molly Nilsson says during her stripped down set. **Smartphones** may not encourage the transcendent, pure musical experience festivals sell us tickets on, but they must be good otherwise we wouldn’t all have them. So by that logic, being able to go home and charge them every night must be good too.
 
@@ -31,3 +35,16 @@ What’s this? Enough benches and tables for festivalgoers to actually sit down 
 You have never known true fury until you have seen a press photographer cover a festival headliner with **an iPhone and a vintage film SLR**.
 
 **DJs.** DJs everywhere. It’s like East London has run out of bars, clubs and pubs and needs to conjure up more stages to keep them in headphones and vinyl. DJs between acts, DJs on bandstands, DJs in tucked away corners of the arena playing to each other. DJs.
+
+<figure>
+  <img src="/uploads/field_day_3.jpeg"/>
+  <figcaption>It’s easy to forget you aren’t in a field in the middle of nowhere. Photo: Carolina Faruolo & Linn Koch-Emmery.</figcaption>
+</figure>
+
+**The price.** Say what you will about Field Day, but it certainly gives value for money. The calibre of the acts are impressive given tickets are a mere £50 for a day and £99 for the weekend, at a time where larger festivals are pushing £250 for their weekend offering.
+
+As the music ends, you remember this is the centre of London and you don’t have a tent, so you find yourself either handing your life savings over to Uber or making the most of your transport knowledge to find a route home.
+
+**The panicked journey** to get back before last tubes when you realise you already gave your life savings to your landlord, because you live in London. Almost makes you long for camping.
+
+*Visit the Field Day website at: http://fielddayfestivals.com/*

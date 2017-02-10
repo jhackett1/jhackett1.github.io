@@ -27,7 +27,10 @@ In a way, these kinds of 360 videos harken back to the early days of filmmaking,
 
 Directors like Wes Anderson, Stanley Kubrick and Orson Welles still make heavy use of deep focus, generally because they think it’s a better portrayal of reality. It’s more like theatre than what we now think of as filmmaking, where you don’t have as much control over where the viewer’s gaze goes.
 
-!['The Shining'](/uploads/360_2.png)
+<figure>
+  <img src="/uploads/360_2.png"/>
+  <figcaption>The Shining.</figcaption>
+</figure>
 
 In time, we’ll come up with new rules of composition designed expressly for the new medium of 360/VR. They’ll be based on the existing rules of videography, but not the same, just as the rules of composition we use for photography originated in those found in classical artwork.
 
@@ -55,7 +58,10 @@ While 4G cell speeds are generally plenty fast enough for 4K, data caps definite
 
 One of the chief complaints about VR video is that it always looks so soft. Early headsets were stuck with dismal displays, but more modern headsets like the Vive have improved. There’s a lot of work to be done on resolution, but low quality video is an increasingly important barrier to immersion.
 
-!['The HTC Vive.'](/uploads/360_4.png)
+<figure>
+  <img src="/uploads/360_4.png"/>
+  <figcaption>The HTC Vive.</figcaption>
+</figure>
 
 But this certainly isn’t a condemnation of 360 video. It’s less than five years old, and conventional video has been around for nearly a century. Any new technology needs to be given time to develop its niche and for us to learn how to use it.
 

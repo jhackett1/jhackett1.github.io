@@ -99,7 +99,7 @@ article.post section.meta span.author { color: #EE4848; }
 article.post h1.post-title { font-size: 2.5em; margin: 10px 0px; }
 article.post hr { width: 50px; margin: 20px 0px; border: 1px solid #EE4848; }
 article.post img { max-width: 100%; height: auto; }
-article.post iframe { margin-bottom: 20px; }
+article.post iframe { margin-bottom: 20px; max-width: 650px; width: 100%; }
 article.post figure { margin: 40px 0px; }
 article.post figure img { margin-bottom: 0px; }
 article.post figure figcaption { font-family: "Museo Slab", museo-slab, museo slab, serif; font-weight: 100; color: #969696; margin-bottom: 20px; font-size: 1.1em; }
@@ -113,6 +113,10 @@ section.category-tiles article.category-tile div.image-holder { width: 100%; hei
 section.category-tiles article.category-tile h2 { margin: 10px 0px; }
 section.category-tiles article.category-tile h5 { font-family: "Source Sans Pro", source-sans-pro, source sans pro, sans serif; text-transform: uppercase; font-weight: 600; font-size: 0.9em; color: #EE4848; }
 section.category-tiles article.category-tile a.cover { top: 0; bottom: 0; left: 0; right: 0; position: absolute; display: block; -webkit-transition: 0.2s; transition: 0.2s; }
+
+blockquote { float: right; text-align: right; margin: 20px; padding: 0px; }
+blockquote q { font-family: "Museo Slab", museo-slab, museo slab, serif; font-size: 1.5em; font-weight: 600; color: #505050; display: block; max-width: 300px; }
+blockquote cite { font-size: 1em; font-family: "Museo Slab", museo-slab, museo slab, serif; font-weight: 100; color: #969696; display: block; }
 
 @media screen and (min-width: 600px) { nav.site-nav a { margin-left: 20px; margin-right: 0px; }
   div.previous-next.visible a.prev { left: 0px; }

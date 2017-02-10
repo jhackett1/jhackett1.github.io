@@ -11,16 +11,4 @@ $(document).ready(function() {
         $(".previous-next").removeClass("visible");
     }
   });
-
-  $(window).scroll(function() {
-    // Calculate vars
-    var bottom_of_hero = $("section.hero").offset().top + $("section.hero").outerHeight();
-    var top_of_screen = $(window).scrollTop();
-    // Act on vars
-    if(bottom_of_hero < top_of_screen){
-        $(".fixed-nav").addClass("visible");
-    } else{
-        $(".fixed-nav").removeClass("visible");
-    }
-  });
 });

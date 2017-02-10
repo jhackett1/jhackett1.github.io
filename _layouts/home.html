@@ -5,11 +5,9 @@
   <div class="container">
     <a class="site-title" href="{{ "/" | relative_url}}"><img src="/images/logo.png" alt="{{ site.title | escape }}"/></a>
     <nav class="site-nav">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-          {% endif %}
-        {% endfor %}
+      <a class="page-link" href="{{ "/work.html"| relative_url }}">Work</a>
+      <a class="page-link" href="{{ "/blog.html" | relative_url }}">Blog</a>
+      <a class="page-link" href="{{ "/me.html" | relative_url }}">Me</a>
     </nav>
   </div>
 </header>
@@ -72,5 +70,22 @@
       {% endif %}
     {% endfor %}
 </section>
+
+<script>
+$(document).ready(function() {
+  $(window).scroll(function() {
+    // Calculate vars
+    var bottom_of_hero = $("section.hero").offset().top + $("section.hero").outerHeight();
+    var top_of_screen = $(window).scrollTop();
+    // Act on vars
+    if(bottom_of_hero < top_of_screen){
+        $(".fixed-nav").addClass("visible");
+    } else{
+        $(".fixed-nav").removeClass("visible");
+    }
+  });
+});
+
+</script>
 
 {% include footer.html %}
