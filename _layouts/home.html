@@ -18,6 +18,18 @@
   <h1 class="site-title">{{ site.title | escape }}</h1>
   <hr/>
   <h2 class="site-desc">{{ site.description | escape }}</h2>
+
+  <header class="hero-header">
+    <div class="container">
+      <nav class="site-nav">
+        <a class="page-link" href="{{ "/work.html"| relative_url }}">Work</a>
+        <a class="page-link" href="{{ "/blog.html" | relative_url }}">Blog</a>
+        <a class="page-link" href="{{ "/me.html" | relative_url }}">Me</a>
+      </nav>
+    </div>
+  </header>
+
+
 </section>
 
 <!-- Post grid -->
