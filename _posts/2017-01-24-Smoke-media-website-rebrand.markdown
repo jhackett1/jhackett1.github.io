@@ -11,7 +11,7 @@ quick-facts:
 image: "/images/work1.jpg"
 ---
 
-As part of my role as student media coordinator, I initiated a ground-up rebuild of Smoke Media's web presence in 2016.
+As part of my role as student media coordinator, I initiated a ground-up rebuild of ![Smoke Media's]('http://smoke.media') web presence in 2016.
 
 Before I began work, Smoke's web presence was disparate, consisting of a Youtube channel, two aged and dissimilar Wordpress sites, and a free Wix site. All used out-of-the-box templates with minimal customisation. Most importantly, all were very different from each other.
 
