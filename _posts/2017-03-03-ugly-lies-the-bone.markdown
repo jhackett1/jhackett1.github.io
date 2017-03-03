@@ -9,7 +9,7 @@ The National Theatre's new production follows a wounded veteran, Jess, as she re
 
 This play is *not* an inspirational tale of overcoming difficult odds. But nor is it a depressing tale about how some wounds can never heal.
 
-Kate Fleetwood, who portrays Jess, expertly treads the fine emotional line between hardened veteran and vulnerable sister.
+Kate Fleetwood, who portrays Jess, expertly treads the fine emotional line between hardened veteran and vulnerable sister - at one moment attempting to reignite a lost romance with a former boyfriend (Ralf Little), the next laying a verbal smackdown on her new deadbeat brother in law (Kris Marshall, with his best American drawl).
 
 Jess and her family inhabit a drab, featureless world surrounded by steep, curved walls. All the characters' actions take place trapped at the bottom of this literal bowl.
 
@@ -26,6 +26,7 @@ Jess struggles to reconnect with her family and old friends, all the while takin
 
 It eventually becomes clear to Jess that despite its initial appeal, the virtual world has its limits. The well-meaning doctor who administers the therapy is remains unseen apart from her voice, perhaps hinting at the lack of any genuine human connection to be found in it.
 
+It's clear to the audience from the outset that the virtual world is incomplete, so it doesn't come as much of a surprise to us when Jess catches on.
 
 *Ugly Lies the Bone* fizzles away without any firm conclusion or catharsis. What message are we to take away from it?
 
