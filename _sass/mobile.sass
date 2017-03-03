@@ -32,7 +32,6 @@ h1, h2, h3, h4, h5
   background-color: rgba(246,246,246,0.95)
   transition: 0.1s
 
-
 div.previous-next
   display: none
 
@@ -49,6 +48,7 @@ header.hero-header
   position: absolute
   bottom: 0
   width: 100%
+
 
   div.container
     justify-content: flex-end
@@ -133,7 +133,6 @@ nav.site-nav
 section.hero
   height: 100vh
   width: 100%
-  background-color: #f6f6f6
   background-size: cover
   background-position: center center
   display: flex
@@ -141,6 +140,59 @@ section.hero
   justify-content: center
   align-items: center
   position: relative
+
+
+  figure.slideshow
+    position: absolute
+    top: 0
+    bottom: 0
+    left: 0
+    right: 0
+    width: 100%
+    height: 100%
+    margin: 0
+    z-index: -1
+    overflow: hidden
+    opacity: 0.7
+
+    div
+      width: 100%
+      min-height: 100%
+      min-width: 100%
+      position: absolute
+      top: 0
+      left: 0
+      bottom: 0
+      right: 0
+      z-index: 3
+      background-position: center
+      background-size: cover
+
+
+  figure div:first-of-type
+    animation: xfade 22s 18s infinite
+
+  figure div:nth-of-type(2)
+    animation: xfade 22s 12s infinite
+
+  figure div:nth-of-type(3)
+    animation: xfade 22s 6s infinite
+
+  figure div:last-of-type
+    animation: xfade 22s 0s infinite
+
+  @keyframes xfade
+    17%
+      opacity: 1
+
+    25%
+      opacity: 0
+
+    92%
+      opacity: 0
+
+
+
 
   hr
     width: 70px
