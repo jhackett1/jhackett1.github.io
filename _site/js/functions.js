@@ -1,4 +1,11 @@
 $(document).ready(function() {
+
+
+
+
+
+
+
   // Check if the featured image container is in view, and if not, make the next-previous navigation visible
   $(window).scroll(function() {
     // Calculate vars
@@ -11,4 +18,5 @@ $(document).ready(function() {
         $(".previous-next").removeClass("visible");
     }
   });
+
 });
