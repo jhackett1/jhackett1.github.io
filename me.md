@@ -6,7 +6,7 @@ outline: I'm a multimedia journalist and digital content producer. I studied Bro
 quick-facts:
   - Three years of journalistic experience
   - Mentoring & teaching experience
-  - Massive theatre and photography nerd
+  - Massive theatre, book and photography nerd
 ---
 
 Originally studying Biology at the University of Sheffield, I got heavily involved in student media. From there, I studied a postgrad degree in Broadcast Journalism, freelanced, mixed up with an assortment of content generation and digital comms roles. I currently [mentor student journalists](http://join.smoke.media) down in London.

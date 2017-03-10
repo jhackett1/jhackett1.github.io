@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Taming of the Shrew: A modern take on an uncomfortable script"
-date:   2015-06-11 23:35:20 +0000
+title:  "The Taming of the Shrew - A modern take on an uncomfortable script"
+date:   2016-06-11 23:35:20 +0000
 categories: blog review
 image: /uploads/shrew_1.jpeg
 ---
