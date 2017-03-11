@@ -21,6 +21,7 @@ url: "http://joshuahackett.com" # the base hostname & protocol for your site, e.
 twitter_url: http://twitter.com/dinosaurlord
 github_url:  http://github.com/jhackett1
 linkedin_url: http://www.linkedin.com/in/hackettjoshua
+soundcloud_url: https://soundcloud.com/joshua-hackett-668529668
 
 # Build settings
 markdown: kramdown
