@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sleeping Giants - Equal parts alien robots and political intrique"
+title:  "Sleeping Giants - Equal parts alien robots and political intrigue"
 date:   2017-03-05 12:00:00 +0000
 categories: blog review
 image: /uploads/giants_2.png
@@ -29,6 +29,6 @@ Despite these trite beginnings, the real  achievement of *Sleeping Giants* is ho
 
 *Sleeping Giants* is the debut novel you wish you'd written, if only you'd had the courage to move beyond all that fanfic.
 
-Despite the heavy debt it pays to genre convention, *Sleeping Giants* mixes in just enough originality to make it a compelling joy to read - giddy with the possibilities of its own universe.
+Though it pays a heavy debt to genre convention, *Sleeping Giants* mixes in just enough originality to make it a compelling joy to read - giddy with the possibilities of its own universe.
 
 Apparently, a film adaptation is imminent. The celluloid practically jumps off the page.
