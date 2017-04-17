@@ -1,7 +1,7 @@
 ---
 layout: work
 title:  "Forge TV website"
-date:   2017-01-24 23:35:20 +0000
+date:   2016-01-12 23:35:20 +0000
 categories: work digital
 outline: I built a responsive website to showcase the video content of the University of Sheffield's student TV station, and to support the sale of video production services.
 quick-facts:
