@@ -313,20 +313,20 @@ section.post-grid
 
     // Make the slider work
     input#s1:checked ~ ul li#s1
-      display: block
-      animation-play-state: running !important
+      margin-left: 0px
+      transition-delay: 0.3s
 
     input#s2:checked ~ ul li#s2
-      display: block
-      animation-play-state: running !important
+      margin-left: 0px
+      transition-delay: 0.3s
 
     input#s3:checked ~ ul li#s3
-      display: block
-      animation-play-state: running !important
+      margin-left: 0px
+      transition-delay: 0.3s
 
     input#s4:checked ~ ul li#s4
-      display: block
-      animation-play-state: running !important
+      margin-left: 0px
+      transition-delay: 0.3s
 
     //Style input radio buttons
     input[type="radio"]
@@ -358,19 +358,14 @@ section.post-grid
       display: block
       margin-top: 15px
 
-      @-webkit-keyframes slide
-        0%
-          margin-left: -100%
-        100%
-          margin-left: 0
-
       li
         width: 100%
         height: 100%
-        display: none
-        animation-name: slide
-        animation-duration: 0.5s
-        animation-play-state: paused
+        margin-left: -100%
+        position: absolute
+        top: 0px
+        left: 0px
+        transition: 0.3s
 
         h4
           font-weight: 100
@@ -387,9 +382,6 @@ section.post-grid
           color: #f6f6f6
           font-size: 0.9em
           margin-top: 10px
-
-
-
 
 
 // Page layouts

@@ -2,7 +2,7 @@
 layout: work
 title:  "Smoke Media website rebrand"
 date:   2017-01-24 23:35:20 +0000
-categories: work digital
+categories: work digital UX
 outline: I rebuilt the web presence of the University of Westminster's student media operation from the ground up, emphasising usability for student volunteers and a multimedia approach to journalism.
 quick-facts:
   - Fully responsive design

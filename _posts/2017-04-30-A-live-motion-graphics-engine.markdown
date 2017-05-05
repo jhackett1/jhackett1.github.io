@@ -2,7 +2,7 @@
 layout: work
 title:  "A live broadcast graphics engine"
 date:   2017-02-09 23:35:20 +0000
-categories: work digital video
+categories: work digital video UX
 outline: I conceptualised, developed and tested an application to overlay dynamic motion graphics on top of live video streams, intended to add value to student TV livestreams.
 quick-facts:
   - Fully customisable and needs minimal training to use.
