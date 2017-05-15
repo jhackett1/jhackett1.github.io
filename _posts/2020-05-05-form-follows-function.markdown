@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A new hope for web publishing?"
-date:   2019-05-05 12:00:00 +0000
+date:   2020-05-05 12:00:00 +0000
 categories: blog
 image: /uploads/charles_1.jpg
 ---
