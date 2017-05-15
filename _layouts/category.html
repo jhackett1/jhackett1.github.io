@@ -16,7 +16,7 @@
           <div class="image-holder" style="background-image: url('{{ post.image }}')">
           </div>
           <h2>{{post.title}}</h2>
-          <h5>{{ post.categories  | join:', ' | append:''  }}</h5>
+          <h5>{{ post.categories  | join:', ' | append:'' | remove:'work, '  }}</h5>
           <a class="cover" href="{{post.url}}"></a>
         </article>
       {% endfor %}
