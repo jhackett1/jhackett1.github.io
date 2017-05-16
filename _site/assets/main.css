@@ -72,7 +72,7 @@ section.post-grid article.tile a.cover hr { width: 0px; margin: 10px auto; borde
 section.post-grid article.tile a.cover h2 { text-align: center; color: #f6f6f6; margin: 0px 10px; font-size: 1.1em; }
 section.post-grid article.tile a.cover p { color: #969696; text-align: center; color: #f6f6f6; text-transform: capitalize; font-size: 0.8em; }
 section.post-grid article.tile.wide { width: 100%; height: calc(100vh/3); }
-section.post-grid article.tile.testimonials { width: 100%; background-color: #EE4848; padding: 20px; height: inherit; }
+section.post-grid article.tile.testimonials { width: 100%; background-color: #EE4848; padding: 20px; }
 section.post-grid article.tile.testimonials input#s1:checked ~ ul li#s1 { margin-left: 0px; -webkit-transition-delay: 0.3s; transition-delay: 0.3s; }
 section.post-grid article.tile.testimonials input#s2:checked ~ ul li#s2 { margin-left: 0px; -webkit-transition-delay: 0.3s; transition-delay: 0.3s; }
 section.post-grid article.tile.testimonials input#s3:checked ~ ul li#s3 { margin-left: 0px; -webkit-transition-delay: 0.3s; transition-delay: 0.3s; }
