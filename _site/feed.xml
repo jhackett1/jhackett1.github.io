@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-16T23:25:02+01:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a journalist, digital content producer &amp; coder based in London.</subtitle><entry><title type="html">Alien: Covenant - Ridley has another stab at it</title><link href="http://localhost:4000/blog/review/2017/05/11/alien-covenant.html" rel="alternate" type="text/html" title="Alien: Covenant - Ridley has another stab at it" /><published>2017-05-11T13:00:00+01:00</published><updated>2017-05-11T13:00:00+01:00</updated><id>http://localhost:4000/blog/review/2017/05/11/alien-covenant</id><content type="html" xml:base="http://localhost:4000/blog/review/2017/05/11/alien-covenant.html">&lt;p&gt;Five years on from &lt;em&gt;Prometheus&lt;/em&gt;’ high concept and flawed execution, &lt;em&gt;Alien: Covenant&lt;/em&gt; follows a colony ship carrying thousands of hibernating humans to a new world.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-26T15:07:23+01:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a journalist, digital content producer &amp; coder based in London.</subtitle><entry><title type="html">Advertise with us</title><link href="http://localhost:4000/work/digital/ux/2017/05/26/advertising-landing.html" rel="alternate" type="text/html" title="Advertise with us" /><published>2017-05-26T13:00:20+01:00</published><updated>2017-05-26T13:00:20+01:00</updated><id>http://localhost:4000/work/digital/ux/2017/05/26/advertising-landing</id><content type="html" xml:base="http://localhost:4000/work/digital/ux/2017/05/26/advertising-landing.html">&lt;p&gt;As part of a large-scale redevelopment of Westminster SU’s digital platforms and services, we decided to overhaul key landing pages on the website, especially those responsible for promoting commercial initiatives like advertising.&lt;/p&gt;
+
+&lt;p&gt;Replacing simple text-heavy designs, these new pages benefit from bespoke art direction, incorporating animation, parallax scroll effects, interactivity and photorealistic mockups.&lt;/p&gt;
+
+&lt;p&gt;This particular page promotes advertising packages: providing key audience statistics of the SU’s channels, offering a virtual catalogue of packages that users can click and hover through, and clear calls to action - get in touch with us or download our media pack PDF for further information.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/uploads/landing_2.jpg&quot; /&gt;
+  &lt;figcaption&gt;Views of the page on a variety of viewport sizes.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Photorealistic mockups which animate on page scrolls offer clear indications of the services on offer, and key statistics animate in as they enter the user’s viewport, carefully guidng the user’s journey for maximal conversion.&lt;/p&gt;
+
+&lt;p&gt;These pages were designed by initial consultation with the commercial team with the packages and USPs we could offer clients, followed by the creation of wireframes, content (tailored copy and imagery), and finally working mockups.&lt;/p&gt;</content><summary type="html">As part of a large-scale redevelopment of Westminster SU’s digital platforms and services, we decided to overhaul key landing pages on the website, especially those responsible for promoting commercial initiatives like advertising.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/landing_1.jpg" /></entry><entry><title type="html">Alien: Covenant - Ridley has another stab at it</title><link href="http://localhost:4000/blog/review/2017/05/11/alien-covenant.html" rel="alternate" type="text/html" title="Alien: Covenant - Ridley has another stab at it" /><published>2017-05-11T13:00:00+01:00</published><updated>2017-05-11T13:00:00+01:00</updated><id>http://localhost:4000/blog/review/2017/05/11/alien-covenant</id><content type="html" xml:base="http://localhost:4000/blog/review/2017/05/11/alien-covenant.html">&lt;p&gt;Five years on from &lt;em&gt;Prometheus&lt;/em&gt;’ high concept and flawed execution, &lt;em&gt;Alien: Covenant&lt;/em&gt; follows a colony ship carrying thousands of hibernating humans to a new world.&lt;/p&gt;
 
 &lt;p&gt;They get waylaid, of course, and the crew, which includes Katherine Waterston’s Daniels, eventually runs into Michael Fassbender’s errant android, David on a strange deserted world, ten years after he was last seen.&lt;/p&gt;
 
@@ -219,31 +232,4 @@
 
 &lt;p&gt;The new website offers a fit-for-purpose platform for publishing content, and is the ideal springboard to bring Westminster’s two publications into the digital-first present.&lt;/p&gt;
 
-&lt;p&gt;It will also enable the later development of a cross-platform mobile application, which will automatically fetch content from the website database using the Wordpress REST API.&lt;/p&gt;</content><summary type="html">As part of my role as student media coordinator, I initiated a ground-up rebuild of Smoke Media’s web presence in 2016.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/work1.jpg" /></entry><entry><title type="html">Review: Ugly Lies the Bone</title><link href="http://localhost:4000/blog/2017/01/14/ugly-lies-the-bone.html" rel="alternate" type="text/html" title="Review: Ugly Lies the Bone" /><published>2017-01-14T00:00:00+00:00</published><updated>2017-01-14T00:00:00+00:00</updated><id>http://localhost:4000/blog/2017/01/14/ugly-lies-the-bone</id><content type="html" xml:base="http://localhost:4000/blog/2017/01/14/ugly-lies-the-bone.html">&lt;p&gt;The National Theatre’s new production follows a wounded veteran, Jess, as she returns to her family home on the Florida coast on the eve of the final space shuttle launch, and experiments with a pioneering new virtual reality therapy to heal her emotional trauma.&lt;/p&gt;
-
-&lt;p&gt;This play is &lt;em&gt;not&lt;/em&gt; an inspirational tale of overcoming difficult odds. But nor is it a depressing tale about how some wounds can never heal.&lt;/p&gt;
-
-&lt;p&gt;Kate Fleetwood, who portrays Jess, expertly treads the fine emotional line between hardened veteran and vulnerable sister - at one moment attempting to reignite a lost romance with a former boyfriend (Ralf Little), the next laying a verbal smackdown on her new deadbeat brother in law (Kris Marshall, with his best American drawl).&lt;/p&gt;
-
-&lt;p&gt;Jess and her family inhabit a drab, featureless world surrounded by steep, curved walls. All the characters’ actions take place trapped at the bottom of this literal bowl.&lt;/p&gt;
-
-&lt;p&gt;It’s an assured choice of staging which gets across Jess’ feeling of being captive in her own body well,  as well as being an astute metaphor for the economic woes afflicting the entire Space Coast as the shuttle program winds down.&lt;/p&gt;
-
-&lt;p&gt;This world only ever springs to life during Jess’ VR therapy sessions. The plain walls become a canvas for lavish outdoor scenes: from glassy lakes to snow-covered mountains. The video projection and lighting spectacular used to convey these therapy sessions is nothing short of an extravagant visual achievement.&lt;/p&gt;
-
-&lt;p&gt;Jess struggles to reconnect with her family and old friends, all the while taking refuge in astounding virtual wonderlands.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/ugly_2.jpg&quot; /&gt;
-&lt;figcaption&gt;Kate Fleetwood as Jess. Photo: Mark Douet&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;It eventually becomes clear to Jess that despite its initial appeal, the virtual world has its limits. The well-meaning doctor who administers the therapy is remains unseen apart from her voice, perhaps hinting at the lack of any genuine human connection to be found in it.&lt;/p&gt;
-
-&lt;p&gt;It’s clear to the audience from the outset that the virtual world is incomplete, so it doesn’t come as much of a surprise to us when Jess catches on.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Ugly Lies the Bone&lt;/em&gt; fizzles away without any firm conclusion or catharsis. What message are we to take away from it?&lt;/p&gt;
-
-&lt;p&gt;This understated ending is almost certainly a commentary on the nature of Jess’ recovery. there are no simple solutions or answers to be found - everything is a process.&lt;/p&gt;
-
-&lt;p&gt;Bit by bit, she will get better.&lt;/p&gt;</content><summary type="html">The National Theatre’s new production follows a wounded veteran, Jess, as she returns to her family home on the Florida coast on the eve of the final space shuttle launch, and experiments with a pioneering new virtual reality therapy to heal her emotional trauma.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/ugly_1.jpg" /></entry></feed>
+&lt;p&gt;It will also enable the later development of a cross-platform mobile application, which will automatically fetch content from the website database using the Wordpress REST API.&lt;/p&gt;</content><summary type="html">As part of my role as student media coordinator, I initiated a ground-up rebuild of Smoke Media’s web presence in 2016.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/work1.jpg" /></entry></feed>
