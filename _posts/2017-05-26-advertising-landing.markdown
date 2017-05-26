@@ -3,7 +3,7 @@ layout: work
 title:  "Advertise with us"
 date:   2017-05-26 12:00:20 +0000
 categories: work digital UX
-outline: I designed, developed and tested a landing page to promote commercial services to clients.
+outline: I designed, developed and tested responsive landing pages for Westminster Students' Union to promote commercial services to clients.
 quick-facts:
   - Fully responsive
   - Parallax scroll and animation flourishes add interest and guide user journey
