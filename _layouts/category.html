@@ -13,7 +13,7 @@
     <section class="category-tiles">
       {% for post in site.categories.[page.category] %}
         <article class="category-tile">
-          <div class="image-holder" style="background-image: url('{{ post.image }}')">
+          <div class="image-holder" data-image-src="{{ post.image }}">
           </div>
           <h2>{{post.title}}</h2>
           <h5>{{ post.categories  | join:', ' | append:'' | remove:'work, '  }}</h5>
