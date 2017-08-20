@@ -90,4 +90,6 @@ Sites like StackOverflow and Github will become your best friend. There's no sha
 
 The popular culture version of a computer programmer - someone who works in isolation, hammering away on their keyboard - is a myth. In real life, coding is a collaborative, social activity, and people who lean on the experience and ideas of those around them generally make better coders.
 
-This is all to say that you should consider development as a community. Listen to podcasts, read articles, follow other developers on social media. If you have the opportunity, go to a conference!
+This is all to say that you should consider web development a community. Listen to podcasts, read articles, follow other developers on social media. If you have the opportunity, go to a conference!
+
+Listening to what other coders have to say is the best way to stay up to date, and to make sure that you never stop learning.
