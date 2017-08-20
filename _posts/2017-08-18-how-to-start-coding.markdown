@@ -48,7 +48,7 @@ If you are new to self-directed learning, take some time to consider whether you
 
 <figure>
   <img src="/uploads/coding_2.jpg"/>
-  <figcaption>Youtube channels like DevTips offer a suite of instructional videos targeted at beginners.</figcaption>
+  <figcaption>Youtube channels like DevTips and Mackenzie Child offer a suite of instructional videos targeted at beginners.</figcaption>
 </figure>
 
 It may be that you're learning to code with a particular objective in mind. Perhaps you want to sell something, advertise an organisation, or re-do an existing site? Personally, my initial objective was to learn enough to create a Wordpress theme for my student newspaper.
