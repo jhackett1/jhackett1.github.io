@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-20T23:13:33+01:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a journalist, digital content producer &amp; coder based in London.</subtitle><entry><title type="html">Three steps to learn to code, as a complete beginner</title><link href="http://localhost:4000/blog/2017/08/18/how-to-start-coding.html" rel="alternate" type="text/html" title="Three steps to learn to code, as a complete beginner" /><published>2017-08-19T00:35:20+01:00</published><updated>2017-08-19T00:35:20+01:00</updated><id>http://localhost:4000/blog/2017/08/18/how-to-start-coding</id><content type="html" xml:base="http://localhost:4000/blog/2017/08/18/how-to-start-coding.html">&lt;p&gt;There was a time where all you needed was a program like Dreamweaver and a domain name, and you could learn all there was to know about web development in a few days. Unfortunately, that’s no longer the case.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-20T23:26:18+01:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a journalist, digital content producer &amp; coder based in London.</subtitle><entry><title type="html">Three steps to learn to code, as a complete beginner</title><link href="http://localhost:4000/blog/2017/08/18/how-to-start-coding.html" rel="alternate" type="text/html" title="Three steps to learn to code, as a complete beginner" /><published>2017-08-19T00:35:20+01:00</published><updated>2017-08-19T00:35:20+01:00</updated><id>http://localhost:4000/blog/2017/08/18/how-to-start-coding</id><content type="html" xml:base="http://localhost:4000/blog/2017/08/18/how-to-start-coding.html">&lt;p&gt;There was a time where all you needed was a program like Dreamweaver and a domain name, and you could learn all there was to know about web development in a few days. Unfortunately, that’s no longer the case.&lt;/p&gt;
 
 &lt;p&gt;Web development is now an incredibly diverse, active field, with new tricks and gadgets coming out daily and abandoned just as quickly. Professional web developers use a formidable mix of frameworks and tools that’s daunting to beginners. It’s easy to become paralysed by indecision - what should I learn first?&lt;/p&gt;
 
@@ -25,7 +25,7 @@
 
 &lt;p&gt;At this early stage, it doesn’t really matter what languages you learn. Modern programming languages have a lot of shared features (loops, variables, functions and so on), so no matter what your first language is, you’ll find it easier to learn your second, and so on.&lt;/p&gt;
 
-&lt;p&gt;You’ll also find that you make quick progress - you should be able to blast through a few of these courses over a weekend or a few evenings.&lt;/p&gt;
+&lt;p&gt;This initial stage is very swift - you should be able to blast through a few of these courses over a weekend or a few evenings.&lt;/p&gt;
 
 &lt;h1 id=&quot;stage-2-get-stuck-in-with-projects-and-tutorials&quot;&gt;Stage 2: Get stuck in with projects and tutorials&lt;/h1&gt;
 
@@ -58,9 +58,9 @@
 
 &lt;p&gt;Eventually, you’ll stop following tutorials by rote and start working on your own projects.&lt;/p&gt;
 
-&lt;p&gt;You’ll find that you stop relying on other people’s instructions and more on your own ingenuity. You’ll also find that the problems you have to solve will be bigger, and won’t throw up as many easily-googled answers.&lt;/p&gt;
+&lt;p&gt;You’ll find that you rely less on other people’s instructions and more on your own ingenuity. You’ll also find that the problems you have to solve will be bigger, and won’t throw up as many easily-googled answers.&lt;/p&gt;
 
-&lt;p&gt;It’s easy to solve common errors like “why is my CSS not working” or “what does Wordpress ‘Error establishing database connection’ mean”, but once you strike out on your own, &lt;strong&gt;the whole process is one big problem to be solved&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;It’s easy to solve common errors like “why is my CSS not working” or “what does Wordpress ‘Error establishing database connection’ mean”, but once you strike out on your own, &lt;strong&gt;your whole project is one big problem to be solved&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;You’ll find that as you gain experience, your problems will become less like “How do I…” and more like “What’s the &lt;strong&gt;best&lt;/strong&gt; way to do…”. In web development, there are often many ways to address a particular challenge, and creating good code is understanding which solution is the best fit.&lt;/p&gt;
 

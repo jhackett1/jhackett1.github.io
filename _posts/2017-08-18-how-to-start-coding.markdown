@@ -34,7 +34,7 @@ Once you've learned those basics, Javascript is as good as any language to learn
 
 At this early stage, it doesn't really matter what languages you learn. Modern programming languages have a lot of shared features (loops, variables, functions and so on), so no matter what your first language is, you'll find it easier to learn your second, and so on.
 
-You'll also find that you make quick progress - you should be able to blast through a few of these courses over a weekend or a few evenings.
+This initial stage is very swift - you should be able to blast through a few of these courses over a weekend or a few evenings.
 
 
 Stage 2: Get stuck in with projects and tutorials
@@ -71,9 +71,9 @@ Stage 3: Research problems the smart way and start gaining experience
 
 Eventually, you'll stop following tutorials by rote and start working on your own projects.
 
-You'll find that you stop relying on other people's instructions and more on your own ingenuity. You'll also find that the problems you have to solve will be bigger, and won't throw up as many easily-googled answers.
+You'll find that you rely less on other people's instructions and more on your own ingenuity. You'll also find that the problems you have to solve will be bigger, and won't throw up as many easily-googled answers.
 
-It's easy to solve common errors like "why is my CSS not working" or "what does Wordpress 'Error establishing database connection' mean", but once you strike out on your own, **the whole process is one big problem to be solved**.
+It's easy to solve common errors like "why is my CSS not working" or "what does Wordpress 'Error establishing database connection' mean", but once you strike out on your own, **your whole project is one big problem to be solved**.
 
 You'll find that as you gain experience, your problems will become less like "How do I..." and more like "What's the **best** way to do...". In web development, there are often many ways to address a particular challenge, and creating good code is understanding which solution is the best fit.
 
