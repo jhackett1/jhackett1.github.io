@@ -1,4 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-02T15:25:41+01:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a journalist, digital content producer &amp; coder based in London.</subtitle><entry><title type="html">Common - NT’s new epic stays firmly stuck to the ground</title><link href="http://localhost:4000/blog/review/2017/06/02/common.html" rel="alternate" type="text/html" title="Common - NT's new epic stays firmly stuck to the ground" /><published>2017-06-02T13:00:00+01:00</published><updated>2017-06-02T13:00:00+01:00</updated><id>http://localhost:4000/blog/review/2017/06/02/common</id><content type="html" xml:base="http://localhost:4000/blog/review/2017/06/02/common.html">&lt;p&gt;The star occupant of the NT’s Olivier Theatre for the next few months is &lt;em&gt;Common&lt;/em&gt;, a co-production with the lauded Headlong Theatre which bills itself as “an epic tale of England’s lost land”.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-20T23:06:06+01:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a journalist, digital content producer &amp; coder based in London.</subtitle><entry><title type="html">Three steps to learn to code, as a complete beginner</title><link href="http://localhost:4000/blog/2017/08/18/how-to-start-coding.html" rel="alternate" type="text/html" title="Three steps to learn to code, as a complete beginner" /><published>2017-08-19T00:35:20+01:00</published><updated>2017-08-19T00:35:20+01:00</updated><id>http://localhost:4000/blog/2017/08/18/how-to-start-coding</id><content type="html" xml:base="http://localhost:4000/blog/2017/08/18/how-to-start-coding.html">&lt;p&gt;There was a time where all you needed was a program like Dreamweaver and a domain name, and you could learn all there was to know about web development in a few days. Unfortunately, that’s no longer the case.&lt;/p&gt;
+
+&lt;p&gt;Web development is now an incredibly diverse, active field, with new tricks and gadgets coming out daily and abandoned just as quickly. Professional web developers use a formidable mix of frameworks and tools that’s daunting to beginners. It’s easy to become paralysed by indecision - what should I learn first?&lt;/p&gt;
+
+&lt;p&gt;Luckily, as coding itself becomes more varied, the resources available to total beginners are also better than ever. Best of all, most of these &lt;strong&gt;don’t cost a penny&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here are the three stages of learning I went through over the past four years, taking me from a complete novice who’d never written a line of code to someone comfortable with a range of modern web technologies.&lt;/p&gt;
+
+&lt;h1 id=&quot;stage-1-learn-your-first-language-with-interactive-lessons&quot;&gt;Stage 1: Learn your first language with interactive lessons&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://codecademy.com&quot;&gt;Codecademy&lt;/a&gt; is one of a growing number of sites which offer free, basic courses in a variety of coding languages.&lt;/p&gt;
+
+&lt;p&gt;It’s a powerful tool for learning because it’s &lt;em&gt;interactive&lt;/em&gt;. If you make a mistake, it’s easy to work out exactly how to fix it.&lt;/p&gt;
+
+&lt;p&gt;Sites that offer only non-interactive video lessons often stump complete beginners - learners might have different software versions to an instructor, and get frustrated when things don’t work as described. Codecademy avoids this problem with a code editor and preview right there in the browser.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/uploads/coding_3.jpg&quot; /&gt;
+  &lt;figcaption&gt;The Codecademy interface makes it difficult to get stuck.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The basic HTML and CSS courses are a great place to start. While you can’t build a full-fledged web application with HTML and CSS alone, you &lt;em&gt;can&lt;/em&gt; produce great looking websites, and knowing HTML and CSS is a vital prerequisite for learning a ‘proper’ language like PHP, Javascript or Ruby.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve learned those basics, Javascript is as good as any language to learn next. It’s Javascript that enables the rich interactive experiences we’ve become used to on the web.&lt;/p&gt;
+
+&lt;p&gt;At this early stage, it doesn’t really matter what languages you learn. Modern programming languages have a lot of shared features (loops, variables, functions and so on), so no matter what your first language is, you’ll find it easier to learn your second, and so on.&lt;/p&gt;
+
+&lt;p&gt;You’ll also find that you make quick progress - you should be able to blast through a few of these courses over a weekend or a few evenings.&lt;/p&gt;
+
+&lt;h1 id=&quot;stage-2-get-stuck-in-with-projects-and-tutorials&quot;&gt;Stage 2: Get stuck in with projects and tutorials&lt;/h1&gt;
+
+&lt;p&gt;You can learn the basics of a programming language in a matter of hours. Once you have that down, the next stage is to apply that understanding to real-world projects. That means tutorials.&lt;/p&gt;
+
+&lt;p&gt;Lots of tutorials.&lt;/p&gt;
+
+&lt;p&gt;If you are new to self-directed learning, take some time to consider whether you learn best from written articles or video lessons.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/uploads/coding_2.jpg&quot; /&gt;
+  &lt;figcaption&gt;Youtube channels like DevTips offer a suite of instructional videos targeted at beginners.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It may be that you’re learning to code with a particular objective in mind. Perhaps you want to sell something, advertise an organisation, or re-do an existing site? Personally, my initial objective was to learn enough to create a Wordpress theme for my student newspaper.&lt;/p&gt;
+
+&lt;p&gt;If you have an objective set out, you should seek out tutorials that relate to it. You might even find a tutorial that accomplishes exactly what you want to do. If you can’t, don’t worry, because every tutorial will expand your knowledge in a way you can apply to your later work.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;q&gt;You may even run across people who are surprised you're not using the latest cutting-edge framework or tool in your work. Ignore these people.&lt;/q&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Motivation often flags during this stage. The quick results and ‘aha’ moments of learning a new language for the first time don’t happen as often. It’s vital to go at your own pace and only do tutorials you find fun or interesting.&lt;/p&gt;
+
+&lt;p&gt;You can keep your motivation up by exploring at the work of others. Publications like &lt;a href=&quot;http://www.creativebloq.com/net-magazine&quot;&gt;Net magazine&lt;/a&gt;, and podcasts like the &lt;a href=&quot;http://5by5.tv/bigwebshow&quot;&gt;Big Web Show&lt;/a&gt; showcase a diversity of successful web projects, and can help you avoid getting stuck in a rut.&lt;/p&gt;
+
+&lt;p&gt;Depending on your pace, this stage might last a few weeks, to a few months, to upwards of a year.&lt;/p&gt;
+
+&lt;p&gt;Lastly, it’s important to keep a sense of perspective. Web development has only been around for just over a decade. It’s an incredibly fast-moving industry, with a ton of new frameworks, tools, trends released every month. Try not to be overwhelmed and distracted by all the noise: focus on your own goals and learning plan.&lt;/p&gt;
+
+&lt;h1 id=&quot;stage-3-research-problems-the-smart-way-and-start-gaining-experience&quot;&gt;Stage 3: Research problems the smart way and start gaining experience&lt;/h1&gt;
+
+&lt;p&gt;Eventually, you’ll stop following tutorials by rote and start working on your own projects.&lt;/p&gt;
+
+&lt;p&gt;You’ll find that you stop relying on other people’s instructions and more on your own ingenuity. You’ll also find that the problems you have to solve will be bigger, and won’t throw up as many easily-googled answers.&lt;/p&gt;
+
+&lt;p&gt;It’s easy to solve common errors like “why is my CSS not working” or “what does Wordpress ‘Error establishing database connection’ mean”, but once you strike out on your own, &lt;strong&gt;the whole process is one big problem to be solved&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;You’ll find that as you gain experience, your problems will become less like “How do I…” and more like “What’s the &lt;strong&gt;best&lt;/strong&gt; way to do…”. In web development, there are often many ways to address a particular challenge, and creating good code is understanding which solution is the best fit.&lt;/p&gt;
+
+&lt;p&gt;Encountering problems can be very frustrating as a beginner, but once you get to this stage, you’ll start to enjoy thinking your way around each challenge.&lt;/p&gt;
+
+&lt;p&gt;At this stage, the best measure of your ability as a coder isn’t knowledge - it’s &lt;em&gt;experience&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sites like StackOverflow and Github will become your best friend. There’s no shame in keeping forums and reference material close by while you code. No one’s brain is big enough to hold an entire language or framework in their head, no matter what they say.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/uploads/coding_4.jpg&quot; /&gt;
+  &lt;figcaption&gt;StackOverflow and Github are two great resources for coders of all kinds.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The popular culture version of a computer programmer - someone who works in isolation, hammering away on their keyboard - is a myth. In real life, coding is a collaborative, social activity, and people who lean on the experience and ideas of those around them generally make better coders.&lt;/p&gt;
+
+&lt;p&gt;This is all to say that you should consider development as a community. Listen to podcasts, read articles, follow other developers on social media. If you have the opportunity, go to a conference!&lt;/p&gt;</content><summary type="html">There was a time where all you needed was a program like Dreamweaver and a domain name, and you could learn all there was to know about web development in a few days. Unfortunately, that’s no longer the case.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/coding_1.jpg" /></entry><entry><title type="html">Common - NT’s new epic stays firmly stuck to the ground</title><link href="http://localhost:4000/blog/review/2017/06/02/common.html" rel="alternate" type="text/html" title="Common - NT's new epic stays firmly stuck to the ground" /><published>2017-06-02T13:00:00+01:00</published><updated>2017-06-02T13:00:00+01:00</updated><id>http://localhost:4000/blog/review/2017/06/02/common</id><content type="html" xml:base="http://localhost:4000/blog/review/2017/06/02/common.html">&lt;p&gt;The star occupant of the NT’s Olivier Theatre for the next few months is &lt;em&gt;Common&lt;/em&gt;, a co-production with the lauded Headlong Theatre which bills itself as “an epic tale of England’s lost land”.&lt;/p&gt;
 
 &lt;p&gt;The main thrust of the plot is a brewing class war over the impending Enclosure Act, which will take away the remaining common land and restrict its use to owners. Against this setting, Anne-Marie Duff’s Mary returns to the rural land of her birth, where everyone thinks her long-dead.&lt;/p&gt;
 
@@ -214,19 +293,4 @@
 
 &lt;p&gt;The application relies on a Websockets server written in node.js, and accepts commands issued from a browser control panel. It is compatible with all major video live streaming software, including Wirecast and Open Broadcast Software.&lt;/p&gt;
 
-&lt;p&gt;Future versions of Brooker CG will incorporate live infographics, charts and direct integration with social media feeds.&lt;/p&gt;</content><summary type="html">Brooker CG (character generator) is a tool designed to make broadcast-quality graphics easy and straightforward to achieve for student television volunteers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/brooker_1.jpg" /></entry><entry><title type="html">Smoke Radio broadcast rebuild</title><link href="http://localhost:4000/work/digital/ux/2017/02/09/Smoke-radio-broadcast-rebuild.html" rel="alternate" type="text/html" title="Smoke Radio broadcast rebuild" /><published>2017-02-09T23:35:20+00:00</published><updated>2017-02-09T23:35:20+00:00</updated><id>http://localhost:4000/work/digital/ux/2017/02/09/Smoke-radio-broadcast-rebuild</id><content type="html" xml:base="http://localhost:4000/work/digital/ux/2017/02/09/Smoke-radio-broadcast-rebuild.html">&lt;p&gt;Smoke Radio is one of the top student radio stations in the UK, involving nearly one hundred students every year and broadcasting 24/7. They took home the Student Radio Association’s award for best station in 2015, and were shortlisted again in 2016.&lt;/p&gt;
-
-&lt;p&gt;When I became student media coordinator in early 2016, the station was facing several issues with its broadcast infrastructure. The media server being used relied on Flash, which has virtually no mobile support and rapidly declining desktop support. This massively limited the potential audience.&lt;/p&gt;
-
-&lt;p&gt;The station operates across all four of the University of Westminster’ campuses, with studios in central London and up in Harrow. However, taking a different studio live was time-consuming and difficult, so rarely done, again limiting participation and membership on particular campuses.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/uploads/radio_2.jpg&quot; /&gt;
-  &lt;figcaption&gt;Smoke Radio's implementation of the Airtime system.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I replaced the existing proprietary media server with two pieces of open-source software. For basic streaming, I went with Icecast, which is the gold standard for audio webcasting. It supports MP3 as well as higher efficiency codecs like AAC, and does not rely on Flash. This streaming protocol is also compatible with hardware audio decoders, and these are now being obtained and installed in social areas on campus, to improve listenership and brand awareness.&lt;/p&gt;
-
-&lt;p&gt;Icecast was controlled by the second piece of software, Airtime. Airtime functions as a central scheduling and playout manager. Media can be uploaded and connections to various studios established, and so live shows, pre-recorded shows and outside broadcasts can be made according to a single central calendar. Switchover became automated and hassle-free.&lt;/p&gt;
-
-&lt;p&gt;These upgrades also laid crucial groundwork for a cross-platform mobile app for on-the-go listening.&lt;/p&gt;</content><summary type="html">Smoke Radio is one of the top student radio stations in the UK, involving nearly one hundred students every year and broadcasting 24/7. They took home the Student Radio Association’s award for best station in 2015, and were shortlisted again in 2016.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/radio_1.jpg" /></entry></feed>
+&lt;p&gt;Future versions of Brooker CG will incorporate live infographics, charts and direct integration with social media feeds.&lt;/p&gt;</content><summary type="html">Brooker CG (character generator) is a tool designed to make broadcast-quality graphics easy and straightforward to achieve for student television volunteers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/brooker_1.jpg" /></entry></feed>
