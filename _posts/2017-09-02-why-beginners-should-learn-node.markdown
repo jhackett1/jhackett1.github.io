@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why beginners should learn Node"
-date:   2017-08-18 23:35:20 +0000
+date:   2020-08-18 23:35:20 +0000
 categories: blog
 image: /uploads/node_1.jpg
 ---
