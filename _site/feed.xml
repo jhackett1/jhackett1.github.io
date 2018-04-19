@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-04T00:31:59+00:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a web developer and digital content producer based in London.</subtitle><entry><title type="html">Network - Bryan Cranston is prophet of the airwaves</title><link href="http://localhost:4000/blog/review/2018/01/03/network.html" rel="alternate" type="text/html" title="Network - Bryan Cranston is prophet of the airwaves" /><published>2018-01-03T23:35:20+00:00</published><updated>2018-01-03T23:35:20+00:00</updated><id>http://localhost:4000/blog/review/2018/01/03/network</id><content type="html" xml:base="http://localhost:4000/blog/review/2018/01/03/network.html">&lt;p&gt;Adapting the 1976 satirical film of the same name, &lt;em&gt;Network&lt;/em&gt; follows TV newsreader Howard Beale, whose bosses discover that his increasingly unhinged on-air rants may hold the key to their ratings success.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-16T23:02:57+01:00</updated><id>http://localhost:4000//</id><title type="html">Joshua Hackett</title><subtitle>I'm a web developer and digital content producer based in London.</subtitle><entry><title type="html">Rockpool modernisation</title><link href="http://localhost:4000/work/digital/2018/04/01/rockpool.html" rel="alternate" type="text/html" title="Rockpool modernisation" /><published>2018-04-02T00:35:20+01:00</published><updated>2018-04-02T00:35:20+01:00</updated><id>http://localhost:4000/work/digital/2018/04/01/rockpool</id><content type="html" xml:base="http://localhost:4000/work/digital/2018/04/01/rockpool.html">&lt;p&gt;Working with a UX designer, I delivered a bespoke Wordpress theme and several plugins, integrated with external platforms like Salesforce.&lt;/p&gt;
+
+&lt;p&gt;I made use of the new Wordpress editor - Gutenberg - to give Rockpool the ability to create rich, creatively-designed pages without needing to write any code.&lt;/p&gt;
+
+&lt;p&gt;Using the React-based Gutenberg API, I produced a variety of reusable “blocks” deployable on any page.&lt;/p&gt;</content><summary type="html">Working with a UX designer, I delivered a bespoke Wordpress theme and several plugins, integrated with external platforms like Salesforce.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/rockpool_1.jpg" /></entry><entry><title type="html">Network - Bryan Cranston is prophet of the airwaves</title><link href="http://localhost:4000/blog/review/2018/01/03/network.html" rel="alternate" type="text/html" title="Network - Bryan Cranston is prophet of the airwaves" /><published>2018-01-03T23:35:20+00:00</published><updated>2018-01-03T23:35:20+00:00</updated><id>http://localhost:4000/blog/review/2018/01/03/network</id><content type="html" xml:base="http://localhost:4000/blog/review/2018/01/03/network.html">&lt;p&gt;Adapting the 1976 satirical film of the same name, &lt;em&gt;Network&lt;/em&gt; follows TV newsreader Howard Beale, whose bosses discover that his increasingly unhinged on-air rants may hold the key to their ratings success.&lt;/p&gt;
 
 &lt;p&gt;Lee Hall’s adaptation expertly blends on-stage action with both live and pre-recorded video. The mechanism is exploited to its logical extreme - taken even further than Andrew Scott’s Hamlet earlier this year, itself credited with creative use of video.&lt;/p&gt;
 
@@ -8,7 +12,7 @@
 
 &lt;figure&gt;
   &lt;img src=&quot;/uploads/network_2.jpg&quot; /&gt;
-  &lt;figcaption&gt;PJ Harvey at Field Day 2016.&lt;/figcaption&gt;
+  &lt;figcaption&gt;Howard Beale's production gallery team. Photo: Jan Versweyveld&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Bryan Cranston delights as “prophet of the airwaves” Howard Beale, bringing gravity and authenticity to a role that could easily come off as a melodramatic know-it-all in the wrong actor’s hands.&lt;/p&gt;
@@ -25,7 +29,7 @@
 
 &lt;figure&gt;
   &lt;img src=&quot;/uploads/network_1.jpg&quot; /&gt;
-  &lt;figcaption&gt;PJ Harvey at Field Day 2016.&lt;/figcaption&gt;
+  &lt;figcaption&gt;Bryan Cranston in Network. Photo: Jan Versweyveld&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;em&gt;Network&lt;/em&gt; desperately wants to be up-to-date - to be seen telling harsh truths to millenials. It’s a point driven home by the inclusion of presidential inauguration footage leading up to the present day in the play’s coda.&lt;/p&gt;
@@ -36,43 +40,13 @@
 
 &lt;blockquote&gt;&lt;q&gt;Network desperately wants to be up-to-date - to be seen telling harsh truths to millenials.&lt;/q&gt;&lt;/blockquote&gt;
 
-&lt;p&gt;With the cultural knowledge of the intervening forty years since those speeches were written, can we gain anything fresh from them? After all, virtually no one nowadays is surprised to discover that the media serves as much to shock as it does to educate.&lt;/p&gt;
+&lt;p&gt;With the cultural knowledge of the intervening forty years, can we be forgiven for considering them a little two-dimensional? Virtually no one nowadays is surprised to discover that the media serves as much to shock as it does to educate.&lt;/p&gt;
 
 &lt;p&gt;If any one idea in Network remains germaine today, it is that the medium is &lt;em&gt;not&lt;/em&gt; the message. Television is just a temporary way of expressing the emotions, neuroses and concerned that already exist inside us.&lt;/p&gt;
 
 &lt;p&gt;Who knows how we’ll look back on social media in forty years?&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;This review was also published in London Student in Jan 2018.&lt;/em&gt;&lt;/p&gt;</content><summary type="html">Adapting the 1976 satirical film of the same name, Network follows TV newsreader Howard Beale, whose bosses discover that his increasingly unhinged on-air rants may hold the key to their ratings success.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/network_3.jpg" /></entry><entry><title type="html">Why beginners should learn Node</title><link href="http://localhost:4000/blog/2017/08/18/why-beginners-should-learn-node.html" rel="alternate" type="text/html" title="Why beginners should learn Node" /><published>2017-08-19T00:35:20+01:00</published><updated>2017-08-19T00:35:20+01:00</updated><id>http://localhost:4000/blog/2017/08/18/why-beginners-should-learn-node</id><content type="html" xml:base="http://localhost:4000/blog/2017/08/18/why-beginners-should-learn-node.html">&lt;h1 id=&quot;its-easy-to-get-started&quot;&gt;It’s easy to get started&lt;/h1&gt;
-
-&lt;p&gt;Javascript is often the third language new coders learn, after they get comfortable with HTML and CSS, and start to think more about adding interactivity to their websites.&lt;/p&gt;
-
-&lt;p&gt;Node is coded in Java&lt;/p&gt;
-
-&lt;h1 id=&quot;it-lets-you-grasp-asynchronous-functions&quot;&gt;It lets you grasp asynchronous functions&lt;/h1&gt;
-
-&lt;p&gt;New coders often assume that programs run from top to bottom, one line at a time. The first line of code you write is executed first, and so on.&lt;/p&gt;
-
-&lt;p&gt;This is true enough for very simple programs, but once you start to make use of functions, you’ll find that it doesn’t necessarily have to be.&lt;/p&gt;
-
-&lt;p&gt;Node is what we call single-threaded: it does only one thing at once. If Node needs to do something that takes time, say, send a HTTP request to a remote server and do something with the response, it will wait around doing nothing until the response comes back. That’s a terrible experience for users, because your app will appear to freeze, becoming non-responsive to all user action.&lt;/p&gt;
-
-&lt;p&gt;To combat this, Node programs make liberal use of &lt;em&gt;callbacks&lt;/em&gt; - functions containing code you want to run when requirements are met, not before. By putting the code you want to run later inside a callback, you free up Node to do other things while it’s waiting.&lt;/p&gt;
-
-&lt;p&gt;Let’s say that you want to fetch a list of users from your app’s database and display them in a table. You might make a request to the database in a function, but to keep your app responsive in the meantime, you’ll drop the code to actually handle and display the list response in a callback.&lt;/p&gt;
-
-&lt;p&gt;It’s exceedingly rare for node programs to run from top to bottom - functions trigger callbacks which in turn trigger other callbacks. Learning how to structure a program that works in this manner can be incredibly eye-opening for novices. It’s a great gateway to explore how large, mature programs work.&lt;/p&gt;
-
-&lt;h1 id=&quot;small-modules-give-results-fast&quot;&gt;Small modules give results fast&lt;/h1&gt;
-
-&lt;p&gt;Pad-left&lt;/p&gt;
-
-&lt;h1 id=&quot;the-community&quot;&gt;The community&lt;/h1&gt;
-
-&lt;p&gt;Despite a recent high-profile falling out in the node community&lt;/p&gt;
-
-&lt;h1 id=&quot;learn-what-node-isnt-geared-for&quot;&gt;Learn what node &lt;em&gt;isn’t&lt;/em&gt; geared for&lt;/h1&gt;
-
-&lt;p&gt;Node is popular with hobbyists working on small-scale and personal projects because it is so easy to get up and running, and modules allow novices to achieve complex functionality without much pain.&lt;/p&gt;</content><summary type="html">It’s easy to get started</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/node_1.jpg" /></entry><entry><title type="html">Three steps to learn to code, as a complete beginner</title><link href="http://localhost:4000/blog/2017/08/18/how-to-start-coding.html" rel="alternate" type="text/html" title="Three steps to learn to code, as a complete beginner" /><published>2017-08-19T00:35:20+01:00</published><updated>2017-08-19T00:35:20+01:00</updated><id>http://localhost:4000/blog/2017/08/18/how-to-start-coding</id><content type="html" xml:base="http://localhost:4000/blog/2017/08/18/how-to-start-coding.html">&lt;p&gt;There was a time where all you needed was a program like Dreamweaver and a domain name, and you could learn all there was to know about web development in a few days. Unfortunately, that’s no longer the case.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This review was also published in London Student in Jan 2018.&lt;/em&gt;&lt;/p&gt;</content><summary type="html">Adapting the 1976 satirical film of the same name, Network follows TV newsreader Howard Beale, whose bosses discover that his increasingly unhinged on-air rants may hold the key to their ratings success.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/network_3.jpg" /></entry><entry><title type="html">Three steps to learn to code, as a complete beginner</title><link href="http://localhost:4000/blog/2017/08/18/how-to-start-coding.html" rel="alternate" type="text/html" title="Three steps to learn to code, as a complete beginner" /><published>2017-08-19T00:35:20+01:00</published><updated>2017-08-19T00:35:20+01:00</updated><id>http://localhost:4000/blog/2017/08/18/how-to-start-coding</id><content type="html" xml:base="http://localhost:4000/blog/2017/08/18/how-to-start-coding.html">&lt;p&gt;There was a time where all you needed was a program like Dreamweaver and a domain name, and you could learn all there was to know about web development in a few days. Unfortunately, that’s no longer the case.&lt;/p&gt;
 
 &lt;p&gt;Web development is now an incredibly diverse, active field, with new tricks and gadgets coming out daily and abandoned just as quickly. Professional web developers use a formidable mix of frameworks and tools that’s daunting to beginners. It’s easy to become paralysed by indecision - what should I learn first?&lt;/p&gt;
 
